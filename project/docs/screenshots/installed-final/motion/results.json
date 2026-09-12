@@ -1,0 +1,50 @@
+{
+  "at": "2026-09-08T04:35:09.432Z",
+  "kind": "Actual packaged Windows EXE; no model invoked",
+  "executable": "C:\\new cosmos\\test-results\\installed-app\\EGE Cosmos.exe",
+  "source": "COSMOS_EXE installed application",
+  "appAsarSha256": "97817af489d33de595e4ca469a52292b6cd52fd02991d38b97c48a2dbc0266c3",
+  "errors": [],
+  "decorativeBackgroundDisabledThroughSettings": true,
+  "rectangle": {
+    "motions": [
+      {
+        "property": "opacity",
+        "state": "paused",
+        "time": 211.4340000000002,
+        "end": 650
+      },
+      {
+        "property": "opacity",
+        "state": "paused",
+        "time": 211.4340000000002,
+        "end": 650
+      },
+      {
+        "property": "stroke-dashoffset",
+        "state": "paused",
+        "time": 211.4340000000002,
+        "end": 1400
+      }
+    ],
+    "pausedPixelsEqual": true,
+    "resumedPixelsChanged": true
+  },
+  "keyboardAndOutline": true,
+  "median": {
+    "pausedX": 385.135,
+    "endX": 360,
+    "pausedPixelsEqual": true,
+    "resumedPixelsChanged": true
+  },
+  "narrow": {
+    "viewport": {
+      "width": 604,
+      "height": 844
+    },
+    "overflow": false
+  },
+  "focus": true,
+  "reformIntermediate": true,
+  "passed": true
+}

@@ -1,0 +1,242 @@
+.semantic-task-board {
+  container-type: inline-size;
+  --sb-cyan: #7bdce4;
+  --sb-gold: #e6c684;
+  min-width: 0;
+}
+.semantic-task-board .card-top {
+  gap: 12px;
+  align-items: flex-start;
+}
+.semantic-task-board .mini-tag {
+  white-space: nowrap;
+}
+.sb-body {
+  margin-top: 24px;
+}
+.sb-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+.sb-facts-1 {
+  grid-template-columns: minmax(0, 1fr);
+}
+.sb-fact {
+  position: relative;
+  min-width: 0;
+  padding: 23px;
+  border: 1px solid #59496f;
+  border-radius: 19px;
+  background: linear-gradient(150deg, #302443, #1a1625);
+  overflow: hidden;
+  transition:
+    background-color 500ms,
+    border-color 500ms,
+    transform 700ms;
+}
+.sb-fact::after {
+  content: '';
+  height: 3px;
+  background: var(--sb-cyan);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 1800ms linear;
+}
+.sb-fact[data-highlight='true']::after {
+  transform: scaleX(1);
+}
+.sb-fact[data-highlight='true'] {
+  border-color: #8b77ac;
+}
+.sb-fact-icon {
+  width: 58px;
+  height: 58px;
+  display: grid;
+  place-items: center;
+  border-radius: 16px;
+  color: var(--sb-cyan);
+  background: #46697427;
+  margin-bottom: 17px;
+  transition:
+    transform 1500ms ease,
+    color 600ms;
+}
+.sb-fact[data-highlight='true'] .sb-fact-icon {
+  transform: translateY(-3px) rotate(-5deg);
+}
+.sb-fact-seller .sb-fact-icon,
+.sb-fact-date .sb-fact-icon {
+  color: var(--sb-gold);
+  background: #7e633f27;
+}
+.sb-fact-person .sb-fact-icon {
+  color: #baa0ec;
+}
+.sb-label,
+.sb-source-label {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #b6a3d3;
+  font-weight: 700;
+}
+.sb-fact p {
+  font-size: calc(20px * var(--text-scale, 1));
+  line-height: 1.55;
+  margin: 10px 0 0;
+  overflow-wrap: anywhere;
+  color: var(--text, #f0e7ff);
+}
+.sb-fact-expression p {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: calc(28px * var(--text-scale, 1));
+}
+.sb-fact mark {
+  color: inherit;
+  background: transparent;
+  border-radius: 5px;
+  padding: 0 2px;
+  transition:
+    background-color 600ms,
+    color 600ms;
+}
+.sb-fact[data-highlight='true'] mark {
+  color: #142b34;
+  background: var(--sb-cyan);
+}
+.sb-sentence-art {
+  padding: 20px;
+  border-radius: 18px;
+  background: #211a2e;
+  border: 1px solid #4a3a62;
+}
+.sb-sentence {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin-top: 20px;
+  padding-bottom: 13px;
+}
+.sb-word {
+  padding: 10px 13px;
+  font-size: calc(23px * var(--text-scale, 1));
+  line-height: 1.4;
+  color: #eee6ff;
+  background: #342844;
+  border: 1px solid #605074;
+  border-radius: 11px;
+  transform: translateY(0);
+  transition:
+    transform 700ms,
+    background-color 700ms,
+    border-color 700ms;
+}
+.sb-word[data-part='1'] {
+  border-bottom: 3px solid #d4b976;
+}
+.sb-word[data-highlight='true'] {
+  transform: translateY(-3px);
+}
+.sb-word[data-focus='true'] {
+  color: var(--sb-cyan);
+  border-color: var(--sb-cyan);
+  background: #2c4552;
+}
+.sb-seeking {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  color: #dacdf0;
+  font-size: 15px;
+  margin-top: 12px;
+}
+.sb-question {
+  display: flex;
+  gap: 14px;
+  margin-top: 25px;
+  padding: 18px;
+  border: 1px solid transparent;
+  border-radius: 16px;
+  transition:
+    border-color 550ms,
+    background-color 550ms;
+}
+.sb-question > svg {
+  flex-shrink: 0;
+  color: var(--sb-cyan);
+  margin-top: 3px;
+}
+.sb-question[data-focus='true'] {
+  border-color: #6592a4;
+  background: #29425133;
+}
+.semantic-task-board .sb-question h2 {
+  font-size: calc(21px * var(--text-scale, 1));
+  line-height: 1.5;
+  margin: 7px 0 0;
+  overflow-wrap: anywhere;
+}
+.semantic-task-board .sb-guidance {
+  margin: 6px 18px 22px;
+  font-size: calc(15px * var(--text-scale, 1));
+  line-height: 1.65;
+}
+.semantic-task-board.sb-still *,
+.semantic-task-board.sb-still *::before,
+.semantic-task-board.sb-still *::after {
+  animation: none !important;
+  transition: none !important;
+}
+.semantic-task-board.sb-quality-low .sb-fact {
+  background: #21192e;
+}
+.semantic-task-board .task-board-controls {
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.semantic-task-board:focus-visible {
+  outline: 2px solid var(--sb-cyan);
+  outline-offset: 3px;
+}
+@container (max-width:510px) {
+  .sb-facts {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .sb-fact {
+    padding: 17px;
+  }
+  .sb-fact p {
+    font-size: 18px;
+  }
+  .sb-word {
+    font-size: 20px;
+    padding: 8px 10px;
+  }
+  .sb-sentence-art {
+    padding: 16px;
+  }
+  .semantic-task-board .sb-question h2 {
+    font-size: 19px;
+  }
+  .sb-question {
+    padding: 12px;
+    gap: 10px;
+  }
+  .semantic-task-board .mini-tag {
+    font-size: 10px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .semantic-task-board *,
+  .semantic-task-board *::before,
+  .semantic-task-board *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

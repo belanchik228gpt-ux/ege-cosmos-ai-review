@@ -1,0 +1,2297 @@
+[
+  {
+    "id": "ege-history-1",
+    "subject": "history",
+    "code": "1",
+    "title": "От Руси к Российскому государству",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-1-1",
+    "subject": "history",
+    "code": "1.1",
+    "title": "Народы и государства на территории нашей страны в древности",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-2",
+    "subject": "history",
+    "code": "1.2",
+    "title": "Роль и место России в мировой истории. Периодизация и источники российской истории",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-3",
+    "subject": "history",
+    "code": "1.3",
+    "title": "Образование Руси: исторические условия образования государства Русь. Формирование территории. Внутренняя политика первых князей",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-4",
+    "subject": "history",
+    "code": "1.4",
+    "title": "Принятие христианства и его значение. Русь в конце X – начале XII в.: территория, органы власти, социальная структура, хозяйственный уклад, крупнейшие города. Новгород как центр освоения Севера Восточной Европы, освоение Русской равнины. Территориально-политическая структура Руси. Внутриполитическое развитие. Общественный строй Руси. Древнерусское право",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "Крещение Руси",
+      "988",
+      "Владимир"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1",
+    "lessonTopicId": "history-baptism",
+    "lessonTopicIds": [
+      "history-baptism"
+    ]
+  },
+  {
+    "id": "ege-history-1-5",
+    "subject": "history",
+    "code": "1.5",
+    "title": "Внешняя политика первых русских князей. Внешняя политика и международные связи Руси в конце X – начале XII в.",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-6",
+    "subject": "history",
+    "code": "1.6",
+    "title": "Культура средневековой Руси. Византийское наследие на Руси",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-7",
+    "subject": "history",
+    "code": "1.7",
+    "title": "Русь в середине XII – начале XIII в.: формирование системы земель – самостоятельных государств. Эволюция общественного строя и права. Политический строй Новгорода и Пскова. Внешняя политика русских земель в евразийском контексте",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-8",
+    "subject": "history",
+    "code": "1.8",
+    "title": "Русские земли в середине XIII – XIV в.: борьба Руси против монгольского нашествия. Судьбы русских земель после монгольского завоевания. Система зависимости русских земель от ордынских ханов. Борьба с экспансией крестоносцев на западных границах Руси. Возвышение Московского княжества. Московское княжество во главе борьбы русского народа против ордынского господства. Православная церковь в ордынский период русской истории",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-9",
+    "subject": "history",
+    "code": "1.9",
+    "title": "Народы и государства степной зоны Восточной Европы и Сибири в XIII– XV вв. Золотая Орда. Межкультурные связи и коммуникации",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-10",
+    "subject": "history",
+    "code": "1.10",
+    "title": "Формирование единого Русского государства в XV веке: объединение русских земель вокруг Москвы. Междоусобная война в Московском княжестве. Новгород и Псков в XV в. Падение Византии и рост церковно-политической роли Москвы в православном мире. Ликвидация зависимости от Орды. Расширение международных связей Московского государства. Принятие общерусского Судебника и учреждение герба.. Формирование единого аппарата управления",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-1-11",
+    "subject": "history",
+    "code": "1.11",
+    "title": "Формирование региональных центров культуры в середине XII – начале XIII в. Культурное пространство русских земель в середине XIII – XIV в. Культурное пространство единого государства",
+    "section": "От Руси к Российскому государству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-1"
+  },
+  {
+    "id": "ege-history-2",
+    "subject": "history",
+    "code": "2",
+    "title": "Россия в XVI–XVII вв.: от великого княжества к царству",
+    "section": "Россия в XVI–XVII вв.: от великого княжества к царству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-2-1",
+    "subject": "history",
+    "code": "2.1",
+    "title": "Россия в XVI в.: завершение объединения русских земель вокруг Москвы. Отмирание удельной системы. Укрепление великокняжеской власти. Сопротивление удельных князей. Органы государственной власти. Унификация денежной системы. Местничество. Государство и церковь. Реформы середины XVI в. Земские соборы. Формирование органов местного самоуправления. Социальная структура российского общества. Начало закрепощения крестьян. Формирование вольного казачества. Многонациональный состав населения. Опричнина: сущность, результаты и последствия. Россия в конце XVI в. Пресечение династии Рюриковичей",
+    "section": "Россия в XVI–XVII вв.: от великого княжества к царству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-2"
+  },
+  {
+    "id": "ege-history-2-2",
+    "subject": "history",
+    "code": "2.2",
+    "title": "Внешняя политика России в XVI в.",
+    "section": "Россия в XVI–XVII вв.: от великого княжества к царству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-2"
+  },
+  {
+    "id": "ege-history-2-3",
+    "subject": "history",
+    "code": "2.3",
+    "title": "Смута в России: Смутное время начала XVII в., причины, сущность и основные этапы.. Самозванцы и самозванство. Перерастание внутреннего кризиса в гражданскую войну. Вступление в войну против России Речи Посполитой. Подъём национально-освободительного движения. Освобождение Москвы в 1612 г. Земский собор 1613 г. и его роль в укреплении государственности. Итоги и последствия Смутного времени",
+    "section": "Россия в XVI–XVII вв.: от великого княжества к царству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-2"
+  },
+  {
+    "id": "ege-history-2-4",
+    "subject": "history",
+    "code": "2.4",
+    "title": "Россия в XVII в.: Россия при первых Романовых. Укрепление самодержавия. Церковный раскол. Экономическое развитие России в XVII в. Социальная структура российского общества. Русская деревня в XVII в. Юридическое оформление крепостного права. Социальные движения. Эпоха Великих географических открытий и русские географические открытия. Начало освоения Сибири и Дальнего Востока. Межэтнические отношения",
+    "section": "Россия в XVI–XVII вв.: от великого княжества к царству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-2"
+  },
+  {
+    "id": "ege-history-2-5",
+    "subject": "history",
+    "code": "2.5",
+    "title": "Внешняя политика России в XVII в.",
+    "section": "Россия в XVI–XVII вв.: от великого княжества к царству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-2"
+  },
+  {
+    "id": "ege-history-2-6",
+    "subject": "history",
+    "code": "2.6",
+    "title": "Культурное пространство России в XVI в. Культурное пространство России в XVII в. Развитие образования и научных знаний",
+    "section": "Россия в XVI–XVII вв.: от великого княжества к царству",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-2"
+  },
+  {
+    "id": "ege-history-3",
+    "subject": "history",
+    "code": "3",
+    "title": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-3-1",
+    "subject": "history",
+    "code": "3.1",
+    "title": "Россия в эпоху Петра I: Причины и предпосылки преобразований. Экономическая политика Петра I. Роль государства в создании промышленности. Социальная политика. Консолидация дворянского сословия, повышение его роли в управлении страной. Реформы управления. Создание регулярной армии, военного флота. Церковная реформа. Упразднение патриаршества. Оппозиция реформам Петра I. Социальные движения. Итоги, последствия и значение петровских преобразований",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-3"
+  },
+  {
+    "id": "ege-history-3-2",
+    "subject": "history",
+    "code": "3.2",
+    "title": "Внешняя политика Петра I. Северная война",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-3"
+  },
+  {
+    "id": "ege-history-3-3",
+    "subject": "history",
+    "code": "3.3",
+    "title": "Эпоха «дворцовых переворотов»: причины и сущность. Внутренняя и внешняя политика России в 1725–1762 гг.",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-3"
+  },
+  {
+    "id": "ege-history-3-4",
+    "subject": "history",
+    "code": "3.4",
+    "title": "Россия в 1760–1790-х гг.: «Просвещённый абсолютизм», его особенности в России. Политическое развитие. Промышленность. Финансы. Сельское хозяйство. Внутренняя и внешняя торговля. Социальный строй. Обострение социальных противоречий, их влияние на внутреннюю политику и развитие общественной мысли",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-3"
+  },
+  {
+    "id": "ege-history-3-5",
+    "subject": "history",
+    "code": "3.5",
+    "title": "Внешняя политика России в период правления Екатерины II, её основные задачи, направления, итоги",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-3"
+  },
+  {
+    "id": "ege-history-3-6",
+    "subject": "history",
+    "code": "3.6",
+    "title": "Народы России в XVIII в. Национальная политика",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 14,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-3"
+  },
+  {
+    "id": "ege-history-3-7",
+    "subject": "history",
+    "code": "3.7",
+    "title": "Внутренняя и внешняя политика Павла I. Ограничение дворянских привилегий",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-3"
+  },
+  {
+    "id": "ege-history-3-8",
+    "subject": "history",
+    "code": "3.8",
+    "title": "Преобразования Петра I в области культуры. Влияние идей Просвещения на культурное пространство Российской империи в XVIII в. Русская культура и культура народов России. Культура и быт российских сословий. Российская наука. Отечественное образование",
+    "section": "Россия в конце XVII – XVIII в.: от царства к империи",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-3"
+  },
+  {
+    "id": "ege-history-4",
+    "subject": "history",
+    "code": "4",
+    "title": "Российская империя в XIX – начале XX в.",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-4-1",
+    "subject": "history",
+    "code": "4.1",
+    "title": "Внутренняя политика Александра I в начале царствования. Проекты либеральных реформ. Негласный комитет. Реформы государственного управления. Либеральные и охранительные тенденции во внутренней политике. Движение и восстание декабристов",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-2",
+    "subject": "history",
+    "code": "4.2",
+    "title": "Внешняя политика России. Отечественная война 1812 г. – важнейшее событие отечественной и мировой истории XIX в. Россия – великая мировая держава",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-3",
+    "subject": "history",
+    "code": "4.3",
+    "title": "Внутренняя политика Николая I: реформаторские и консервативные тенденции. Социально-экономическое развитие России в первой половине XIX в. Рост городов. Начало промышленного переворота и его особенности в России. Кодификация права. Оформление официальной идеологии. Сословная структура российского общества. Крестьянский вопрос. Общественная жизнь в 1830–1850-е гг. Этнокультурный облик страны. Национальная политика. Кавказская война",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-4",
+    "subject": "history",
+    "code": "4.4",
+    "title": "Внешняя политика России в период правления Николая I. Крымская война",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-5",
+    "subject": "history",
+    "code": "4.5",
+    "title": "Культурное пространство империи в первой половине XIX в.",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-6",
+    "subject": "history",
+    "code": "4.6",
+    "title": "Социальная и правовая модернизация страны при Александре II. Великие реформы 1860–1870-х гг. Национальная и религиозная политика",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "1861",
+      "Александр II",
+      "отмена крепостного права"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4",
+    "lessonTopicId": "history-reform",
+    "lessonTopicIds": [
+      "history-reform"
+    ]
+  },
+  {
+    "id": "ege-history-4-7",
+    "subject": "history",
+    "code": "4.7",
+    "title": "Общественное движение в период правления Александра II",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-8",
+    "subject": "history",
+    "code": "4.8",
+    "title": "Многовекторность внешней политики империи в период правления Александра II",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-9",
+    "subject": "history",
+    "code": "4.9",
+    "title": "Внутренняя политика Александра III. Реформы и «контрреформы». Национальная и религиозная политика. Экономическая модернизация через государственное вмешательство в экономику. Промышленный подъём на рубеже XIX–XX вв. Индустриализация и урбанизация. Пореформенный социум: идейные течения и общественные движения в 1880–1890-х гг. Основные регионы Российской империи и их роль в жизни страны",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-10",
+    "subject": "history",
+    "code": "4.10",
+    "title": "Внешняя политика Александра III",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-11",
+    "subject": "history",
+    "code": "4.11",
+    "title": "Культура и быт народов России во второй половине XIX в.",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-12",
+    "subject": "history",
+    "code": "4.12",
+    "title": "Россия на пороге XX в.: динамика и противоречия развития. Демография, социальная стратификация. Разложение сословных структур. Формирование новых социальных страт. Имперский центр и национальные регионы. Система власти. Николай II. Общественно-политические движения и политические партии в начале XX в.",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-13",
+    "subject": "history",
+    "code": "4.13",
+    "title": "Россия в системе международных отношений",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-14",
+    "subject": "history",
+    "code": "4.14",
+    "title": "Первая российская революция 1905–1907 гг. Начало парламентаризма в России",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-15",
+    "subject": "history",
+    "code": "4.15",
+    "title": "«Основные Законы Российской империи» 1906 г. Общественное и политическое развитие России в 1907–1914 гг.",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-4-16",
+    "subject": "history",
+    "code": "4.16",
+    "title": "«Серебряный век» российской культуры: основные тенденции развития русской культуры начала XX в. Развитие науки и образования. Вклад России начала XX в. в мировую культуру",
+    "section": "Российская империя в XIX – начале XX в.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-4"
+  },
+  {
+    "id": "ege-history-5",
+    "subject": "history",
+    "code": "5",
+    "title": "Всеобщая история",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-5-1",
+    "subject": "history",
+    "code": "5.1",
+    "title": "Происхождение человека. Первобытное общество. Периодизация и характеристика основных этапов истории Древнего мира",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-2",
+    "subject": "history",
+    "code": "5.2",
+    "title": "Древний Восток. Зарождение первых цивилизаций на берегах великих рек. Древний Египет, Месопотамия, Финикия, Палестина, Персидская держава, Древняя Индия, Древний Китай. Культура и религия стран Древнего Востока",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-3",
+    "subject": "history",
+    "code": "5.3",
+    "title": "Античность. Древняя Греция. Эллинизм. Культура и религия Древней Греции. Культура эллинистического мира",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-4",
+    "subject": "history",
+    "code": "5.4",
+    "title": "Древний Рим. Культура и религия Древнего Рима. Возникновение и развитие христианства",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-5",
+    "subject": "history",
+    "code": "5.5",
+    "title": "История Средних веков и раннего Нового времени: Периодизация и характеристика основных этапов",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-6",
+    "subject": "history",
+    "code": "5.6",
+    "title": "Социально-экономическое и политическое развитие стран Европы в Средние века",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-7",
+    "subject": "history",
+    "code": "5.7",
+    "title": "Страны и народы Азии, Америки и Африки в Средние века",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-8",
+    "subject": "history",
+    "code": "5.8",
+    "title": "Международные отношения в Средние века",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-9",
+    "subject": "history",
+    "code": "5.9",
+    "title": "Культура Средневековья. Возникновение и развитие ислама",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-10",
+    "subject": "history",
+    "code": "5.10",
+    "title": "Великие географические открытия. Возникновение капиталистических отношений в Западной Европе. Становление абсолютизма в европейских странах. Колонизация. Реформация и контрреформация в Европе. Политическое и социально-экономическое развитие Испании, Франции, Англии в конце XV – XVII в.",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-11",
+    "subject": "history",
+    "code": "5.11",
+    "title": "Внутриполитическое развитие Османской империи, Индии, Китая, Японии в конце XV – XVII в.",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-12",
+    "subject": "history",
+    "code": "5.12",
+    "title": "Борьба христианской Европы с расширением господства Османской империи. Политические и религиозные противоречия начала XVII в. Тридцатилетняя война. Международные отношения в конце XV – XVII в.",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-13",
+    "subject": "history",
+    "code": "5.13",
+    "title": "История Нового времени: Периодизация и характеристика основных этапов. Эпоха Просвещения. Просвещённый абсолютизм: общее и особенное. Социально-экономическое развитие Англии в XVIII в. Промышленный переворот. Развитие парламентской монархии в Англии в XVIII в. Абсолютная монархия во Франции. Особенности положения третьего сословия. Французская революция XVIII в. Своеобразие Священной Римской империи германской нации и государств, входивших в её состав. Создание королевства Пруссия",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 15,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-14",
+    "subject": "history",
+    "code": "5.14",
+    "title": "Характерные черты международных отношений XVIII в. Война за независимость британских колоний в Северной Америке и образование США",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 16,
+    "printedPage": 23,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-15",
+    "subject": "history",
+    "code": "5.15",
+    "title": "Создание колониальных империй. Внутренняя и внешняя политика Османской империи, Индии, Китая, Японии. Колониальный период в Латинской Америке",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 16,
+    "printedPage": 23,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-16",
+    "subject": "history",
+    "code": "5.16",
+    "title": "Политическое и социально-экономическое развитие европейских стран в XIX – начале XX в. Европейские революции XIX в. Утверждение конституционных и парламентских монархий. Создание Германской империи. Образование единого государства в Италии",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 16,
+    "printedPage": 23,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-17",
+    "subject": "history",
+    "code": "5.17",
+    "title": "США в XIX – начале XX в. Гражданская война в США. Борьба за освобождение и образование независимых государств в Латинской Америке в XIX в",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 16,
+    "printedPage": 23,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-18",
+    "subject": "history",
+    "code": "5.18",
+    "title": "Политическое и социально-экономическое развитие Османской империи, Индии, Китая, Японии в XIX – начале XX в. Колониальный раздел Африки. Антиколониальные движения",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 16,
+    "printedPage": 23,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-19",
+    "subject": "history",
+    "code": "5.19",
+    "title": "Международные отношения в XIX в.",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 16,
+    "printedPage": 23,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-5-20",
+    "subject": "history",
+    "code": "5.20",
+    "title": "Культура и картина мира человека раннего Нового времени. Развитие науки, образования и культуры в Новое время",
+    "section": "Всеобщая история",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 16,
+    "printedPage": 23,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [],
+    "parentId": "ege-history-5"
+  },
+  {
+    "id": "ege-history-7",
+    "subject": "history",
+    "code": "7",
+    "title": "История России. 1914–1945 гг.",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-7-1",
+    "subject": "history",
+    "code": "7.1",
+    "title": "Россия в Первой мировой войне (1914–1918)",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-7-2",
+    "subject": "history",
+    "code": "7.2",
+    "title": "1917 год: от Февраля к Октябрю",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-7-3",
+    "subject": "history",
+    "code": "7.3",
+    "title": "Первые революционные преобразования большевиков",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-7-4",
+    "subject": "history",
+    "code": "7.4",
+    "title": "Гражданская война и её последствия",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-7-5",
+    "subject": "history",
+    "code": "7.5",
+    "title": "Идеология и культура Советской России периода Гражданской войны",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-7-6",
+    "subject": "history",
+    "code": "7.6",
+    "title": "СССР в годы нэпа (1921–1928)",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-7-7",
+    "subject": "history",
+    "code": "7.7",
+    "title": "Советский Союз в 1929–1941 гг.",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-7-8",
+    "subject": "history",
+    "code": "7.8",
+    "title": "Культурное пространство советского общества в 1920–1930-е гг.",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-7-9",
+    "subject": "history",
+    "code": "7.9",
+    "title": "Внешняя политика СССР в 1920–1930-е гг.",
+    "section": "История России. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-7"
+  },
+  {
+    "id": "ege-history-8",
+    "subject": "history",
+    "code": "8",
+    "title": "Великая Отечественная война (1941–1945)",
+    "section": "Великая Отечественная война (1941–1945)",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-8-1",
+    "subject": "history",
+    "code": "8.1",
+    "title": "Первый период войны (июнь 1941 – осень 1942 г.)",
+    "section": "Великая Отечественная война (1941–1945)",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-8"
+  },
+  {
+    "id": "ege-history-8-2",
+    "subject": "history",
+    "code": "8.2",
+    "title": "Коренной перелом в ходе войны (осень 1942 – 1943 г.)",
+    "section": "Великая Отечественная война (1941–1945)",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-8"
+  },
+  {
+    "id": "ege-history-8-3",
+    "subject": "history",
+    "code": "8.3",
+    "title": "Человек и война: единство фронта и тыла",
+    "section": "Великая Отечественная война (1941–1945)",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-8"
+  },
+  {
+    "id": "ege-history-8-4",
+    "subject": "history",
+    "code": "8.4",
+    "title": "Победа СССР в Великой Отечественной войне. Окончание Второй мировой войны (1944 – сентябрь 1945 г.)",
+    "section": "Великая Отечественная война (1941–1945)",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-8"
+  },
+  {
+    "id": "ege-history-9",
+    "subject": "history",
+    "code": "9",
+    "title": "СССР в 1945–1991 гг.",
+    "section": "СССР в 1945–1991 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-9-1",
+    "subject": "history",
+    "code": "9.1",
+    "title": "СССР в 1945–1953 гг.",
+    "section": "СССР в 1945–1991 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-9"
+  },
+  {
+    "id": "ege-history-9-2",
+    "subject": "history",
+    "code": "9.2",
+    "title": "СССР в середине 1950-х – первой половине 1960-х гг.",
+    "section": "СССР в 1945–1991 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-9"
+  },
+  {
+    "id": "ege-history-9-3",
+    "subject": "history",
+    "code": "9.3",
+    "title": "Советское государство и общество в середине 1960-х – начале 1980-х гг.",
+    "section": "СССР в 1945–1991 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-9"
+  },
+  {
+    "id": "ege-history-9-4",
+    "subject": "history",
+    "code": "9.4",
+    "title": "Политика перестройки. Распад СССР (1985–1991)",
+    "section": "СССР в 1945–1991 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-9"
+  },
+  {
+    "id": "ege-history-10",
+    "subject": "history",
+    "code": "10",
+    "title": "Российская Федерация в 1992–2022 гг.",
+    "section": "Российская Федерация в 1992–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-10-1",
+    "subject": "history",
+    "code": "10.1",
+    "title": "Становление новой России (1992–1999)",
+    "section": "Российская Федерация в 1992–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-10"
+  },
+  {
+    "id": "ege-history-10-2",
+    "subject": "history",
+    "code": "10.2",
+    "title": "Россия в ХХI в.: вызовы времени и задачи модернизации",
+    "section": "Российская Федерация в 1992–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-10"
+  },
+  {
+    "id": "ege-history-11",
+    "subject": "history",
+    "code": "11",
+    "title": "Всеобщая история. 1914–1945 гг.",
+    "section": "Всеобщая история. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-11-1",
+    "subject": "history",
+    "code": "11.1",
+    "title": "Мир накануне и в годы Первой мировой войны",
+    "section": "Всеобщая история. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-11"
+  },
+  {
+    "id": "ege-history-11-2",
+    "subject": "history",
+    "code": "11.2",
+    "title": "Мир в 1918–1939 гг.",
+    "section": "Всеобщая история. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-11"
+  },
+  {
+    "id": "ege-history-11-3",
+    "subject": "history",
+    "code": "11.3",
+    "title": "Вторая мировая война",
+    "section": "Всеобщая история. 1914–1945 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-11"
+  },
+  {
+    "id": "ege-history-12",
+    "subject": "history",
+    "code": "12",
+    "title": "Всеобщая история. 1945–2022 гг.",
+    "section": "Всеобщая история. 1945–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-history-12-1",
+    "subject": "history",
+    "code": "12.1",
+    "title": "Страны Северной Америки и Европы во второй половине ХХ – начале XXI в.",
+    "section": "Всеобщая история. 1945–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-12"
+  },
+  {
+    "id": "ege-history-12-2",
+    "subject": "history",
+    "code": "12.2",
+    "title": "Страны Азии, Африки во второй половине ХХ – начале XXI в.: проблемы и пути модернизации",
+    "section": "Всеобщая история. 1945–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-12"
+  },
+  {
+    "id": "ege-history-12-3",
+    "subject": "history",
+    "code": "12.3",
+    "title": "Страны Латинской Америки во второй половине ХХ – начале XXI в.",
+    "section": "Всеобщая история. 1945–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-12"
+  },
+  {
+    "id": "ege-history-12-4",
+    "subject": "history",
+    "code": "12.4",
+    "title": "Международные отношения во второй половине ХХ – начале XXI в.",
+    "section": "Всеобщая история. 1945–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-12"
+  },
+  {
+    "id": "ege-history-12-5",
+    "subject": "history",
+    "code": "12.5",
+    "title": "Развитие науки и культуры во второй половине ХХ – начале XXI в.",
+    "section": "Всеобщая история. 1945–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-12"
+  },
+  {
+    "id": "ege-history-12-6",
+    "subject": "history",
+    "code": "12.6",
+    "title": "Современный мир",
+    "section": "Всеобщая история. 1945–2022 гг.",
+    "sourceId": "fipi-history-2026",
+    "sourceDocumentId": "fipi-history-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-history-12"
+  }
+]

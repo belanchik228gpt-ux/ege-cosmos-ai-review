@@ -1,0 +1,16 @@
+{
+  "at": "2026-09-08T03:34:22.215Z",
+  "kind": "Source browser, not EXE",
+  "width": 390,
+  "icon": {
+    "top": 1735.40625,
+    "bottom": 1775.40625,
+    "width": 40
+  },
+  "title": {
+    "top": 1813.796875,
+    "bottom": 1875.296875
+  },
+  "overlap": false,
+  "overflow": false
+}

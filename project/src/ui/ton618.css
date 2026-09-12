@@ -1,0 +1,45 @@
+.ton618-media { position:absolute; inset:0; pointer-events:none; overflow:hidden; background:#07060a; z-index:-2; }
+.ton618-media img,.ton618-media video { position:absolute; inset:0; width:100%; height:100%; object-fit:contain; object-position:right center; }
+.ton618-media video { transform:translateZ(0); }
+.ton618-controls { display:flex; flex-wrap:wrap; align-items:center; gap:14px 22px; padding:14px 0 20px; font-size:12px; color:var(--text-muted,#c4b2d8); }
+.ton618-controls label { display:flex; gap:9px; align-items:center; }
+.ton618-controls select { min-width:150px; padding:8px 12px; border:1px solid #796094; border-radius:9px; background:#191223; color:#f1e9ff; }
+.ton618-controls input { accent-color:#ad8aff; }
+.ton618-controls span { opacity:.8; }
+.ton618-variants { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:20px; margin:18px 0 30px; }
+.ton618-variant { overflow:hidden; border:1px solid #55436c; border-radius:16px; background:#171021; }
+.ton618-variant[data-selected=true] { border-color:#c4a0ff; box-shadow:0 0 24px #a267ee22; }
+.ton618-variant > img { display:block; width:100%; aspect-ratio:16/9; object-fit:contain; background:#070609; }
+.ton618-variant > div { padding:18px; }
+.ton618-variant h3 { display:flex; align-items:center; gap:9px; margin:0 0 10px; }
+.ton618-variant h3 i { width:12px; height:12px; border-radius:50%; }
+.ton618-variant p,.ton618-catalog > p { font-size:12px; color:#c4b2d8; line-height:1.6; }
+.ton618-variant button { width:100%; margin-top:12px; }
+.school-hero.ton618-school-hero { position:relative; isolation:isolate; overflow:hidden; min-height:340px; background:#0c0812; }
+.ton618-school-hero > .ton618-media { inset:0; }
+.ton618-school-hero:after { content:''; position:absolute; inset:0; z-index:-1; background:linear-gradient(90deg,#110b1deb 0%,#110b1dc9 40%,#110b1d18 100%); }
+.ton618-school-hero > div:not(.ton618-media) { max-width:560px; }
+.studio-hero:has(.ton618-media) { min-height:360px; }
+@media(max-width:1100px) { .ton618-variants {grid-template-columns:repeat(2,minmax(0,1fr));} }
+@media(max-width:650px) { .ton618-variants {grid-template-columns:1fr;} .ton618-school-hero {padding:22px;} }
+.cosmos-studio .imported-backdrop.ton618-backdrop { opacity:1; }
+.ton618-backdrop .ton618-media { z-index:0; }
+.ton618-backdrop .ton618-media img,.ton618-backdrop .ton618-media video { object-fit:cover; object-position:center; }
+.ton618-backdrop:after { content:''; position:absolute; inset:0; background:linear-gradient(90deg,#100b1ee8,#100b1e85 65%,#100b1e60); }
+.cosmos-studio:has(.ton618-backdrop) .studio-hero,.cosmos-studio:has(.ton618-backdrop) .ton618-school-hero { background:#130d2090; }
+.cosmos-studio:has(.ton618-backdrop) .studio-hero:after,.cosmos-studio:has(.ton618-backdrop) .ton618-school-hero:after { display:none; }
+.ton618-controls label { flex-direction:row !important; }
+.ton618-cinema { position:fixed; inset:0; z-index:2147483000; isolation:isolate; background:#000; overflow:hidden; outline:none; }
+.ton618-cinema[data-chrome=false] { cursor:none; }
+.ton618-cinema .ton618-media { z-index:0; }
+.ton618-cinema .ton618-media img,.ton618-cinema .ton618-media video { object-fit:cover; object-position:center; }
+.ton618-cinema[data-fit=true] .ton618-media img,.ton618-cinema[data-fit=true] .ton618-media video { object-fit:contain; }
+.ton618-cinema-controls { position:absolute; z-index:1; left:24px; right:24px; bottom:24px; display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:12px; padding:18px; color:#f4eeff; background:#100a20e8; border:1px solid #c2a0ff60; border-radius:18px; transition:opacity .25s; }
+.ton618-cinema-controls > div { display:flex; flex-direction:column; gap:4px; margin-right:auto; }
+.ton618-cinema-controls span { font-size:12px; color:#c8b7e5; }
+.ton618-cinema-controls button,.ton618-cinema-controls select { border:1px solid #9274b5; border-radius:10px; background:#211433; color:#fff; padding:11px 15px; font:inherit; cursor:pointer; }
+.ton618-cinema-controls button:disabled { opacity:.45; cursor:default; }
+.ton618-cinema-controls :focus-visible { outline:3px solid #c6a4ff; outline-offset:3px; }
+.ton618-cinema[data-chrome=false] .ton618-cinema-controls:not(:focus-within) { opacity:0; pointer-events:none; }
+@media(prefers-reduced-motion:reduce) { .ton618-cinema-controls { transition:none; } }
+@media(max-width:700px) { .ton618-cinema-controls { left:10px; right:10px; bottom:10px; padding:12px; gap:8px; } .ton618-cinema-controls > div {width:100%;} .ton618-cinema-controls button,.ton618-cinema-controls select {padding:8px;font-size:12px;} }

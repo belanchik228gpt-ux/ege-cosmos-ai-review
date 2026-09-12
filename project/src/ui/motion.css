@@ -1,0 +1,439 @@
+/* Interface movement is independent of the authored lesson timeline. */
+:root {
+  --ui-time: 210ms;
+  --ui-press-time: 80ms;
+  --ui-enter-time: 420ms;
+  --ui-orbit-time: 48s;
+  --ui-ease: cubic-bezier(0.2, 0.72, 0.25, 1);
+  --ui-lift: -4px;
+  --ui-press: 0.975;
+  --ui-icon-shift: 3px;
+  --ui-entry-name: ui-card-enter;
+  --ui-modal-name: ui-modal-enter;
+  --ui-backdrop-name: ui-backdrop-enter;
+  --ui-glow-small: 0 0 18px color-mix(in srgb, var(--accent) 20%, transparent);
+  --ui-glow-large: 0 0 34px color-mix(in srgb, var(--accent) 24%, transparent);
+  --ui-edge: color-mix(in srgb, var(--accent) 27%, var(--stroke));
+  --ui-hover-edge: color-mix(in srgb, var(--accent) 65%, var(--stroke));
+  --ui-sheen: color-mix(in srgb, var(--accent) 15%, transparent);
+}
+:root[data-motion-speed='slow'] {
+  --ui-time: 340ms;
+  --ui-press-time: 110ms;
+  --ui-enter-time: 600ms;
+  --ui-orbit-time: 68s;
+}
+:root[data-motion-speed='fast'] {
+  --ui-time: 125ms;
+  --ui-press-time: 50ms;
+  --ui-enter-time: 240ms;
+  --ui-orbit-time: 32s;
+}
+:root[data-ui-motion='gentle'] {
+  --ui-lift: -2px;
+  --ui-press: 0.99;
+  --ui-icon-shift: 1px;
+}
+:root[data-glow='soft'] {
+  --ui-glow-small: 0 0 12px color-mix(in srgb, var(--accent) 9%, transparent);
+  --ui-glow-large: 0 0 26px color-mix(in srgb, var(--accent) 12%, transparent);
+  --ui-edge: color-mix(in srgb, var(--accent) 12%, var(--stroke));
+  --ui-hover-edge: color-mix(in srgb, var(--accent) 40%, var(--stroke));
+  --ui-sheen: color-mix(in srgb, var(--accent) 6%, transparent);
+}
+:root[data-glow='off'] {
+  --ui-glow-small: 0 0 0 transparent;
+  --ui-glow-large: 0 0 0 transparent;
+  --ui-edge: var(--stroke);
+  --ui-hover-edge: var(--stroke);
+  --ui-sheen: transparent;
+}
+.app-shell {
+  position: relative;
+  isolation: isolate;
+}
+.ui-effects-anchor {
+  position: absolute;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+.ui-ambient {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  z-index: -1;
+  pointer-events: none;
+}
+.ui-ambient > span {
+  display: block;
+  position: absolute;
+  pointer-events: none;
+}
+.ui-ambient-haze {
+  inset: -8%;
+  background:
+    radial-gradient(
+      ellipse at 86% 17%,
+      color-mix(in srgb, var(--accent) 15%, transparent),
+      transparent 39%
+    ),
+    radial-gradient(
+      ellipse at 12% 71%,
+      color-mix(in srgb, var(--accent) 7%, transparent),
+      transparent 38%
+    );
+  opacity: 0.75;
+  animation: ui-haze-drift var(--ui-orbit-time) ease-in-out infinite alternate;
+}
+.ui-ambient-orbit {
+  width: min(920px, 90vw);
+  height: min(920px, 90vw);
+  border: 1px solid color-mix(in srgb, var(--accent) 10%, transparent);
+  border-radius: 50%;
+  right: -24%;
+  top: 0;
+  transform: rotateX(65deg) rotate(-28deg);
+}
+.ui-orbit-two {
+  width: min(1160px, 110vw);
+  height: min(1160px, 110vw);
+  right: -32%;
+  top: -10%;
+  opacity: 0.45;
+}
+.ui-orbit-one::after {
+  content: '';
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  top: 16%;
+  left: 11%;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: var(--ui-glow-small);
+  opacity: 0.45;
+}
+.ui-ambient-stars {
+  inset: 0;
+  opacity: 0.35;
+  background-image:
+    radial-gradient(circle at 8% 27%, var(--accent) 0 1px, transparent 1.5px),
+    radial-gradient(circle at 82% 35%, var(--accent) 0 1px, transparent 1.5px),
+    radial-gradient(circle at 58% 78%, var(--accent) 0 1px, transparent 1.5px),
+    radial-gradient(circle at 92% 84%, var(--accent) 0 1px, transparent 1.5px);
+}
+.ui-ambient-paused * {
+  animation-play-state: paused !important;
+}
+.focus-mode .ui-ambient {
+  opacity: 0.35;
+}
+.app-shell .planet-float {
+  animation-duration: calc(var(--ui-orbit-time) / 4);
+}
+.app-shell .satellite-float {
+  animation-duration: calc(var(--ui-orbit-time) / 5);
+}
+:root[data-animated-background='false'] .app-shell :is(.planet-float, .satellite-float) {
+  animation: none;
+}
+.app-shell :is(.hero-card, .today-card, .subject-card, .room-welcome, .scene-player) {
+  border-color: var(--ui-edge);
+  box-shadow:
+    inset 0 1px 0 var(--ui-sheen),
+    0 16px 38px #00000012;
+}
+.app-shell
+  :is(
+    .panel,
+    .quick-card,
+    .topic-card,
+    .plan-card,
+    .history-card,
+    .saved-document,
+    .background-card,
+    .knowledge-reader
+  ) {
+  box-shadow: inset 0 1px 0 var(--ui-sheen);
+}
+.app-shell :is(.brand-mark, .cosmos-avatar) {
+  box-shadow:
+    var(--ui-glow-small),
+    inset 0 1px 0 var(--ui-sheen);
+}
+.app-shell
+  :is(
+    .primary-nav button.active,
+    .subject-bar nav button.selected,
+    .tabs button.active,
+    .composer-modes button.active
+  ) {
+  box-shadow:
+    inset 0 -2px 0 color-mix(in srgb, var(--accent) 75%, transparent),
+    var(--ui-glow-small);
+}
+.app-shell
+  :is(
+    .button,
+    .icon-button,
+    .text-button,
+    .send-button,
+    .preview-action,
+    .quick-launch,
+    .avatar,
+    .subject-card,
+    .topic-card,
+    .quick-card,
+    .plan-card,
+    .history-card,
+    .palette-choice,
+    .quality-options button,
+    .command-result,
+    .knowledge-list button,
+    .primary-nav button,
+    .subject-bar nav button,
+    .tabs button,
+    .sc-controls button,
+    .pinned-topics button
+  ) {
+  transition:
+    transform var(--ui-time) var(--ui-ease),
+    box-shadow var(--ui-time) ease,
+    border-color var(--ui-time) ease,
+    background-color var(--ui-time) ease,
+    color var(--ui-time) ease;
+}
+.app-shell :is(.button.primary, .send-button, .preview-action, .sc-play) {
+  box-shadow:
+    0 3px 14px #0002,
+    var(--ui-glow-small),
+    inset 0 1px 0 #ffffff4a;
+}
+.app-shell button:hover,
+.app-shell .button.primary:hover {
+  filter: none;
+}
+.app-shell
+  :is(.button, .text-button, .card-action, .quick-card, .plan-card, .topic-card, .command-result)
+  > svg:last-child {
+  transition: transform var(--ui-time) var(--ui-ease);
+}
+@media (hover: hover) and (pointer: fine) {
+  .app-shell
+    :is(
+      .button,
+      .send-button,
+      .preview-action,
+      .quick-launch,
+      .subject-card,
+      .topic-card,
+      .quick-card,
+      .plan-card,
+      .history-card,
+      .palette-choice,
+      .pinned-topics button
+    ):not(:disabled):hover {
+    transform: translateY(var(--ui-lift));
+    border-color: var(--ui-hover-edge);
+    box-shadow:
+      0 12px 30px #0003,
+      var(--ui-glow-large),
+      inset 0 1px 0 var(--ui-sheen);
+  }
+  .app-shell
+    :is(.icon-button, .avatar, .quality-options button, .sc-controls button):not(:disabled):hover {
+    transform: translateY(calc(var(--ui-lift) / 2));
+    box-shadow: var(--ui-glow-small);
+  }
+  .app-shell
+    :is(
+      .primary-nav button,
+      .subject-bar nav button,
+      .tabs button,
+      .command-result,
+      .knowledge-list button,
+      .text-button
+    ):not(:disabled):hover {
+    background-color: var(--accent-soft);
+    color: var(--text);
+    box-shadow: inset 0 -1px 0 var(--ui-hover-edge);
+  }
+  .app-shell
+    :is(
+      .button,
+      .text-button,
+      .card-action,
+      .quick-card,
+      .plan-card,
+      .topic-card,
+      .command-result
+    ):not(:disabled):hover
+    > svg:last-child {
+    transform: translateX(var(--ui-icon-shift));
+  }
+}
+:root .app-shell :is(button, a):not(:disabled):active {
+  transform: translateY(1px) scale(var(--ui-press));
+  transition-duration: var(--ui-press-time);
+}
+.app-shell :is(button, a, input, textarea, select, summary):focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+  box-shadow:
+    0 0 0 5px var(--accent-soft),
+    var(--ui-glow-small);
+}
+.app-shell :is(input, textarea, select) {
+  transition:
+    border-color var(--ui-time) ease,
+    box-shadow var(--ui-time) ease;
+}
+.app-shell :is(input, textarea, select):focus {
+  border-color: var(--accent);
+}
+.app-shell :is(.subject-card, .topic-card, .quick-card, .plan-card, .history-card) {
+  animation: var(--ui-entry-name) var(--ui-enter-time) var(--ui-ease) backwards;
+}
+.app-shell :is(.subject-card, .topic-card, .plan-card):nth-child(2) {
+  animation-delay: 35ms;
+}
+.app-shell :is(.subject-card, .topic-card, .plan-card):nth-child(3) {
+  animation-delay: 65ms;
+}
+.app-shell :is(.subject-card, .topic-card, .plan-card):nth-child(4) {
+  animation-delay: 90ms;
+}
+.app-shell :is(.welcome-modal, .document-modal),
+.command-dialog[open] {
+  animation: var(--ui-modal-name) var(--ui-enter-time) var(--ui-ease) backwards;
+  box-shadow:
+    0 30px 100px #0008,
+    var(--ui-glow-large);
+}
+.command-dialog[open]::backdrop {
+  animation: var(--ui-backdrop-name) var(--ui-time) ease backwards;
+}
+.app-shell .progress-track > span,
+.app-shell .subject-progress > div > span {
+  transition: width var(--ui-enter-time) var(--ui-ease);
+  box-shadow: var(--ui-glow-small);
+}
+.app-shell .toast {
+  animation: var(--ui-backdrop-name) var(--ui-enter-time) ease backwards;
+  border-color: var(--ui-edge);
+  box-shadow: var(--ui-glow-large);
+}
+:root[data-hover-effects='false'] {
+  --ui-lift: 0px;
+  --ui-icon-shift: 0px;
+}
+:root[data-hover-effects='false'] .app-shell button:hover {
+  box-shadow: none;
+}
+:root[data-hover-effects='false']
+  .app-shell
+  :is(.subject-card, .topic-card, .quick-card, .plan-card, .history-card, .palette-choice):hover {
+  border-color: var(--ui-edge);
+}
+:root[data-ui-motion='off'],
+:root[data-motion='reduced'],
+:root[data-reduced-motion='true'],
+:root[data-quality='static'] {
+  --ui-time: 0ms;
+  --ui-press-time: 0ms;
+  --ui-enter-time: 0ms;
+  --ui-lift: 0px;
+  --ui-press: 1;
+  --ui-icon-shift: 0px;
+  --ui-entry-name: none;
+  --ui-modal-name: none;
+  --ui-backdrop-name: none;
+}
+:root[data-ui-motion='off'] .app-shell :is(.planet-float, .satellite-float, .thinking span),
+:root[data-ui-motion='off'] .ui-ambient *,
+:root[data-motion='reduced'] .ui-ambient *,
+:root[data-reduced-motion='true'] .ui-ambient *,
+:root[data-quality='static'] .ui-ambient * {
+  animation: none !important;
+}
+:root[data-ui-motion='off'] .app-shell button:active,
+:root[data-motion='reduced'] .app-shell button:active,
+:root[data-reduced-motion='true'] .app-shell button:active,
+:root[data-quality='static'] .app-shell button:active {
+  transform: none;
+}
+:root[data-quality='low'] {
+  --ui-lift: 0px;
+  --ui-icon-shift: 0px;
+  --ui-glow-small: 0 0 0 transparent;
+  --ui-glow-large: 0 0 0 transparent;
+}
+:root[data-quality='low'] .ui-ambient,
+:root[data-quality='static'] .ui-ambient {
+  display: none;
+}
+:root[data-quality='low'] .command-dialog::backdrop,
+:root[data-quality='low'] .modal-backdrop {
+  backdrop-filter: none;
+}
+:root[data-quality='low']
+  .app-shell
+  :is(.subject-card, .topic-card, .quick-card, .plan-card, .history-card) {
+  animation: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --ui-time: 0ms;
+    --ui-press-time: 0ms;
+    --ui-enter-time: 0ms;
+    --ui-lift: 0px;
+    --ui-press: 1;
+    --ui-icon-shift: 0px;
+    --ui-entry-name: none;
+    --ui-modal-name: none;
+    --ui-backdrop-name: none;
+  }
+  .ui-ambient {
+    display: none;
+  }
+  .app-shell button:active {
+    transform: none;
+  }
+}
+@keyframes ui-card-enter {
+  from {
+    opacity: 0.3;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes ui-modal-enter {
+  from {
+    opacity: 1;
+    transform: translateY(16px) scale(0.975);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+@keyframes ui-backdrop-enter {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes ui-haze-drift {
+  from {
+    transform: translate(-1%, -1%) scale(1);
+  }
+  to {
+    transform: translate(1.5%, 1%) scale(1.035);
+  }
+}

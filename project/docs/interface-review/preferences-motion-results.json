@@ -1,0 +1,157 @@
+{
+  "at": "2026-09-08T03:10:34.453Z",
+  "kind": "Real UI preferences in source browser; not EXE",
+  "errors": [],
+  "cases": [
+    {
+      "case": "speed",
+      "speed": "slow",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.34s, 0.34s, 0.34s, 0.34s, 0.34s"
+    },
+    {
+      "case": "speed",
+      "speed": "normal",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "speed",
+      "speed": "fast",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.125s, 0.125s, 0.125s, 0.125s, 0.125s"
+    },
+    {
+      "case": "motion",
+      "motion": "gentle",
+      "y": -2,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "motion",
+      "motion": "expressive",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "motion",
+      "motion": "off",
+      "y": 0,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0s, 0s, 0s, 0s, 0s"
+    },
+    {
+      "case": "glow",
+      "glow": "off",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "glow",
+      "glow": "soft",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.12) 0px 0px 26px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.06) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "glow",
+      "glow": "vivid",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "palette",
+      "palette": "cosmos",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(188, 165, 245)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "palette",
+      "palette": "aurora",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(140, 222, 192)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.54902 0.870588 0.752941 / 0.24) 0px 0px 34px 0px, color(srgb 0.54902 0.870588 0.752941 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "palette",
+      "palette": "ocean",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(136, 207, 242)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.533333 0.811765 0.94902 / 0.24) 0px 0px 34px 0px, color(srgb 0.533333 0.811765 0.94902 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "palette",
+      "palette": "amber",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(237, 195, 140)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.929412 0.764706 0.54902 / 0.24) 0px 0px 34px 0px, color(srgb 0.929412 0.764706 0.54902 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "palette",
+      "palette": "rose",
+      "y": -4,
+      "scale": 1,
+      "color": "rgb(236, 170, 203)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.92549 0.666667 0.796078 / 0.24) 0px 0px 34px 0px, color(srgb 0.92549 0.666667 0.796078 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    {
+      "case": "backgroundOff",
+      "running": 0
+    },
+    {
+      "case": "static",
+      "y": 0,
+      "scale": 1,
+      "color": "rgb(236, 170, 203)",
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.92549 0.666667 0.796078 / 0.24) 0px 0px 34px 0px, color(srgb 0.92549 0.666667 0.796078 / 0.15) 0px 1px 0px 0px inset",
+      "duration": "0s"
+    },
+    {
+      "case": "layout",
+      "width": 1280,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "case": "layout",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    }
+  ]
+}

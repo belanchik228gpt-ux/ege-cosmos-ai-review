@@ -1,0 +1,88 @@
+{
+  "at": "2026-09-07T22:00:22.732Z",
+  "errors": [],
+  "results": [
+    {
+      "palette": "cosmos",
+      "width": 827,
+      "font": "14.4px",
+      "button": "rgb(188, 165, 245)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "cosmos",
+      "width": 354,
+      "font": "15.6px",
+      "button": "rgb(188, 165, 245)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "aurora",
+      "width": 827,
+      "font": "14.4px",
+      "button": "rgb(140, 222, 192)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "aurora",
+      "width": 354,
+      "font": "15.6px",
+      "button": "rgb(140, 222, 192)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "ocean",
+      "width": 827,
+      "font": "14.4px",
+      "button": "rgb(136, 207, 242)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "ocean",
+      "width": 354,
+      "font": "15.6px",
+      "button": "rgb(136, 207, 242)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "amber",
+      "width": 827,
+      "font": "14.4px",
+      "button": "rgb(237, 195, 140)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "amber",
+      "width": 354,
+      "font": "15.6px",
+      "button": "rgb(237, 195, 140)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "rose",
+      "width": 827,
+      "font": "14.4px",
+      "button": "rgb(236, 170, 203)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    },
+    {
+      "palette": "rose",
+      "width": 354,
+      "font": "15.6px",
+      "button": "rgb(236, 170, 203)",
+      "overflow": false,
+      "svg": "0 0 720 410"
+    }
+  ],
+  "focus": true,
+  "outline": true
+}

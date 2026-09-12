@@ -1,0 +1,188 @@
+{
+  "kind": "Browser preview, NOT packaged Electron acceptance",
+  "viewport": "1280x720",
+  "errors": [],
+  "results": [
+    {
+      "id": "rectangle",
+      "step": "12 / 12",
+      "formula": "S = a · b",
+      "svg": {
+        "x": 49,
+        "y": -6.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "triangle",
+      "step": "09 / 09",
+      "formula": "S = a · h / 2",
+      "svg": {
+        "x": 49,
+        "y": -6.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "triangle",
+      "viewport": "390x844",
+      "overflow": false
+    },
+    {
+      "id": "median",
+      "step": "13 / 13",
+      "formula": "AM — медиана ⇔ BM = MC",
+      "svg": {
+        "x": 49,
+        "y": -30.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "median",
+      "viewport": "390x844",
+      "overflow": false
+    },
+    {
+      "id": "fraction",
+      "step": "09 / 09",
+      "formula": "3/8",
+      "svg": {
+        "x": 49,
+        "y": -6.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "multiply",
+      "step": "09 / 09",
+      "formula": "2/3 · 3/4 = 1/2",
+      "svg": {
+        "x": 49,
+        "y": -6.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "percent",
+      "step": "06 / 06",
+      "formula": "25% от 80 = 20",
+      "svg": {
+        "x": 49,
+        "y": -6.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "syntax",
+      "step": "06 / 06",
+      "formula": "(Когда …), [ … ].",
+      "svg": {
+        "x": 49,
+        "y": -6.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "syntax",
+      "viewport": "390x844",
+      "overflow": false
+    },
+    {
+      "id": "commas",
+      "step": "06 / 06",
+      "formula": "(Когда …), [ … ].",
+      "svg": {
+        "x": 49,
+        "y": -6.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "ne-ni",
+      "step": "05 / 05",
+      "formula": "не пропустил + ни одного",
+      "svg": {
+        "x": 49,
+        "y": -30.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "baptism",
+      "step": "07 / 07",
+      "formula": "Причины → 988 → последствия",
+      "svg": {
+        "x": 49,
+        "y": -30.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "baptism",
+      "viewport": "390x844",
+      "overflow": false
+    },
+    {
+      "id": "reform",
+      "step": "07 / 07",
+      "formula": "Личная свобода ≠ бесплатная земля",
+      "svg": {
+        "x": 49,
+        "y": -30.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "demand",
+      "step": "07 / 07",
+      "formula": "P ↑ → Q спроса ↓",
+      "svg": {
+        "x": 49,
+        "y": -30.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    },
+    {
+      "id": "demand",
+      "viewport": "390x844",
+      "overflow": false
+    },
+    {
+      "id": "groups",
+      "step": "06 / 06",
+      "formula": "Один человек → несколько групп",
+      "svg": {
+        "x": 49,
+        "y": -30.90625,
+        "width": 825,
+        "height": 410
+      },
+      "overflow": false
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "at": "2026-09-08T03:34:30.845Z",
+  "kind": "Source app in Chrome; not Windows EXE",
+  "errors": [],
+  "environment": {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor              ",
+    "logicalCpus": 12,
+    "memoryGiB": 32,
+    "platform": "win32",
+    "osRelease": "10.0.19045",
+    "viewport": {
+      "width": 1440,
+      "height": 1000,
+      "devicePixelRatio": 1
+    }
+  },
+  "performanceNotes": [
+    "Short renderer-main-thread samples while an authored scene runs; not a guarantee of sustained FPS.",
+    "requestAnimationFrame gaps are callback intervals, not a measurement of GPU presentation or display frames.",
+    "Long-task entries cover the renderer main thread only; model generation is not running.",
+    "QA windows use --disable-backgrounding-occluded-windows to avoid unrelated test-window occlusion. Production settings are unchanged."
+  ],
+  "button": {
+    "idle": {
+      "y": 0,
+      "scale": 1,
+      "shadow": "rgba(0, 0, 0, 0.133) 0px 3px 14px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.2) 0px 0px 18px 0px, rgba(255, 255, 255, 0.29) 0px 1px 0px 0px inset",
+      "outline": "none",
+      "transition": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    "hover": {
+      "y": -4,
+      "scale": 1,
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "outline": "none",
+      "transition": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    },
+    "press": {
+      "y": 1,
+      "scale": 0.975,
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "outline": "none",
+      "transition": "0.08s"
+    },
+    "focused": {
+      "y": 0.0234799,
+      "scale": 0.999413,
+      "shadow": "rgba(0, 0, 0, 0.133) 0px 3px 14px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.2) 0px 0px 18px 0px, rgba(255, 255, 255, 0.29) 0px 1px 0px 0px inset",
+      "outline": "solid",
+      "transition": "0.21s, 0.21s, 0.21s, 0.21s, 0.21s"
+    }
+  },
+  "navigation": [
+    {
+      "state": "running",
+      "duration": 330
+    }
+  ],
+  "off": {
+    "hover": {
+      "y": 0,
+      "scale": 1,
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "outline": "none",
+      "transition": "0s, 0s, 0s, 0s, 0s"
+    },
+    "press": {
+      "y": 0,
+      "scale": 1,
+      "shadow": "rgba(0, 0, 0, 0.2) 0px 12px 30px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.24) 0px 0px 34px 0px, color(srgb 0.737255 0.647059 0.960784 / 0.15) 0px 1px 0px 0px inset",
+      "outline": "none",
+      "transition": "0s"
+    }
+  },
+  "hoverDisabled": true,
+  "sceneStartup": {
+    "autoplayOff": true,
+    "initialSpeed": 2,
+    "manualPlay": true
+  },
+  "failure": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Неон и движение', exact: true })\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"\">Неон и движение</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not stable\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    - waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m    - element is not stable\u001b[22m\n\u001b[2m  - retrying click action\u001b[22m\n\u001b[2m    - waiting 100ms\u001b[22m\n\u001b[2m  - element was detached from the DOM, retrying\u001b[22m\n\n    at settings (C:\\new cosmos\\docs\\interface-review\\motion-proof.mjs:24:162)\n    at async file:///C:/new%20cosmos/docs/interface-review/motion-proof.mjs:60:2"
+}

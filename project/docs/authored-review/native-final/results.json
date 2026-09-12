@@ -1,0 +1,798 @@
+{
+  "at": "2026-09-08T12:46:25.006Z",
+  "kind": "Actual packaged EXE through Ctrl+K and authored lesson title",
+  "expectedScenes": [
+    {
+      "sceneId": "rectangle",
+      "title": "Площадь прямоугольника",
+      "topicId": "math-rectangle",
+      "steps": 12,
+      "formulaStep": 12,
+      "formula": "S = a · b"
+    },
+    {
+      "sceneId": "triangle",
+      "title": "Площадь треугольника",
+      "topicId": "math-triangle",
+      "steps": 9,
+      "formulaStep": 9,
+      "formula": "S = a · h / 2"
+    },
+    {
+      "sceneId": "median",
+      "title": "Медиана треугольника",
+      "topicId": "math-median",
+      "steps": 13,
+      "formulaStep": 13,
+      "formula": "AM — медиана ⇔ BM = MC"
+    },
+    {
+      "sceneId": "fraction",
+      "title": "Как устроена дробь",
+      "topicId": "math-fraction",
+      "steps": 9,
+      "formulaStep": 9,
+      "formula": "3/8"
+    },
+    {
+      "sceneId": "multiply",
+      "title": "Умножение дробей",
+      "topicId": "math-multiply",
+      "steps": 9,
+      "formulaStep": 9,
+      "formula": "2/3 · 3/4 = 1/2"
+    },
+    {
+      "sceneId": "percent",
+      "title": "Проценты без путаницы",
+      "topicId": "math-percent",
+      "steps": 6,
+      "formulaStep": 6,
+      "formula": "25% от 80 = 20"
+    },
+    {
+      "sceneId": "syntax",
+      "title": "Основа предложения",
+      "topicId": "russian-syntax",
+      "steps": 6,
+      "formulaStep": 6,
+      "formula": "(Когда …), [ … ]."
+    },
+    {
+      "sceneId": "commas",
+      "title": "Запятая между частями",
+      "topicId": "russian-commas",
+      "steps": 6,
+      "formulaStep": 6,
+      "formula": "(Когда …), [ … ]."
+    },
+    {
+      "sceneId": "ne-ni",
+      "title": "НЕ и НИ: смысл частицы",
+      "topicId": "russian-ne-ni",
+      "steps": 5,
+      "formulaStep": 5,
+      "formula": "не пропустил + ни одного"
+    },
+    {
+      "sceneId": "baptism",
+      "title": "Крещение Руси",
+      "topicId": "history-baptism",
+      "steps": 7,
+      "formulaStep": 7,
+      "formula": "Причины → 988 → последствия"
+    },
+    {
+      "sceneId": "reform",
+      "title": "Отмена крепостного права",
+      "topicId": "history-reform",
+      "steps": 7,
+      "formulaStep": 7,
+      "formula": "Личная свобода ≠ бесплатная земля"
+    },
+    {
+      "sceneId": "demand",
+      "title": "Спрос и предложение",
+      "topicId": "social-demand",
+      "steps": 7,
+      "formulaStep": 7,
+      "formula": "P ↑ → Q спроса ↓"
+    },
+    {
+      "sceneId": "groups",
+      "title": "Социальные группы",
+      "topicId": "social-groups",
+      "steps": 6,
+      "formulaStep": 6,
+      "formula": "Один человек → несколько групп"
+    }
+  ],
+  "sourceRegistrySha256": "750f3702cb51cb5327012b1d966910d071ecc598384fafa250dee17401661e69",
+  "sourceClockSha256": "519f9e9ae58ce5c03518ae27eb63aba1b701fb6c2e175d3fa8bb465f03691a15",
+  "scenes": [
+    {
+      "sceneId": "rectangle",
+      "topicId": "math-rectangle",
+      "title": "Площадь прямоугольника",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 12,
+      "formula": "S = a · b",
+      "screenshot": "rectangle-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "triangle",
+      "topicId": "math-triangle",
+      "title": "Площадь треугольника",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 9,
+      "formula": "S = a · h / 2",
+      "screenshot": "triangle-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "median",
+      "topicId": "math-median",
+      "title": "Медиана треугольника",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "midpointRestore": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 13,
+      "formula": "AM — медиана ⇔ BM = MC",
+      "screenshot": "median-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "fraction",
+      "topicId": "math-fraction",
+      "title": "Как устроена дробь",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 9,
+      "formula": "3/8",
+      "screenshot": "fraction-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "multiply",
+      "topicId": "math-multiply",
+      "title": "Умножение дробей",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 9,
+      "formula": "2/3 · 3/4 = 1/2",
+      "screenshot": "multiply-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "percent",
+      "topicId": "math-percent",
+      "title": "Проценты без путаницы",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 6,
+      "formula": "25% от 80 = 20",
+      "screenshot": "percent-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "syntax",
+      "topicId": "russian-syntax",
+      "title": "Основа предложения",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 6,
+      "formula": "(Когда …), [ … ].",
+      "screenshot": "syntax-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "commas",
+      "topicId": "russian-commas",
+      "title": "Запятая между частями",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 6,
+      "formula": "(Когда …), [ … ].",
+      "screenshot": "commas-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "ne-ni",
+      "topicId": "russian-ne-ni",
+      "title": "НЕ и НИ: смысл частицы",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 5,
+      "formula": "не пропустил + ни одного",
+      "screenshot": "ne-ni-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "baptism",
+      "topicId": "history-baptism",
+      "title": "Крещение Руси",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 7,
+      "formula": "Причины → 988 → последствия",
+      "screenshot": "baptism-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "reform",
+      "topicId": "history-reform",
+      "title": "Отмена крепостного права",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 7,
+      "formula": "Личная свобода ≠ бесплатная земля",
+      "screenshot": "reform-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "demand",
+      "topicId": "social-demand",
+      "title": "Спрос и предложение",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 7,
+      "formula": "P ↑ → Q спроса ↓",
+      "screenshot": "demand-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    },
+    {
+      "sceneId": "groups",
+      "topicId": "social-groups",
+      "title": "Социальные группы",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "manualComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 205318,
+        "changedFraction": 0
+      },
+      "restoredTimelineResumed": true,
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 6,
+      "formula": "Один человек → несколько групп",
+      "screenshot": "groups-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1273,
+        "playerWidth": 820,
+        "playerScroll": 818
+      }
+    }
+  ],
+  "mode": "full-authored-scenes",
+  "errors": [],
+  "passed": true,
+  "nativePixelRule": "At most one 8-bit channel level of compositor rounding; geometry and paused animation clocks must remain exactly unchanged. Exact PNG equality is reported separately.",
+  "executable": "C:\\new cosmos\\test-results\\installed-app\\EGE Cosmos.exe",
+  "appAsarSha256": "aacc72fee1736e3de872d274dc183a59218fe28d9bfc07dd2a5e63fe5db17366",
+  "reviewPreferences": {
+    "animatedBackground": false,
+    "uiMotion": "off",
+    "glow": "off",
+    "sceneAutoplay": true
+  },
+  "finishedAt": "2026-09-08T12:49:51.830Z"
+}

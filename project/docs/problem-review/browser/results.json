@@ -1,0 +1,163 @@
+{
+  "at": "2026-09-08T14:03:03.017Z",
+  "kind": "Headless Chrome rendering actual ProblemScene source; component harness, not full app or EXE",
+  "cases": [
+    {
+      "id": "rectangle-28",
+      "text": "Площадь прямоугольника со сторонами 7 и 4 см",
+      "steps": 6,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "rectangle-21",
+      "text": "В прямоугольнике 7 клеток в каждом ряду и 3 ряда. Сколько всего клеток?",
+      "steps": 6,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "triangle",
+      "text": "Основание треугольника 6 см, высота к нему 4 см. Найди площадь в см².",
+      "steps": 6,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "multiply",
+      "text": "7*4",
+      "steps": 6,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "fraction",
+      "text": "3/8",
+      "steps": 6,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "arithmetic",
+      "text": "(2+3)*4-1/2",
+      "steps": 9,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "percent",
+      "text": "20% от 150",
+      "steps": 5,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "absolute",
+      "text": "|x-2|=3",
+      "steps": 6,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "linear",
+      "text": "2x+3=11",
+      "steps": 6,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    },
+    {
+      "id": "quadratic",
+      "text": "x^2-5x+6=0",
+      "steps": 6,
+      "pixels": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 336447,
+        "changedFraction": 0
+      },
+      "stateStable": true,
+      "replay": true
+    }
+  ],
+  "errors": [],
+  "passed": true,
+  "practiceNoAnswer": true,
+  "narrow": {
+    "width": 390,
+    "scroll": 390
+  }
+}

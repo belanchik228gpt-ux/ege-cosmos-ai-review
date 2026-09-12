@@ -1,0 +1,120 @@
+{
+  "at": "2026-09-08T12:34:01.530Z",
+  "kind": "Headless Chrome source application; NOT packaged EXE",
+  "expectedScenes": [
+    {
+      "sceneId": "rectangle",
+      "title": "Площадь прямоугольника",
+      "topicId": "math-rectangle",
+      "steps": 12,
+      "formulaStep": 12,
+      "formula": "S = a · b"
+    },
+    {
+      "sceneId": "median",
+      "title": "Медиана треугольника",
+      "topicId": "math-median",
+      "steps": 13,
+      "formulaStep": 13,
+      "formula": "AM — медиана ⇔ BM = MC"
+    }
+  ],
+  "sourceRegistrySha256": "750f3702cb51cb5327012b1d966910d071ecc598384fafa250dee17401661e69",
+  "sourceClockSha256": "519f9e9ae58ce5c03518ae27eb63aba1b701fb6c2e175d3fa8bb465f03691a15",
+  "scenes": [
+    {
+      "sceneId": "rectangle",
+      "topicId": "math-rectangle",
+      "title": "Площадь прямоугольника",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 207075,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 207075,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 207075,
+        "changedFraction": 0
+      },
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 12,
+      "formula": "S = a · b",
+      "screenshot": "rectangle-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1280,
+        "playerWidth": 827,
+        "playerScroll": 825
+      }
+    },
+    {
+      "sceneId": "median",
+      "topicId": "math-median",
+      "title": "Медиана треугольника",
+      "autoplayPixelsChanged": true,
+      "pauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 207075,
+        "changedFraction": 0
+      },
+      "pausedGeometryAndClocksEqual": true,
+      "restoredPauseComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 207075,
+        "changedFraction": 0
+      },
+      "menuReturnComparison": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 207075,
+        "changedFraction": 0
+      },
+      "menuRestoreStepAndPixels": true,
+      "nextBackReplay": true,
+      "formulaStep": 13,
+      "formula": "AM — медиана ⇔ BM = MC",
+      "screenshot": "median-formula.png",
+      "layout": {
+        "viewport": 1280,
+        "page": 1280,
+        "playerWidth": 827,
+        "playerScroll": 825
+      }
+    }
+  ],
+  "errors": [],
+  "passed": true,
+  "nativePixelRule": "At most one 8-bit channel level of compositor rounding; geometry and paused animation clocks must remain exactly unchanged. Exact PNG equality is reported separately.",
+  "reviewPreferences": {
+    "animatedBackground": false,
+    "uiMotion": "off",
+    "glow": "off",
+    "sceneAutoplay": true
+  },
+  "finishedAt": "2026-09-08T12:34:26.365Z"
+}

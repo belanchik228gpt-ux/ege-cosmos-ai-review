@@ -1,0 +1,2168 @@
+[
+  {
+    "id": "ege-russian-1",
+    "subject": "russian",
+    "code": "1",
+    "title": "Текст. Информационно-смысловая переработка текста",
+    "section": "Текст. Информационно-смысловая переработка текста",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-russian-1-1",
+    "subject": "russian",
+    "code": "1.1",
+    "title": "Текст, его основные признаки",
+    "section": "Текст. Информационно-смысловая переработка текста",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-1"
+  },
+  {
+    "id": "ege-russian-1-2",
+    "subject": "russian",
+    "code": "1.2",
+    "title": "Логико-смысловые отношения между предложениями в тексте",
+    "section": "Текст. Информационно-смысловая переработка текста",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-1"
+  },
+  {
+    "id": "ege-russian-1-3",
+    "subject": "russian",
+    "code": "1.3",
+    "title": "Информативность текста. Виды информации в тексте",
+    "section": "Текст. Информационно-смысловая переработка текста",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-1"
+  },
+  {
+    "id": "ege-russian-1-4",
+    "subject": "russian",
+    "code": "1.4",
+    "title": "Информационно-смысловая переработка прочитанного текста, включая гипертекст, графику, инфографику и другие, и прослушанного текста",
+    "section": "Текст. Информационно-смысловая переработка текста",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-1"
+  },
+  {
+    "id": "ege-russian-1-5",
+    "subject": "russian",
+    "code": "1.5",
+    "title": "План. Тезисы. Конспект. Реферат. Аннотация. Отзыв. Рецензия",
+    "section": "Текст. Информационно-смысловая переработка текста",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-1"
+  },
+  {
+    "id": "ege-russian-2",
+    "subject": "russian",
+    "code": "2",
+    "title": "Функциональная стилистика. Культура речи",
+    "section": "Функциональная стилистика. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-russian-2-1",
+    "subject": "russian",
+    "code": "2.1",
+    "title": "Разговорная речь, сферы её использования, назначение. Основные признаки разговорной речи: неофициальность, экспрессивность, неподготовленность, преимущественно диалогическая форма. Фонетические, интонационные, лексические, морфологические, синтаксические особенности разговорной речи. Основные жанры разговорной речи: устный рассказ, беседа, спор и другие",
+    "section": "Функциональная стилистика. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-2"
+  },
+  {
+    "id": "ege-russian-2-2",
+    "subject": "russian",
+    "code": "2.2",
+    "title": "Научный стиль, сферы его использования, назначение. Основные признаки научного стиля: отвлечённость, логичность, точность, объективность. Лексические, морфологические, синтаксические особенности научного стиля. Основные подстили научного стиля. Основные жанры научного стиля: монография, диссертация, научная статья, реферат, словарь, справочник, учебник и учебное пособие, лекция, доклад и другие",
+    "section": "Функциональная стилистика. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-2"
+  },
+  {
+    "id": "ege-russian-2-3",
+    "subject": "russian",
+    "code": "2.3",
+    "title": "Официально-деловой стиль, сферы его использования, назначение. Основные признаки официально-делового стиля: точность, стандартизированность, стереотипность. Лексические, морфологические, синтаксические особенности официально-делового стиля. Основные жанры официально-делового стиля: закон, устав, приказ; расписка, заявление, доверенность; автобиография, характеристика, резюме и другие",
+    "section": "Функциональная стилистика. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-2"
+  },
+  {
+    "id": "ege-russian-2-4",
+    "subject": "russian",
+    "code": "2.4",
+    "title": "Публицистический стиль, сферы его использования, назначение. Основные признаки публицистического стиля: экспрессивность, призывность, оценочность. Лексические, морфологические, синтаксические особенности публицистического стиля. Основные жанры публицистического стиля: заметка, статья, репортаж, очерк, эссе, интервью",
+    "section": "Функциональная стилистика. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 5,
+    "printedPage": 10,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-2"
+  },
+  {
+    "id": "ege-russian-2-5",
+    "subject": "russian",
+    "code": "2.5",
+    "title": "Язык художественной литературы и его отличие от других функциональных разновидностей языка. Основные признаки художественной речи: образность, широкое использование изобразительно-выразительных средств, языковых средств других функциональных разновидностей языка",
+    "section": "Функциональная стилистика. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-2"
+  },
+  {
+    "id": "ege-russian-3",
+    "subject": "russian",
+    "code": "3",
+    "title": "Язык и речь. Культура речи",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-russian-3-1",
+    "subject": "russian",
+    "code": "3.1",
+    "title": "Система языка. Культура речи",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "parentId": "ege-russian-3"
+  },
+  {
+    "id": "ege-russian-3-1-1",
+    "subject": "russian",
+    "code": "3.1.1",
+    "title": "Система языка, её устройство, функционирование. Культура речи как раздел лингвистики",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-1"
+  },
+  {
+    "id": "ege-russian-3-1-2",
+    "subject": "russian",
+    "code": "3.1.2",
+    "title": "Языковая норма, её основные признаки и функции. Виды языковых норм: орфоэпические (произносительные и акцентологические), лексические, словообразовательные, грамматические (морфологические и синтаксические). Орфографические и пунктуационные правила. Стилистические нормы современного русского литературного языка (общее представление)",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-1"
+  },
+  {
+    "id": "ege-russian-3-1-3",
+    "subject": "russian",
+    "code": "3.1.3",
+    "title": "Качества хорошей речи",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-1"
+  },
+  {
+    "id": "ege-russian-3-1-4",
+    "subject": "russian",
+    "code": "3.1.4",
+    "title": "Основные виды словарей. Толковый словарь. Словарь омонимов. Словарь иностранных слов. Словарь синонимов. Словарь антонимов. Словарь паронимов. Этимологический словарь. Диалектный словарь. Фразеологический словарь. Словообразовательный словарь. Орфографический словарь. Орфоэпический словарь. Словарь грамматических трудностей. Комплексный словарь",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-1"
+  },
+  {
+    "id": "ege-russian-3-2",
+    "subject": "russian",
+    "code": "3.2",
+    "title": "Фонетика. Орфоэпия. Орфоэпические нормы",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "parentId": "ege-russian-3"
+  },
+  {
+    "id": "ege-russian-3-2-1",
+    "subject": "russian",
+    "code": "3.2.1",
+    "title": "Фонетика и орфоэпия как разделы лингвистики. Фонетический анализ слова",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-2"
+  },
+  {
+    "id": "ege-russian-3-2-2",
+    "subject": "russian",
+    "code": "3.2.2",
+    "title": "Изобразительно-выразительные средства фонетики",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "аллитерация",
+      "ассонанс"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-2"
+  },
+  {
+    "id": "ege-russian-3-2-3",
+    "subject": "russian",
+    "code": "3.2.3",
+    "title": "Основные нормы современного литературного произношения: произношение безударных гласных звуков, некоторых согласных, сочетаний согласных. Произношение некоторых грамматических форм. Особенности произношения иноязычных слов. Нормы ударения в современном литературном русском языке",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-2"
+  },
+  {
+    "id": "ege-russian-3-3",
+    "subject": "russian",
+    "code": "3.3",
+    "title": "Лексика и фразеология. Лексические нормы",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "parentId": "ege-russian-3"
+  },
+  {
+    "id": "ege-russian-3-3-1",
+    "subject": "russian",
+    "code": "3.3.1",
+    "title": "Лексикология и фразеология как разделы лингвистики. Лексический анализ слова",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "синонимы",
+      "антонимы",
+      "жаргонизмы",
+      "профессионализмы",
+      "архаизмы",
+      "историзмы",
+      "неологизмы"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-3"
+  },
+  {
+    "id": "ege-russian-3-3-2",
+    "subject": "russian",
+    "code": "3.3.2",
+    "title": "Изобразительно-выразительные средства лексики: эпитет, метафора, метонимия, олицетворение, гипербола, сравнение",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "литота"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-3"
+  },
+  {
+    "id": "ege-russian-3-3-3",
+    "subject": "russian",
+    "code": "3.3.3",
+    "title": "Основные лексические нормы современного русского литературного языка. Многозначные слова и омонимы, их употребление. Синонимы, антонимы, паронимы и их употребление. Иноязычные слова и их употребление. Лексическая сочетаемость. Тавтология. Плеоназм",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-3"
+  },
+  {
+    "id": "ege-russian-3-3-4",
+    "subject": "russian",
+    "code": "3.3.4",
+    "title": "Функционально-стилистическая окраска слова. Лексика общеупотребительная, разговорная и книжная. Особенности употребления",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 11,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-3"
+  },
+  {
+    "id": "ege-russian-3-3-5",
+    "subject": "russian",
+    "code": "3.3.5",
+    "title": "Экспрессивно-стилистическая окраска слова. Лексика нейтральная, высокая, сниженная. Эмоционально-оценочная окраска слова (неодобрительное, ласкательное, шутливое и другое). Особенности употребления",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-3"
+  },
+  {
+    "id": "ege-russian-3-3-6",
+    "subject": "russian",
+    "code": "3.3.6",
+    "title": "Фразеология русского языка. Крылатые слова",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-3"
+  },
+  {
+    "id": "ege-russian-3-4",
+    "subject": "russian",
+    "code": "3.4",
+    "title": "Морфемика и словообразование. Словообразовательные нормы",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "parentId": "ege-russian-3"
+  },
+  {
+    "id": "ege-russian-3-4-1",
+    "subject": "russian",
+    "code": "3.4.1",
+    "title": "Морфемика и словообразование как разделы лингвистики. Морфемный и словообразовательный анализ слова",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-4"
+  },
+  {
+    "id": "ege-russian-3-4-2",
+    "subject": "russian",
+    "code": "3.4.2",
+    "title": "Словообразовательные трудности. Особенности употребления сложносокращённых слов (аббревиатур)",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-4"
+  },
+  {
+    "id": "ege-russian-3-5",
+    "subject": "russian",
+    "code": "3.5",
+    "title": "Морфология. Морфологические нормы",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "parentId": "ege-russian-3"
+  },
+  {
+    "id": "ege-russian-3-5-1",
+    "subject": "russian",
+    "code": "3.5.1",
+    "title": "Морфология как раздел лингвистики. Морфологический анализ слова. Особенности употребления в тексте слов разных частей речи",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-5"
+  },
+  {
+    "id": "ege-russian-3-5-2",
+    "subject": "russian",
+    "code": "3.5.2",
+    "title": "Основные нормы употребления имён существительных: форм рода, числа, падежа",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-5"
+  },
+  {
+    "id": "ege-russian-3-5-3",
+    "subject": "russian",
+    "code": "3.5.3",
+    "title": "Основные нормы употребления имён прилагательных: форм степеней сравнения, краткой формы",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-5"
+  },
+  {
+    "id": "ege-russian-3-5-4",
+    "subject": "russian",
+    "code": "3.5.4",
+    "title": "Основные нормы употребления количественных, порядковых и собирательных числительных",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-5"
+  },
+  {
+    "id": "ege-russian-3-5-5",
+    "subject": "russian",
+    "code": "3.5.5",
+    "title": "Основные нормы употребления местоимений: формы 3-го лица личных местоимений, возвратного местоимения себя",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-5"
+  },
+  {
+    "id": "ege-russian-3-5-6",
+    "subject": "russian",
+    "code": "3.5.6",
+    "title": "Основные нормы употребления глаголов: некоторых личных форм (типа победить, убедить, выздороветь), возвратных и невозвратных глаголов; образования некоторых глагольных форм: форм прошедшего времени с суффиксом -ну-, форм повелительного наклонения",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-5"
+  },
+  {
+    "id": "ege-russian-3-6",
+    "subject": "russian",
+    "code": "3.6",
+    "title": "Синтаксис. Синтаксические нормы",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "parentId": "ege-russian-3"
+  },
+  {
+    "id": "ege-russian-3-6-1",
+    "subject": "russian",
+    "code": "3.6.1",
+    "title": "Синтаксис как раздел лингвистики. Синтаксический анализ словосочетания и предложения",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "синтаксис",
+      "члены предложения"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-6",
+    "lessonTopicId": "russian-syntax",
+    "lessonTopicIds": [
+      "russian-syntax"
+    ]
+  },
+  {
+    "id": "ege-russian-3-6-2",
+    "subject": "russian",
+    "code": "3.6.2",
+    "title": "Изобразительно-выразительные средства синтаксиса. Синтаксический параллелизм, парцелляция, вопросно-ответная форма изложения, градация, инверсия, лексический повтор, анафора, эпифора, антитеза; риторический вопрос, риторическое восклицание, риторическое обращение; многосоюзие, бессоюзие",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-6"
+  },
+  {
+    "id": "ege-russian-3-6-3",
+    "subject": "russian",
+    "code": "3.6.3",
+    "title": "Основные нормы согласования сказуемого с подлежащим, в состав которого входят слова множество, ряд, большинство, меньшинство; с подлежащим, выраженным количественно-именным сочетанием (двадцать лет, пять человек); имеющим в своём составе числительные, оканчивающиеся на один; имеющим в своём составе числительные два, три, четыре или числительное, оканчивающееся на два, три, четыре. Согласование сказуемого с подлежащим, имеющим при себе приложение (типа диван-кровать, озеро Байкал). Согласование сказуемого с подлежащим, выраженным аббревиатурой, заимствованным несклоняемым существительным",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-6"
+  },
+  {
+    "id": "ege-russian-3-6-4",
+    "subject": "russian",
+    "code": "3.6.4",
+    "title": "Основные нормы управления: правильный выбор падежной или предложно-падежной формы управляемого слова",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-6"
+  },
+  {
+    "id": "ege-russian-3-6-5",
+    "subject": "russian",
+    "code": "3.6.5",
+    "title": "Основные нормы употребления однородных членов предложения",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 6,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-6"
+  },
+  {
+    "id": "ege-russian-3-6-6",
+    "subject": "russian",
+    "code": "3.6.6",
+    "title": "Основные нормы употребления причастных и деепричастных оборотов",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-6"
+  },
+  {
+    "id": "ege-russian-3-6-7",
+    "subject": "russian",
+    "code": "3.6.7",
+    "title": "Основные нормы построения сложных предложений",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-6"
+  },
+  {
+    "id": "ege-russian-3-7",
+    "subject": "russian",
+    "code": "3.7",
+    "title": "Орфография. Основные правила орфографии",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "parentId": "ege-russian-3"
+  },
+  {
+    "id": "ege-russian-3-7-1",
+    "subject": "russian",
+    "code": "3.7.1",
+    "title": "Употребление прописных и строчных букв",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7"
+  },
+  {
+    "id": "ege-russian-3-7-2",
+    "subject": "russian",
+    "code": "3.7.2",
+    "title": "Правописание гласных и согласных в корне",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "чередующиеся гласные",
+      "орфограммы"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7"
+  },
+  {
+    "id": "ege-russian-3-7-3",
+    "subject": "russian",
+    "code": "3.7.3",
+    "title": "Употребление ъ и ь (в том числе разделительных)",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7"
+  },
+  {
+    "id": "ege-russian-3-7-4",
+    "subject": "russian",
+    "code": "3.7.4",
+    "title": "Правописание приставок. Буквы ы – и после приставок",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7"
+  },
+  {
+    "id": "ege-russian-3-7-5",
+    "subject": "russian",
+    "code": "3.7.5",
+    "title": "Правописание суффиксов",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7"
+  },
+  {
+    "id": "ege-russian-3-7-6",
+    "subject": "russian",
+    "code": "3.7.6",
+    "title": "Правописание н и нн в словах различных частей речи",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7"
+  },
+  {
+    "id": "ege-russian-3-7-7",
+    "subject": "russian",
+    "code": "3.7.7",
+    "title": "Правописание не и ни",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "не",
+      "ни",
+      "частицы"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7",
+    "lessonTopicId": "russian-ne-ni",
+    "lessonTopicIds": [
+      "russian-ne-ni"
+    ]
+  },
+  {
+    "id": "ege-russian-3-7-8",
+    "subject": "russian",
+    "code": "3.7.8",
+    "title": "Правописание окончаний имён существительных, имён прилагательных и глаголов",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7"
+  },
+  {
+    "id": "ege-russian-3-7-9",
+    "subject": "russian",
+    "code": "3.7.9",
+    "title": "Слитное, дефисное и раздельное написание слов разных частей речи",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-7"
+  },
+  {
+    "id": "ege-russian-3-8",
+    "subject": "russian",
+    "code": "3.8",
+    "title": "Пунктуация. Основные правила пунктуации",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "parentId": "ege-russian-3"
+  },
+  {
+    "id": "ege-russian-3-8-1",
+    "subject": "russian",
+    "code": "3.8.1",
+    "title": "Пунктуационный анализ предложения",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8"
+  },
+  {
+    "id": "ege-russian-3-8-2",
+    "subject": "russian",
+    "code": "3.8.2",
+    "title": "Знаки препинания в конце предложений",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8"
+  },
+  {
+    "id": "ege-russian-3-8-3",
+    "subject": "russian",
+    "code": "3.8.3",
+    "title": "Знаки препинания между подлежащим и сказуемым",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8"
+  },
+  {
+    "id": "ege-russian-3-8-4",
+    "subject": "russian",
+    "code": "3.8.4",
+    "title": "Знаки препинания в предложениях с однородными членами",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8"
+  },
+  {
+    "id": "ege-russian-3-8-5",
+    "subject": "russian",
+    "code": "3.8.5",
+    "title": "Знаки препинания при обособлении",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8"
+  },
+  {
+    "id": "ege-russian-3-8-6",
+    "subject": "russian",
+    "code": "3.8.6",
+    "title": "Знаки препинания в предложениях с вводными конструкциями, обращениями, междометиями",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8"
+  },
+  {
+    "id": "ege-russian-3-8-7",
+    "subject": "russian",
+    "code": "3.8.7",
+    "title": "Знаки препинания в сложном предложении",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "запятые",
+      "сложное предложение",
+      "придаточное"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8",
+    "lessonTopicId": "russian-commas",
+    "lessonTopicIds": [
+      "russian-commas"
+    ]
+  },
+  {
+    "id": "ege-russian-3-8-8",
+    "subject": "russian",
+    "code": "3.8.8",
+    "title": "Знаки препинания в сложном предложении с разными видами связи",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8"
+  },
+  {
+    "id": "ege-russian-3-8-9",
+    "subject": "russian",
+    "code": "3.8.9",
+    "title": "Знаки препинания при передаче чужой речи",
+    "section": "Язык и речь. Культура речи",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-3-8"
+  },
+  {
+    "id": "ege-russian-4",
+    "subject": "russian",
+    "code": "4",
+    "title": "Общие сведения о языке",
+    "section": "Общие сведения о языке",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-russian-4-1",
+    "subject": "russian",
+    "code": "4.1",
+    "title": "Язык как знаковая система. Основные функции языка. Лингвистика как наука. Язык и культура",
+    "section": "Общие сведения о языке",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-4"
+  },
+  {
+    "id": "ege-russian-4-2",
+    "subject": "russian",
+    "code": "4.2",
+    "title": "Русский язык – государственный язык Российской Федерации, средство межнационального общения, национальный язык русского народа, один из мировых языков",
+    "section": "Общие сведения о языке",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-4"
+  },
+  {
+    "id": "ege-russian-4-3",
+    "subject": "russian",
+    "code": "4.3",
+    "title": "Формы существования русского национального языка. Литературный язык, просторечие, народные говоры, профессиональные разновидности, жаргон, арго. Роль литературного языка в обществе",
+    "section": "Общие сведения о языке",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-4"
+  },
+  {
+    "id": "ege-russian-4-4",
+    "subject": "russian",
+    "code": "4.4",
+    "title": "Культура речи в экологическом аспекте. Экология как наука, экология языка. Проблемы речевой культуры в современном обществе (стилистические изменения в лексике, огрубление обиходно-разговорной речи, неоправданное употребление иноязычных заимствований и другое)",
+    "section": "Общие сведения о языке",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-4"
+  },
+  {
+    "id": "ege-russian-5",
+    "subject": "russian",
+    "code": "5",
+    "title": "Речь. Речевое общение",
+    "section": "Речь. Речевое общение",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-russian-5-1",
+    "subject": "russian",
+    "code": "5.1",
+    "title": "Речь как деятельность. Виды речевой деятельности. Речевое общение и его виды. Основные сферы речевого общения. Речевая ситуация и её компоненты (адресант и адресат; мотивы и цели, предмет и тема речи; условия общения)",
+    "section": "Речь. Речевое общение",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-5"
+  },
+  {
+    "id": "ege-russian-5-2",
+    "subject": "russian",
+    "code": "5.2",
+    "title": "Речевой этикет. Основные функции речевого этикета (установление и поддержание контакта, демонстрация доброжелательности и вежливости, уважительного отношения, говорящего к партнёру и другие). Устойчивые формулы русского речевого этикета применительно к различным ситуациям официального/неофициального общения, статусу адресанта/адресата и другим",
+    "section": "Речь. Речевое общение",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-5"
+  },
+  {
+    "id": "ege-russian-5-3",
+    "subject": "russian",
+    "code": "5.3",
+    "title": "Публичное выступление и его особенности. Тема, цель, основной тезис (основная мысль), план и композиция публичного выступления. Виды аргументации. Выбор языковых средств оформления публичного выступления с учётом его цели, особенностей адресата, ситуации общения",
+    "section": "Речь. Речевое общение",
+    "sourceId": "fipi-russian-2026",
+    "sourceDocumentId": "fipi-russian-2026-codifier",
+    "page": 7,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic"
+    ],
+    "parentId": "ege-russian-5"
+  }
+]

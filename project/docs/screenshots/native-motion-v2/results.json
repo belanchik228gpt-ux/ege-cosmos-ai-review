@@ -1,0 +1,46 @@
+{
+  "at": "2026-09-07T22:21:06.869Z",
+  "kind": "Actual packaged Windows EXE; no model invoked",
+  "appAsarSha256": "8b814bdd7b5a7bd5817c18ecbfb4b522f63e404c36745bb226317174bdfe1aa8",
+  "errors": [],
+  "rectangle": {
+    "motions": [
+      {
+        "property": "opacity",
+        "state": "paused",
+        "time": 225.10000001788103,
+        "end": 650
+      },
+      {
+        "property": "opacity",
+        "state": "paused",
+        "time": 225.10000001788103,
+        "end": 650
+      },
+      {
+        "property": "stroke-dashoffset",
+        "state": "paused",
+        "time": 225.10000001788103,
+        "end": 1400
+      }
+    ],
+    "pausedPixelsEqual": true,
+    "resumedPixelsChanged": true
+  },
+  "keyboardAndOutline": true,
+  "median": {
+    "pausedX": 385.359,
+    "endX": 360,
+    "pausedPixelsEqual": true,
+    "resumedPixelsChanged": true
+  },
+  "narrow": {
+    "viewport": {
+      "width": 604,
+      "height": 844
+    },
+    "overflow": false
+  },
+  "focus": true,
+  "reformIntermediate": true
+}

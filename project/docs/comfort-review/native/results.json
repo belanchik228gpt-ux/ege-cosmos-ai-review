@@ -1,0 +1,52 @@
+{
+  "at": "2026-09-08T05:02:19.752Z",
+  "kind": "packaged Windows EXE",
+  "appAsarSha256": "97817af489d33de595e4ca469a52292b6cd52fd02991d38b97c48a2dbc0266c3",
+  "checks": [
+    {
+      "name": "actual-packaged-executable",
+      "status": "pass"
+    },
+    {
+      "name": "five-live-palettes",
+      "status": "pass"
+    },
+    {
+      "name": "command-jump-to-median",
+      "status": "pass"
+    },
+    {
+      "name": "focus-bookmark-notebook",
+      "status": "pass"
+    },
+    {
+      "name": "narrow-large-font-no-overflow",
+      "status": "pass"
+    },
+    {
+      "name": "knowledge-and-FIPI-source-distinction",
+      "status": "pass"
+    },
+    {
+      "name": "knowledge-checkpoint-waits-for-attempt",
+      "status": "pass"
+    },
+    {
+      "name": "offline-FIPI-PDF-inside-application",
+      "status": "pass"
+    },
+    {
+      "name": "FIPI-question-uses-registered-sources",
+      "status": "pass"
+    },
+    {
+      "name": "appearance-note-bookmark-persisted-on-disk",
+      "status": "pass"
+    },
+    {
+      "name": "no-renderer-exceptions",
+      "status": "pass"
+    }
+  ],
+  "errors": []
+}

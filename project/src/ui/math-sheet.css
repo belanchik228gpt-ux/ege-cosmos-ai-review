@@ -1,0 +1,314 @@
+.math-sheet {
+  width: min(1540px, 96vw);
+  max-width: 96vw;
+  height: 94vh;
+  max-height: 94vh;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #9972e580;
+  border-radius: 18px;
+  background: #15111f;
+  color: #f3effb;
+  box-shadow: 0 12px 80px #0009;
+  overflow: hidden;
+}
+.math-sheet[open] {
+  display: flex;
+  flex-direction: column;
+}
+.math-sheet::backdrop {
+  background: #080611d9;
+}
+.math-sheet header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 22px;
+  gap: 15px;
+}
+.math-sheet header span {
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  color: #baa0eb;
+}
+.math-sheet header h2 {
+  margin: 5px 0 0;
+  font-size: 18px;
+}
+.math-sheet button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-height: 36px;
+  padding: 7px 10px;
+  color: #e7dcf5;
+  background: #241c32;
+  border: 1px solid #4c395f;
+  border-radius: 8px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 12px;
+}
+.math-sheet button[aria-pressed='true'] {
+  background: #7350b6;
+  border-color: #bb9afd;
+}
+.math-sheet button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.math-sheet button:focus-visible,
+.math-sheet input:focus-visible,
+.math-sheet select:focus-visible {
+  outline: 2px solid #ab89fc;
+  outline-offset: 2px;
+}
+.sheet-tools {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 7px;
+  padding: 8px 18px 12px;
+  border-bottom: 1px solid #ffffff12;
+}
+.sheet-tools label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+}
+.sheet-tools input[type='color'] {
+  width: 32px;
+  height: 32px;
+  padding: 2px;
+}
+.sheet-tools input[type='range'] {
+  width: 74px;
+  padding: 0;
+}
+.sheet-tools input[type='checkbox'] {
+  accent-color: #a27afa;
+}
+.sheet-tools select {
+  padding: 7px;
+  font-size: 12px;
+}
+.sheet-viewport {
+  min-height: 100px;
+  flex: 1;
+  overflow: auto;
+  overscroll-behavior: contain;
+  padding: 16px;
+  background: #252331;
+}
+.sheet-paper {
+  margin-inline: auto;
+  max-width: none;
+  line-height: 0;
+  box-shadow: 0 3px 18px #0004;
+  background: white;
+}
+.sheet-paper canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  touch-action: none;
+  cursor: crosshair;
+}
+.math-sheet footer {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 20px 4px;
+}
+.math-sheet footer > div {
+  flex: 1;
+  min-width: 0;
+}
+.math-sheet footer label {
+  display: block;
+  font-size: 11px;
+  margin-bottom: 5px;
+  color: #b5a4c7;
+}
+.math-sheet footer input {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 13px;
+  padding: 8px 11px;
+}
+.math-sheet footer small {
+  display: block;
+  font-size: 10px;
+  color: #b7a7cd;
+  margin-top: 5px;
+}
+.math-sheet .sheet-check {
+  background: #9163e5;
+  color: white;
+  padding: 12px 17px;
+  font-weight: 600;
+}
+.math-sheet .sheet-hint {
+  font-size: 10px;
+  margin: 5px 20px 10px;
+  color: #ac9bbb;
+}
+.math-sheet .sheet-label {
+  margin: 5px 18px 10px;
+  padding: 8px 12px;
+}
+@media (max-width: 780px) {
+  .sheet-tools button span {
+    display: none;
+  }
+  .math-sheet header {
+    padding: 10px 14px;
+  }
+  .math-sheet header h2 {
+    font-size: 15px;
+  }
+  .math-sheet footer {
+    flex-wrap: wrap;
+    gap: 7px;
+    padding: 9px 12px;
+  }
+  .math-sheet footer > div {
+    flex-basis: 100%;
+  }
+  .sheet-viewport {
+    padding: 7px;
+  }
+  .sheet-tools {
+    padding: 6px 10px;
+  }
+}
+
+.sheet-export-path {
+  font-size: 11px;
+  color: #c7b9d7;
+  overflow-wrap: anywhere;
+  margin: 0 20px 8px;
+}
+
+.sheet-assignment {
+  flex: 0 0 auto;
+  padding: 8px 18px;
+  background: #f6f3fc;
+  color: #252038;
+  border-bottom: 2px solid #bc9fea;
+}
+.sheet-assignment-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 13px;
+}
+.sheet-assignment-content {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  max-height: 130px;
+  overflow: auto;
+  margin-top: 5px;
+}
+.sheet-assignment-content img {
+  display: block;
+  max-height: 110px;
+  max-width: 60%;
+  object-fit: contain;
+  cursor: zoom-in;
+  flex-shrink: 0;
+}
+.math-sheet .sheet-assignment-content .tutor-markdown {
+  min-width: 0;
+  color: #302741;
+  flex: 1;
+}
+.math-sheet .sheet-assignment-content .katex-display {
+  margin: 8px 0;
+  text-align: left;
+}
+.math-sheet .sheet-assignment-content p {
+  color: #302741;
+  font-size: 15px;
+  line-height: 1.45;
+  margin: 3px 0;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.sheet-assignment > small {
+  display: block;
+  margin-top: 4px;
+  font-size: 10px;
+  color: #62546f;
+}
+.sheet-reference-zoom {
+  position: absolute;
+  inset: 0;
+  z-index: 8;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background: #171220;
+}
+.sheet-reference-zoom > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.sheet-reference-zoom > img {
+  display: block;
+  min-height: 0;
+  flex: 1;
+  width: 100%;
+  object-fit: contain;
+  background: white;
+}
+.sheet-reference-zoom p {
+  font-size: 12px;
+  margin: 0;
+  color: #c7b9d7;
+}
+@media (max-height: 780px) {
+  .math-sheet header {
+    padding: 8px 16px;
+  }
+  .sheet-tools {
+    padding: 5px 14px;
+    gap: 5px;
+  }
+  .sheet-tools button span {
+    display: none;
+  }
+  .sheet-assignment {
+    padding: 5px 14px;
+  }
+  .sheet-assignment-content {
+    max-height: 85px;
+  }
+  .sheet-assignment-content img {
+    max-height: 80px;
+  }
+  .sheet-assignment-content p {
+    font-size: 13px;
+  }
+  .sheet-assignment > small {
+    display: none;
+  }
+  .math-sheet footer {
+    padding-top: 6px;
+  }
+}
+@media (max-width: 780px) {
+  .sheet-assignment-content img {
+    max-width: 48%;
+  }
+  .sheet-assignment-heading {
+    font-size: 12px;
+  }
+}

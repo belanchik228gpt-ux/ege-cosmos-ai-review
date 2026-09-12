@@ -1,0 +1,94 @@
+{
+  "createdAt": "2026-09-10T14:07:46.153101+03:00",
+  "assets": [
+    {
+      "file": "public/ton618/CatalogBackground/ton618-catalog-preview.png",
+      "bytes": 2185359,
+      "sha256": "16d6f9c624e87add0a7c1c616e735aa9a77676d684bf4834d703e5f46d40681d"
+    },
+    {
+      "file": "public/ton618/CatalogBackground/ton618-catalog-preview.webp",
+      "bytes": 302608,
+      "sha256": "2734c92b927c61b33c89db91dfceb177e868e9141f6d3eac5f287c40bf0a1479"
+    },
+    {
+      "file": "public/ton618/DefaultBackground/ton618-default-reduced-motion.webp",
+      "bytes": 306638,
+      "sha256": "9cfb57c3ffce884de590612010b978b5441b33ab2ac5efdceab13dd73ffd2c6f"
+    },
+    {
+      "file": "public/ton618/DefaultBackground/ton618-default-star-off.webp",
+      "bytes": 315224,
+      "sha256": "b1a8f60d3192a1d5ac3fefc07d890b78919fe280aac68360a588f8ada2c65c44"
+    },
+    {
+      "file": "public/ton618/DefaultBackground/ton618-default-static.png",
+      "bytes": 2207821,
+      "sha256": "151e3b4e4ac8d3f2d2c281aa0259b69b1cc3ebfd1e59ad843ae929bd8b00985f"
+    },
+    {
+      "file": "public/ton618/DefaultBackground/ton618-default-static.webp",
+      "bytes": 305510,
+      "sha256": "9f99943314e55e1fa97148f61f0af21cc3450f6986d784a92f4f0149e1d91bbc"
+    },
+    {
+      "file": "public/ton618/PalettePreviews/ton618-palette-deep-blue.webp",
+      "bytes": 295190,
+      "sha256": "266b98e8fcdbf695802f952011a975168f6f534c9cf6a3d8d1b9fa2bae361803"
+    },
+    {
+      "file": "public/ton618/PalettePreviews/ton618-palette-monochrome.webp",
+      "bytes": 251934,
+      "sha256": "907152f0fceb29edbff0d2952f109b7c2383b7c6625316a5f8488eea70c7bb60"
+    },
+    {
+      "file": "public/ton618/PalettePreviews/ton618-palette-red-solar.webp",
+      "bytes": 290610,
+      "sha256": "bd4c793d8e001b712537c2b146b7b3952d8f06ae554722eaf1f492d2846cbc9d"
+    },
+    {
+      "file": "public/ton618/PalettePreviews/ton618-palette-violet-cosmos.webp",
+      "bytes": 288266,
+      "sha256": "b8b2bf3b8f45cc92f22ab3e8eb31bc18b84ce0fee507ee41e18a66dd28ca0e57"
+    },
+    {
+      "file": "public/ton618/PalettePreviews/ton618-palette-warm-gold.webp",
+      "bytes": 299450,
+      "sha256": "adf803ca5a54468117209c1162c78d28137d81e86918e020de13992c9b49da3b"
+    },
+    {
+      "file": "public/ton618/PaletteVideos/ton618-bronze-1920.mp4",
+      "bytes": 35344598,
+      "sha256": "132f752698378e86e70515a275afd655027fcdf1e03ed971e714c3bb942dfbf7"
+    },
+    {
+      "file": "public/ton618/PaletteVideos/ton618-deep-blue-1920.mp4",
+      "bytes": 33385792,
+      "sha256": "42c455c17dcc605cf62cf2c2b8d9e68722d5f7655c8f7621ddda94999785df51"
+    },
+    {
+      "file": "public/ton618/PaletteVideos/ton618-violet-1920.mp4",
+      "bytes": 32534149,
+      "sha256": "636ffba454ddce0cc2f0554cf324c26221a950755c3a2469601d6671d2b75473"
+    },
+    {
+      "file": "public/ton618/PaletteVideos/ton618-warm-gold-1920.mp4",
+      "bytes": 34834472,
+      "sha256": "74f9d0b98b7e3314c659c3ef6d96cc27c1c083477278bee7cd8f86b76169d73f"
+    },
+    {
+      "file": "public/ton618/PaletteVideos/ton618-monochrome-1920.mp4",
+      "bytes": 32515151,
+      "sha256": "137a9369720ac979b2e9f6928f20177903fe32792f9e1a890ea35c7b35a72758"
+    },
+    {
+      "file": "public/ton618/PaletteVideos/ton618-red-solar-1920.mp4",
+      "bytes": 32912664,
+      "sha256": "73a44bd81507531db5f23ec0ec226403b6305a47db2930df8b01e7b2ba6e11b2"
+    }
+  ],
+  "mediaBytes": 143147621,
+  "mp4Count": 4,
+  "integratedIntoCosmos": false,
+  "verification": "Current SHA-256 and size match source metadata; prior full decode and browser playback, no new application integration test."
+}

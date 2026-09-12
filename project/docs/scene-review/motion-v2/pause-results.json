@@ -1,0 +1,28 @@
+{
+  "at": "2026-09-07T21:51:35.442Z",
+  "errors": [],
+  "animationsAtPause": [
+    {
+      "property": "opacity",
+      "state": "paused",
+      "time": 205.0020000000004,
+      "end": 650
+    },
+    {
+      "property": "opacity",
+      "state": "paused",
+      "time": 205.0020000000004,
+      "end": 650
+    },
+    {
+      "property": "stroke-dashoffset",
+      "state": "paused",
+      "time": 205.0020000000004,
+      "end": 1400
+    }
+  ],
+  "pixelsEqualOnPause": true,
+  "pixelsChangedOnResume": true,
+  "keyboard": true,
+  "outline": true
+}

@@ -1,0 +1,115 @@
+{
+  "at": "2026-09-08T12:19:59.464Z",
+  "kind": "Headless Chrome source application; NOT packaged EXE",
+  "expectedScenes": [
+    {
+      "sceneId": "rectangle",
+      "title": "Площадь прямоугольника",
+      "topicId": "math-rectangle",
+      "steps": 12,
+      "formulaStep": 12,
+      "formula": "S = a · b"
+    },
+    {
+      "sceneId": "triangle",
+      "title": "Площадь треугольника",
+      "topicId": "math-triangle",
+      "steps": 9,
+      "formulaStep": 9,
+      "formula": "S = a · h / 2"
+    },
+    {
+      "sceneId": "median",
+      "title": "Медиана треугольника",
+      "topicId": "math-median",
+      "steps": 13,
+      "formulaStep": 13,
+      "formula": "AM — медиана ⇔ BM = MC"
+    },
+    {
+      "sceneId": "fraction",
+      "title": "Как устроена дробь",
+      "topicId": "math-fraction",
+      "steps": 9,
+      "formulaStep": 9,
+      "formula": "3/8"
+    },
+    {
+      "sceneId": "multiply",
+      "title": "Умножение дробей",
+      "topicId": "math-multiply",
+      "steps": 9,
+      "formulaStep": 9,
+      "formula": "2/3 · 3/4 = 1/2"
+    },
+    {
+      "sceneId": "percent",
+      "title": "Проценты без путаницы",
+      "topicId": "math-percent",
+      "steps": 6,
+      "formulaStep": 6,
+      "formula": "25% от 80 = 20"
+    },
+    {
+      "sceneId": "syntax",
+      "title": "Основа предложения",
+      "topicId": "russian-syntax",
+      "steps": 6,
+      "formulaStep": 6,
+      "formula": "(Когда …), [ … ]."
+    },
+    {
+      "sceneId": "commas",
+      "title": "Запятая между частями",
+      "topicId": "russian-commas",
+      "steps": 6,
+      "formulaStep": 6,
+      "formula": "(Когда …), [ … ]."
+    },
+    {
+      "sceneId": "ne-ni",
+      "title": "НЕ и НИ: смысл частицы",
+      "topicId": "russian-ne-ni",
+      "steps": 5,
+      "formulaStep": 5,
+      "formula": "не пропустил + ни одного"
+    },
+    {
+      "sceneId": "baptism",
+      "title": "Крещение Руси",
+      "topicId": "history-baptism",
+      "steps": 7,
+      "formulaStep": 7,
+      "formula": "Причины → 988 → последствия"
+    },
+    {
+      "sceneId": "reform",
+      "title": "Отмена крепостного права",
+      "topicId": "history-reform",
+      "steps": 7,
+      "formulaStep": 7,
+      "formula": "Личная свобода ≠ бесплатная земля"
+    },
+    {
+      "sceneId": "demand",
+      "title": "Спрос и предложение",
+      "topicId": "social-demand",
+      "steps": 7,
+      "formulaStep": 7,
+      "formula": "P ↑ → Q спроса ↓"
+    },
+    {
+      "sceneId": "groups",
+      "title": "Социальные группы",
+      "topicId": "social-groups",
+      "steps": 6,
+      "formulaStep": 6,
+      "formula": "Один человек → несколько групп"
+    }
+  ],
+  "sourceRegistrySha256": "750f3702cb51cb5327012b1d966910d071ecc598384fafa250dee17401661e69",
+  "sourceClockSha256": "43757d81553270c2a55938e5fe9a53b5e01137fe77a4be165b7fe9ac666aad4b",
+  "scenes": [],
+  "errors": [],
+  "passed": false
+}

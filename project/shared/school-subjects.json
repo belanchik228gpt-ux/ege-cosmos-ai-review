@@ -1,0 +1,164 @@
+[
+  {
+    "id": "math",
+    "title": "Математика",
+    "color": "#b99aff",
+    "icon": "sigma",
+    "description": "Алгебра, геометрия, вероятность и статистика",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "russian",
+    "title": "Русский язык",
+    "color": "#7fd9f5",
+    "icon": "book",
+    "description": "Язык, грамотность и речь",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "literature",
+    "title": "Литература",
+    "color": "#f6a7c8",
+    "icon": "library",
+    "description": "Произведения, герои и работа с текстом",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "english",
+    "title": "Английский язык",
+    "color": "#8bc2ff",
+    "icon": "languages",
+    "description": "Общение, грамматика, чтение и письмо",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "history",
+    "title": "История",
+    "color": "#f0c576",
+    "icon": "landmark",
+    "description": "История России и всеобщая история",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "social",
+    "title": "Обществознание",
+    "color": "#82dcc1",
+    "icon": "people",
+    "description": "Человек, общество, экономика и право",
+    "grades": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "geography",
+    "title": "География",
+    "color": "#71d1ae",
+    "icon": "globe",
+    "description": "Карты, природа, население и хозяйство",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "physics",
+    "title": "Физика",
+    "color": "#8acbff",
+    "icon": "atom",
+    "description": "Законы природы и решение задач",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "chemistry",
+    "title": "Химия",
+    "color": "#c2ed82",
+    "icon": "flask",
+    "description": "Вещества, строение и превращения",
+    "grades": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "biology",
+    "title": "Биология",
+    "color": "#81dd9f",
+    "icon": "leaf",
+    "description": "Живые системы: от клетки до биосферы",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "informatics",
+    "title": "Информатика",
+    "color": "#abafff",
+    "icon": "code",
+    "description": "Информация, алгоритмы и программирование",
+    "grades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "project",
+    "title": "Индивидуальный проект",
+    "color": "#e6c787",
+    "icon": "compass",
+    "description": "Вопрос, исследование, результат и защита",
+    "grades": [
+      10,
+      11
+    ]
+  }
+]

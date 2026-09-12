@@ -1,0 +1,681 @@
+@media (min-width: 1500px) {
+  .main-content {
+    padding-top: 40px !important;
+  }
+  .hero-card {
+    min-height: 390px !important;
+  }
+  .hero-copy {
+    padding: 35px 39px !important;
+  }
+  .hero-card h2 {
+    font-size: calc(46px * var(--text-scale, 1)) !important;
+  }
+  .hero-card p {
+    font-size: calc(14px * var(--text-scale, 1)) !important;
+  }
+  .subject-card {
+    min-height: 265px !important;
+  }
+  .subject-card h3 {
+    font-size: calc(19px * var(--text-scale, 1)) !important;
+  }
+  .subject-card p {
+    font-size: calc(12px * var(--text-scale, 1)) !important;
+  }
+  .today-card {
+    padding: 28px !important;
+  }
+  .today-card h2 {
+    font-size: calc(30px * var(--text-scale, 1)) !important;
+  }
+  .today-list strong {
+    font-size: calc(14px * var(--text-scale, 1)) !important;
+  }
+  .today-list button div > span {
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+  }
+  .lesson-layout {
+    grid-template-columns: minmax(0, 1fr) 370px !important;
+  }
+  .tutor-panel {
+    height: 800px !important;
+  }
+  .message > p {
+    font-size: calc(14px * var(--text-scale, 1)) !important;
+  }
+}
+@media (max-width: 1150px) {
+  .app-header {
+    padding: 0 24px !important;
+    gap: 22px !important;
+  }
+  .brand {
+    min-width: 158px !important;
+  }
+  .primary-nav button {
+    padding: 11px !important;
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+  }
+  .local-pill {
+    display: none !important;
+  }
+  .subject-bar {
+    padding: 0 24px !important;
+    gap: 12px !important;
+  }
+  .subject-bar-label {
+    display: none !important;
+  }
+  .main-content {
+    padding: 28px !important;
+  }
+  .app-footer {
+    padding-left: 28px !important;
+    padding-right: 28px !important;
+  }
+  .hero-card h2 {
+    font-size: calc(37px * var(--text-scale, 1)) !important;
+  }
+  .hero-copy {
+    padding: 27px !important;
+  }
+  .orbit-art {
+    right: -60px !important;
+    opacity: 0.85 !important;
+  }
+  .today-card {
+    padding: 21px !important;
+  }
+  .today-list strong {
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+  }
+  .subject-card {
+    padding: 18px !important;
+  }
+  .subject-card h3 {
+    font-size: calc(15px * var(--text-scale, 1)) !important;
+  }
+  .lesson-layout {
+    grid-template-columns: minmax(0, 1fr) 310px !important;
+    gap: 16px !important;
+  }
+  .stats-grid {
+    gap: 10px !important;
+  }
+  .stat-card {
+    padding: 17px !important;
+    gap: 10px !important;
+  }
+  .stat-card strong {
+    font-size: calc(26px * var(--text-scale, 1)) !important;
+  }
+  .stat-card span:not(.icon-badge) {
+    font-size: calc(9px * var(--text-scale, 1)) !important;
+  }
+}
+@media (max-width: 850px) {
+  .app-header {
+    height: 76px !important;
+    gap: 15px !important;
+  }
+  .primary-nav {
+    margin-left: auto !important;
+  }
+  .primary-nav button span {
+    display: none !important;
+  }
+  .header-right {
+    margin-left: 0 !important;
+    gap: 5px !important;
+  }
+  .subject-bar {
+    flex-wrap: wrap !important;
+    padding: 10px 20px !important;
+    gap: 5px !important;
+  }
+  .subject-bar nav {
+    flex: 1 !important;
+    justify-content: space-between !important;
+  }
+  .subject-bar nav button {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+    padding: 8px !important;
+    gap: 6px !important;
+  }
+  .background-link {
+    display: none !important;
+  }
+  .home-feature-grid {
+    grid-template-columns: 1.6fr 1fr !important;
+    gap: 14px !important;
+  }
+  .hero-card h2 {
+    font-size: calc(34px * var(--text-scale, 1)) !important;
+  }
+  .hero-copy {
+    padding: 24px !important;
+  }
+  .hero-card {
+    min-height: 365px !important;
+  }
+  .hero-copy .pill {
+    font-size: calc(7px * var(--text-scale, 1)) !important;
+  }
+  .orbit-art {
+    opacity: 0.4 !important;
+    right: -95px !important;
+    width: 90% !important;
+  }
+  .today-card h2 {
+    font-size: calc(24px * var(--text-scale, 1)) !important;
+  }
+  .subject-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .subject-card {
+    min-height: 245px !important;
+  }
+  .subject-card h3 {
+    font-size: calc(19px * var(--text-scale, 1)) !important;
+  }
+  .subject-card p {
+    font-size: calc(12px * var(--text-scale, 1)) !important;
+  }
+  .date-streak {
+    flex-direction: column !important;
+    align-items: flex-end !important;
+  }
+  .date-streak > span:first-child {
+    border: 0 !important;
+    padding: 0 !important;
+  }
+  .quick-grid {
+    gap: 12px !important;
+  }
+  .quick-card {
+    padding: 15px !important;
+    gap: 10px !important;
+  }
+  .quick-card h3 {
+    font-size: calc(12px * var(--text-scale, 1)) !important;
+  }
+  .quick-card p {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+  }
+  .quick-card > svg {
+    display: none !important;
+  }
+  .bottom-insights {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+  .app-footer {
+    flex-wrap: wrap !important;
+  }
+  .app-footer > .small {
+    display: none !important;
+  }
+  .topic-grid,
+  .plan-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .lesson-layout {
+    grid-template-columns: 1fr !important;
+  }
+  .tutor-panel {
+    position: relative !important;
+    top: 0 !important;
+    max-height: 650px !important;
+    height: 600px !important;
+  }
+  .lesson-title h1 {
+    font-size: calc(29px * var(--text-scale, 1)) !important;
+  }
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .week-strip {
+    gap: 7px !important;
+  }
+  .week-strip > div {
+    padding: 15px 8px !important;
+  }
+  .week-strip small {
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+  }
+  .progress-subjects,
+  .settings-grid,
+  .memory-layout {
+    grid-template-columns: 1fr !important;
+  }
+  .memory-subjects {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .document-create {
+    grid-template-columns: 1fr !important;
+    gap: 24px !important;
+  }
+  .document-create > div:first-child {
+    display: none !important;
+  }
+  .document-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .page-heading {
+    align-items: flex-start !important;
+  }
+  .page-heading > .button {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+    padding: 10px !important;
+  }
+  .sources-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .background-preview {
+    height: 200px !important;
+  }
+  .background-preview .orbit-art {
+    opacity: 1 !important;
+    width: 100% !important;
+    right: 0 !important;
+  }
+  .room-symbol {
+    margin: 0 20px !important;
+  }
+  .settings-tabs button {
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+    padding: 10px !important;
+  }
+}
+@media (max-width: 570px) {
+  .app-header {
+    padding: 0 16px !important;
+    height: 70px !important;
+  }
+  .brand {
+    min-width: 135px !important;
+    gap: 8px !important;
+  }
+  .brand b {
+    font-size: calc(16px * var(--text-scale, 1)) !important;
+  }
+  .brand small {
+    font-size: calc(6px * var(--text-scale, 1)) !important;
+  }
+  .brand-mark {
+    width: 35px !important;
+    height: 35px !important;
+    border-radius: 10px !important;
+  }
+  .brand-mark svg {
+    width: 23px !important;
+  }
+  .primary-nav {
+    gap: 0 !important;
+  }
+  .primary-nav button {
+    padding: 9px !important;
+  }
+  .header-right > .icon-button {
+    display: none !important;
+  }
+  .avatar {
+    height: 29px !important;
+    width: 29px !important;
+  }
+  .subject-bar {
+    padding: 8px 8px !important;
+  }
+  .subject-bar nav button {
+    font-size: calc(9px * var(--text-scale, 1)) !important;
+    padding: 7px 5px !important;
+    gap: 4px !important;
+  }
+  .subject-bar svg {
+    width: 13px !important;
+  }
+  .main-content {
+    padding: 24px 18px !important;
+  }
+  .home-intro {
+    align-items: flex-start !important;
+    margin-bottom: 22px !important;
+  }
+  .home-intro h1 {
+    font-size: calc(29px * var(--text-scale, 1)) !important;
+  }
+  .home-intro .eyebrow {
+    font-size: calc(7px * var(--text-scale, 1)) !important;
+    letter-spacing: 0.14em !important;
+  }
+  .home-intro p {
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+    max-width: 210px !important;
+  }
+  .date-streak {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+    gap: 10px !important;
+  }
+  .date-streak svg {
+    width: 14px !important;
+  }
+  .home-feature-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .hero-card {
+    min-height: 344px !important;
+  }
+  .hero-card h2 {
+    font-size: calc(38px * var(--text-scale, 1)) !important;
+  }
+  .hero-copy {
+    padding: 27px !important;
+  }
+  .hero-card p {
+    font-size: calc(12px * var(--text-scale, 1)) !important;
+  }
+  .orbit-art {
+    width: 100% !important;
+    right: -115px !important;
+    opacity: 0.5 !important;
+  }
+  .today-card h2 {
+    font-size: calc(25px * var(--text-scale, 1)) !important;
+  }
+  .today-card h2 br {
+    display: none !important;
+  }
+  .today-card {
+    padding: 23px !important;
+  }
+  .today-list strong {
+    font-size: calc(13px * var(--text-scale, 1)) !important;
+  }
+  .today-list button div > span {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+  }
+  .subject-grid {
+    gap: 12px !important;
+  }
+  .subject-card {
+    padding: 16px !important;
+    min-height: 240px !important;
+  }
+  .subject-card h3 {
+    font-size: calc(15px * var(--text-scale, 1)) !important;
+  }
+  .subject-card p {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+    min-height: 46px !important;
+  }
+  .subject-progress > span {
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+  }
+  .card-action {
+    font-size: calc(9px * var(--text-scale, 1)) !important;
+  }
+  .subject-art {
+    font-size: calc(77px * var(--text-scale, 1)) !important;
+    right: 15px !important;
+  }
+  .subject-card .icon-badge {
+    width: 35px !important;
+    height: 35px !important;
+  }
+  .subject-card .icon-badge svg {
+    width: 20px !important;
+  }
+  .section-title h2 {
+    font-size: calc(20px * var(--text-scale, 1)) !important;
+  }
+  .section-title p {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+  }
+  .section-title > .muted {
+    display: none !important;
+  }
+  .quick-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .quick-card h3 {
+    font-size: calc(14px * var(--text-scale, 1)) !important;
+  }
+  .app-footer {
+    padding: 18px !important;
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+    gap: 15px !important;
+  }
+  .app-footer button {
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+  }
+  .page-heading h1 {
+    font-size: calc(29px * var(--text-scale, 1)) !important;
+  }
+  .page-heading p {
+    font-size: calc(12px * var(--text-scale, 1)) !important;
+  }
+  .page-heading {
+    flex-wrap: wrap !important;
+  }
+  .room-welcome {
+    padding: 25px !important;
+  }
+  .room-welcome h2 {
+    font-size: calc(25px * var(--text-scale, 1)) !important;
+  }
+  .room-welcome p {
+    font-size: calc(12px * var(--text-scale, 1)) !important;
+  }
+  .room-welcome p br {
+    display: none !important;
+  }
+  .room-symbol {
+    position: absolute !important;
+    right: -40px !important;
+    top: 15px !important;
+    opacity: 0.15 !important;
+    margin: 0 !important;
+  }
+  .room-toolbar {
+    flex-wrap: wrap !important;
+  }
+  .search {
+    width: 100% !important;
+  }
+  .search input {
+    width: 100% !important;
+  }
+  .tabs button {
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+    padding: 10px 13px !important;
+  }
+  .topic-grid,
+  .plan-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .topic-card {
+    min-height: 205px !important;
+  }
+  .lesson-header {
+    gap: 9px !important;
+    flex-wrap: wrap !important;
+  }
+  .lesson-header .text-button {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+  }
+  .lesson-header .pill {
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+  }
+  .lesson-header > button:last-child {
+    font-size: calc(9px * var(--text-scale, 1)) !important;
+  }
+  .lesson-title h1 {
+    font-size: calc(28px * var(--text-scale, 1)) !important;
+  }
+  .lesson-details {
+    gap: 14px !important;
+  }
+  .lesson-details p {
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+  }
+  .exercise-card {
+    padding: 20px !important;
+  }
+  .exercise-card h2 {
+    font-size: calc(19px * var(--text-scale, 1)) !important;
+  }
+  .exercise-card .eyebrow {
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+  }
+  .stats-grid {
+    gap: 9px !important;
+  }
+  .stat-card {
+    padding: 15px !important;
+  }
+  .stat-card .icon-badge {
+    height: 34px !important;
+    width: 34px !important;
+  }
+  .stat-card .icon-badge svg {
+    width: 18px !important;
+  }
+  .stat-card strong {
+    font-size: calc(24px * var(--text-scale, 1)) !important;
+  }
+  .stat-card span:not(.icon-badge) {
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+  }
+  .week-strip {
+    gap: 5px !important;
+  }
+  .week-strip > div {
+    padding: 13px 3px !important;
+    gap: 10px !important;
+  }
+  .week-strip strong {
+    font-size: calc(20px * var(--text-scale, 1)) !important;
+  }
+  .week-strip span {
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+  }
+  .week-strip small {
+    font-size: calc(7px * var(--text-scale, 1)) !important;
+  }
+  .panel {
+    padding: 22px !important;
+  }
+  .progress-row {
+    grid-template-columns: 1fr 40px 75px !important;
+    gap: 10px !important;
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+  }
+  .progress-row .small {
+    font-size: calc(8px * var(--text-scale, 1)) !important;
+  }
+  .memory-subjects {
+    grid-template-columns: 1fr !important;
+  }
+  .document-create {
+    padding: 23px !important;
+  }
+  .two-inputs {
+    grid-template-columns: 1fr !important;
+  }
+  .document-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .document-modal {
+    height: 95vh !important;
+  }
+  .modal-backdrop {
+    padding: 12px !important;
+  }
+  .welcome-modal {
+    padding: 30px !important;
+  }
+  .welcome-modal h1 {
+    font-size: calc(29px * var(--text-scale, 1)) !important;
+  }
+  .document-modal-header {
+    padding: 16px !important;
+  }
+  .document-modal-header input {
+    font-size: calc(17px * var(--text-scale, 1)) !important;
+  }
+  .document-tools {
+    padding: 10px !important;
+  }
+  .document-tools > .mini-tag {
+    display: none !important;
+  }
+  .document-editor {
+    padding: 20px !important;
+    font-size: calc(12px * var(--text-scale, 1)) !important;
+  }
+  .paper-preview {
+    padding: 25px !important;
+    margin: 0 10px !important;
+  }
+  .document-actions {
+    padding: 12px !important;
+    gap: 8px !important;
+    flex-wrap: wrap !important;
+  }
+  .document-actions > .button {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+    padding: 10px !important;
+  }
+  .document-actions select {
+    padding: 8px !important;
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+  }
+  .document-actions > .button:first-child {
+    width: 100% !important;
+  }
+  .document-actions select {
+    margin-left: 0 !important;
+    flex: 1 !important;
+  }
+  .background-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .background-preview .orbit-art {
+    width: 100% !important;
+    right: 0 !important;
+    opacity: 1 !important;
+  }
+  .unreal-note {
+    align-items: flex-start !important;
+    padding: 22px !important;
+    gap: 15px !important;
+  }
+  .unreal-note h2 {
+    font-size: calc(19px * var(--text-scale, 1)) !important;
+  }
+  .unreal-note .icon-badge {
+    width: 34px !important;
+    height: 34px !important;
+    flex-shrink: 0 !important;
+  }
+  .unreal-note p {
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+  }
+  .settings-tabs {
+    flex-wrap: wrap !important;
+    width: 100% !important;
+  }
+  .settings-tabs button {
+    font-size: calc(10px * var(--text-scale, 1)) !important;
+    flex: 1 !important;
+    justify-content: center !important;
+    white-space: nowrap !important;
+  }
+  .toast {
+    font-size: calc(11px * var(--text-scale, 1)) !important;
+    width: calc(100vw - 30px) !important;
+    bottom: 15px !important;
+    padding: 13px !important;
+  }
+}

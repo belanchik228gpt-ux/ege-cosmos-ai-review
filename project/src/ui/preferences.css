@@ -1,0 +1,361 @@
+:root {
+  --panel-radius: 18px;
+  --control-radius: 10px;
+  --content-width: 1740px;
+}
+body {
+  font-family: var(--body-font, 'Segoe UI', sans-serif);
+}
+.main-content {
+  max-width: var(--content-width);
+}
+.panel,
+.hero-card,
+.day-plan,
+.topic-card,
+.subject-card,
+.scene-player,
+.tutor-panel,
+.document-card,
+.background-card,
+.knowledge-reader,
+.lesson-notebook,
+.practice-card {
+  border-radius: var(--panel-radius);
+}
+input,
+textarea,
+select,
+.button,
+.segmented,
+.quality-options button,
+.palette-choice {
+  border-radius: var(--control-radius);
+}
+html[data-density='compact'] .panel {
+  padding: 22px;
+}
+html[data-density='compact'] .topic-card,
+html[data-density='compact'] .subject-card {
+  padding: 20px;
+}
+html[data-density='compact'] .page-heading {
+  margin-bottom: 22px;
+}
+html[data-density='compact'] .main-content {
+  padding-top: 28px;
+}
+.settings-tabs {
+  flex-wrap: wrap;
+  max-width: 100%;
+  row-gap: 4px;
+}
+.preferences-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 26px;
+}
+.preferences-grid > .wide {
+  grid-column: 1/-1;
+}
+.preferences-section {
+  min-width: 0;
+}
+.preferences-section h2 {
+  margin-bottom: 8px;
+}
+.preference-control {
+  margin: 22px 0;
+}
+.preference-control label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  font-size: calc(14px * var(--text-scale, 1));
+}
+.preference-control label > span {
+  flex: 1;
+  min-width: 0;
+}
+.preference-control strong {
+  display: block;
+  color: var(--text);
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.preference-control small {
+  display: block;
+  line-height: 1.55;
+  color: var(--muted);
+  font-size: calc(12px * var(--text-scale, 1));
+}
+.preference-control select {
+  max-width: 230px;
+}
+.preference-control input[type='checkbox'] {
+  width: 21px;
+  height: 21px;
+  accent-color: var(--accent);
+  flex-shrink: 0;
+}
+.preference-control input[type='range'] {
+  padding: 0;
+  accent-color: var(--accent);
+  width: min(210px, 40%);
+}
+.preference-control output {
+  min-width: 3ch;
+  text-align: right;
+  color: var(--accent);
+  font-size: 13px;
+}
+.preference-control + .preference-control {
+  border-top: 1px solid var(--stroke);
+  padding-top: 20px;
+}
+.preference-demo {
+  position: relative;
+  min-height: 230px;
+  border: 1px solid var(--stroke);
+  border-radius: var(--panel-radius);
+  background: linear-gradient(145deg, var(--accent-soft), var(--surface));
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 12px;
+  overflow: hidden;
+}
+.preference-demo > svg {
+  position: absolute;
+  right: 25px;
+  top: 25px;
+  color: var(--accent);
+  opacity: 0.55;
+}
+.preference-demo p {
+  max-width: 78%;
+  margin: 0;
+}
+.preference-demo-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.preferences-presets {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+.preference-preset {
+  min-width: 0;
+  text-align: left;
+  background: var(--surface);
+  border: 1px solid var(--stroke);
+  border-radius: var(--panel-radius);
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.preference-preset > svg {
+  color: var(--accent);
+}
+.preference-preset strong {
+  font-size: calc(16px * var(--text-scale, 1));
+}
+.preference-preset span {
+  color: var(--muted);
+  font-size: calc(13px * var(--text-scale, 1));
+  line-height: 1.6;
+}
+.preference-profile-form {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+.preference-profile-form input {
+  flex: 1;
+  min-width: min(220px, 100%);
+}
+.saved-preferences {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+.saved-preference {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 16px;
+  border: 1px solid var(--stroke);
+  border-radius: var(--control-radius);
+  background: var(--surface);
+}
+.saved-preference > button:first-child {
+  min-width: 0;
+  flex: 1;
+  background: transparent;
+  text-align: left;
+  padding: 8px 0;
+}
+.saved-preference strong {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.saved-preference small {
+  display: block;
+  color: var(--muted);
+  margin-top: 5px;
+}
+.study-subjects {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.study-subjects label {
+  flex-direction: row;
+  align-items: center;
+  background: var(--surface);
+  border: 1px solid var(--stroke);
+  padding: 13px;
+  border-radius: var(--control-radius);
+}
+.study-subjects input {
+  accent-color: var(--accent);
+}
+.settings-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 18px;
+  border: 1px solid var(--stroke);
+  border-radius: var(--control-radius);
+  background: var(--accent-soft);
+  margin-top: 20px;
+  font-size: calc(13px * var(--text-scale, 1));
+  line-height: 1.6;
+  color: var(--text);
+}
+.settings-note > svg {
+  color: var(--accent);
+  margin-top: 2px;
+}
+.lesson-memory-strip {
+  margin: 0 0 22px;
+  border: 1px solid var(--stroke);
+  border-radius: var(--control-radius);
+  padding: 16px 20px;
+  background: var(--surface);
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+}
+.lesson-memory-strip > svg {
+  color: var(--accent);
+  margin-top: 3px;
+}
+.lesson-memory-strip p {
+  margin: 4px 0 0;
+  font-size: calc(13px * var(--text-scale, 1));
+}
+.lesson-memory-strip .text-button {
+  flex-shrink: 0;
+  margin-left: auto;
+}
+.memory-observations {
+  margin: 16px 0;
+  font-size: calc(13px * var(--text-scale, 1));
+}
+.memory-observations summary {
+  cursor: pointer;
+  color: var(--accent);
+  line-height: 1.6;
+}
+.message-evidence {
+  margin: 14px 0;
+  border-top: 1px solid var(--stroke);
+  padding-top: 12px;
+}
+.message-evidence summary {
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.message-evidence summary svg {
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.message-evidence blockquote {
+  margin: 8px 0 14px;
+  border-left: 2px solid var(--accent);
+  padding-left: 12px;
+  font-size: calc(12px * var(--text-scale, 1));
+  line-height: 1.7;
+  color: var(--text);
+}
+@media (min-width: 1180px) {
+  html[data-lesson-layout='visual'] .lesson-layout {
+    grid-template-columns: minmax(0, 1fr) 300px;
+  }
+  html[data-lesson-layout='dialogue'] .lesson-layout {
+    grid-template-columns: minmax(0, 1fr) minmax(390px, 0.68fr);
+  }
+}
+@media (max-width: 1050px) {
+  .preferences-presets {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .preferences-grid {
+    grid-template-columns: 1fr;
+  }
+  .saved-preferences {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 620px) {
+  .preference-demo > svg {
+    position: static;
+    width: 40px;
+    height: 40px;
+    opacity: 0.7;
+  }
+  .preference-demo p {
+    max-width: 100%;
+  }
+  .preferences-presets,
+  .saved-preferences {
+    grid-template-columns: 1fr;
+  }
+  .preference-control label {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .preference-control label > span {
+    min-width: 150px;
+  }
+  .preference-control select {
+    max-width: 100%;
+  }
+  .lesson-memory-strip {
+    flex-wrap: wrap;
+  }
+  .study-subjects {
+    grid-template-columns: 1fr;
+  }
+  .settings-tabs {
+    display: flex;
+  }
+}

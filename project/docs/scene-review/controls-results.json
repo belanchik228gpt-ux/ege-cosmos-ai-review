@@ -1,0 +1,61 @@
+{
+  "kind": "Browser control verification; packaged acceptance belongs to root smoke",
+  "checks": [
+    {
+      "name": "autoplay advances explanation and diagram",
+      "passed": true
+    },
+    {
+      "name": "pause preserves current step longer than step duration",
+      "passed": true
+    },
+    {
+      "name": "replay returns to first step",
+      "passed": true
+    },
+    {
+      "name": "next goes to next step",
+      "passed": true
+    },
+    {
+      "name": "back restores first step",
+      "passed": true
+    },
+    {
+      "name": "speed 2x can be selected",
+      "passed": true
+    },
+    {
+      "name": "2x speed halves 4200ms step duration",
+      "passed": true
+    },
+    {
+      "name": "numeric formula appears at authored step",
+      "passed": true
+    },
+    {
+      "name": "low quality renders scene",
+      "passed": true
+    },
+    {
+      "name": "reduced motion does not autoplay",
+      "passed": true
+    },
+    {
+      "name": "reduced motion retains manual next",
+      "passed": true
+    },
+    {
+      "name": "static fallback opens meaningful final frame",
+      "passed": true
+    },
+    {
+      "name": "static fallback disables autoplay",
+      "passed": true
+    },
+    {
+      "name": "static fallback supports previous step",
+      "passed": true
+    }
+  ]
+}

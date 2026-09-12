@@ -1,0 +1,24 @@
+{
+  "at": "2026-09-08T04:35:25.661Z",
+  "kind": "Actual packaged Windows EXE",
+  "executable": "C:\\new cosmos\\test-results\\installed-app\\EGE Cosmos.exe",
+  "source": "COSMOS_EXE installed application",
+  "appAsarSha256": "97817af489d33de595e4ca469a52292b6cd52fd02991d38b97c48a2dbc0266c3",
+  "errors": [],
+  "decorativeBackgroundDisabledThroughSettings": true,
+  "start": {
+    "point": 450,
+    "label": 450
+  },
+  "middle": {
+    "point": 388.451,
+    "label": 388.451
+  },
+  "end": {
+    "point": 360,
+    "label": 360
+  },
+  "pausedPixelsEqual": true,
+  "resumedPixelsChanged": true,
+  "passed": true
+}

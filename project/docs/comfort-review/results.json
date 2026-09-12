@@ -1,0 +1,35 @@
+{
+  "at": "2026-09-07T22:12:07.096Z",
+  "kind": "development browser, not packaged EXE acceptance",
+  "checks": [
+    {
+      "name": "five-live-palettes",
+      "status": "pass"
+    },
+    {
+      "name": "command-jump-to-median",
+      "status": "pass"
+    },
+    {
+      "name": "focus-bookmark-notebook",
+      "status": "pass"
+    },
+    {
+      "name": "narrow-large-font-no-overflow",
+      "status": "pass"
+    },
+    {
+      "name": "knowledge-and-FIPI-source-distinction",
+      "status": "pass"
+    },
+    {
+      "name": "knowledge-checkpoint-waits-for-attempt",
+      "status": "pass"
+    },
+    {
+      "name": "no-renderer-exceptions",
+      "status": "pass"
+    }
+  ],
+  "errors": []
+}

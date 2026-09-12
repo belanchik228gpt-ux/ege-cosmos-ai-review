@@ -1,0 +1,112 @@
+{
+  "editionYear": 2026,
+  "editionStatus": "final",
+  "checkedAt": "2026-09-08",
+  "publisherUrl": "https://fipi.ru/ege/demoversii-specifikacii-kodifikatory",
+  "scope": "section-2-content-table-and-history-appendix-1",
+  "subjects": {
+    "math": {
+      "nodes": 48,
+      "sections": 7,
+      "leaves": 41,
+      "assessedLeaves": 37,
+      "notAssessedLeaves": 4,
+      "partiallyExcludedLeaves": 0,
+      "sourceDocumentId": "fipi-math-2026-codifier",
+      "sourceId": "fipi-math-2026",
+      "sha256": "77fb404746a86067449b77223ce4ea950f87bec776c78de3d0279f9d947e17c3",
+      "physicalPages": [
+        11,
+        12
+      ],
+      "printedPages": [
+        13,
+        14,
+        15
+      ]
+    },
+    "russian": {
+      "nodes": 76,
+      "sections": 13,
+      "leaves": 63,
+      "assessedLeaves": 63,
+      "notAssessedLeaves": 0,
+      "partiallyExcludedLeaves": 0,
+      "sourceDocumentId": "fipi-russian-2026-codifier",
+      "sourceId": "fipi-russian-2026",
+      "sha256": "c5a886b39b659df827f8766b71a99cb1c04140c4a506ccd32d952a021efc046f",
+      "physicalPages": [
+        5,
+        6,
+        7
+      ],
+      "printedPages": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    "history": {
+      "nodes": 100,
+      "sections": 11,
+      "leaves": 89,
+      "assessedLeaves": 89,
+      "notAssessedLeaves": 0,
+      "partiallyExcludedLeaves": 0,
+      "sourceDocumentId": "fipi-history-2026-codifier",
+      "sourceId": "fipi-history-2026",
+      "sha256": "781383c0431f5127de95e7089d6388e360cafe27f5df4e0b1d715b964fc0445b",
+      "physicalPages": [
+        11,
+        14,
+        15,
+        16
+      ],
+      "printedPages": [
+        13,
+        14,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "social": {
+      "nodes": 80,
+      "sections": 5,
+      "leaves": 75,
+      "assessedLeaves": 75,
+      "notAssessedLeaves": 0,
+      "partiallyExcludedLeaves": 11,
+      "sourceDocumentId": "fipi-social-2026-codifier",
+      "sourceId": "fipi-social-2026",
+      "sha256": "e4776a711c5621c47cc577f739a7112c022da97c500da125227f2fce2265a9cb",
+      "physicalPages": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "printedPages": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    }
+  },
+  "draftsIncluded": false,
+  "totalNodes": 304
+}

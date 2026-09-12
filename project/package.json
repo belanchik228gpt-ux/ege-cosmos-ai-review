@@ -1,0 +1,126 @@
+{
+  "name": "ege-cosmos",
+  "version": "0.7.9",
+  "private": true,
+  "description": "EGE Cosmos вЂ” personal exam learning studio",
+  "author": "EGE Cosmos",
+  "license": "UNLICENSED",
+  "type": "module",
+  "main": "desktop/main.cjs",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "start": "electron .",
+    "test": "vitest run",
+    "package": "pnpm build && electron-builder --win dir",
+    "installer": "pnpm build && electron-builder --win nsis",
+    "offline-kit": "node scripts/offline-kit.mjs"
+  },
+  "dependencies": {
+    "katex": "^0.18.7",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-markdown": "^10.1.0",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "electron": "^44.2.0",
+    "electron-builder": "^26.0.12",
+    "playwright": "^1.55.0",
+    "prettier": "3.6.2",
+    "typescript": "^5.9.2",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.4"
+  },
+  "build": {
+    "appId": "ru.egecosmos.studio",
+    "productName": "EGE Cosmos",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "desktop/**/*",
+      "shared/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "signExecutable": false,
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "include": "build/installer.nsh",
+      "runAfterFinish": false
+    },
+    "electronDist": "node_modules/electron/dist",
+    "extraResources": [
+      {
+        "from": "resources/school-program",
+        "to": "school-program",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "resources/knowledge-sources",
+        "to": "knowledge-sources",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "runtime/llama",
+        "to": "runtime/llama",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "runtime/llama-cpu",
+        "to": "runtime/llama-cpu",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "runtime/licenses",
+        "to": "runtime/licenses",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": "runtime/artifacts.json",
+        "to": "runtime/artifacts.json"
+      },
+      {
+        "from": "runtime/vision-artifacts.json",
+        "to": "runtime/vision-artifacts.json"
+      },
+      {
+        "from": "build/icon.png",
+        "to": "icon.png"
+      },
+      {
+        "from": "runtime/openai",
+        "to": "runtime/openai",
+        "filter": [
+          "**/*"
+        ]
+      }
+    ],
+    "compression": "store"
+  },
+  "packageManager": "pnpm@11.19.0"
+}

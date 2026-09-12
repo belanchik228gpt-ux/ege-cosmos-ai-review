@@ -1,0 +1,2044 @@
+[
+  {
+    "id": "ege-social-1",
+    "subject": "social",
+    "code": "1",
+    "title": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-social-1-1",
+    "subject": "social",
+    "code": "1.1",
+    "title": "Человек как результат биологической и социокультурной эволюции. Влияние социокультурных факторов на формирование личности. Личность в современном обществе. Коммуникативные качества личности. Потребности и интересы",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-2",
+    "subject": "social",
+    "code": "1.2",
+    "title": "Мировоззрение, его роль в жизнедеятельности человека. Общественное и индивидуальное сознание. Самосознание и социальное поведение",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-3",
+    "subject": "social",
+    "code": "1.3",
+    "title": "Деятельность и её структура. Мотивация деятельности. Многообразие видов деятельности. Свобода и необходимость в деятельности человека",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-4",
+    "subject": "social",
+    "code": "1.4",
+    "title": "Познавательная деятельность. Познание мира. Чувственное и рациональное познание. Мышление, его формы и методы. Знание как результат познавательной деятельности, его виды",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-5",
+    "subject": "social",
+    "code": "1.5",
+    "title": "Понятие истины, её критерии. Абсолютная, относительная истина",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-6",
+    "subject": "social",
+    "code": "1.6",
+    "title": "Общество как система. Общественные отношения. Связи между подсистемами и элементами общества",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-7",
+    "subject": "social",
+    "code": "1.7",
+    "title": "Общественные потребности и социальные институты. Признаки и функции социальных институтов",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-8",
+    "subject": "social",
+    "code": "1.8",
+    "title": "Типы обществ. Постиндустриальное (информационное) общество и его особенности. Роль массовой коммуникации в современном обществе",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 12,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-9",
+    "subject": "social",
+    "code": "1.9",
+    "title": "Многообразие путей и форм общественного развития. Эволюция, социальная революция. Реформа. Общественный прогресс, его критерии. Противоречивый характер прогресса. Глобализация и её противоречивые последствия. Российское общество и человек перед лицом угроз и вызовов XXI в.",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-10",
+    "subject": "social",
+    "code": "1.10",
+    "title": "Духовная деятельность человека. Духовные ценности российского общества. Материальная и духовная культура. Формы культуры. Народная, массовая и элитарная культура. Контркультура. Функции культуры. Культурное многообразие современного общества. Диалог культур. Вклад российской культуры в формирование ценностей современного общества",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-11",
+    "subject": "social",
+    "code": "1.11",
+    "title": "Мораль как общечеловеческая ценность и социальный регулятор. Категории морали. Нравственность. Этика и этические нормы. Гражданственность. Патриотизм",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-12",
+    "subject": "social",
+    "code": "1.12",
+    "title": "Наука. Естественные, технические, точные и социально-гуманитарные науки. Особенности, уровни и методы научного познания. Особенности научного познания в социально-гуманитарных науках. Функции науки. Возрастание роли науки в современном обществе. Направления научно-технологического развития и научные достижения Российской Федерации",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-13",
+    "subject": "social",
+    "code": "1.13",
+    "title": "Образование в современном обществе. Российская система образования. Основные направления развития образования в Российской Федерации. Непрерывность образования в информационном обществе. Значение самообразования",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-14",
+    "subject": "social",
+    "code": "1.14",
+    "title": "Религия, её роль в жизни общества и человека. Мировые и национальные религии. Значение поддержания межконфессионального мира в Российской Федерации. Свобода совести",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1"
+  },
+  {
+    "id": "ege-social-1-15",
+    "subject": "social",
+    "code": "1.15",
+    "title": "Искусство, его основные функции. Особенности искусства как формы духовной культуры. Достижения современного российского искусства",
+    "section": "Человек в обществе. Духовная культура / Введение в социальную психологию. Введение в социальную философию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-1",
+    "notAssessedFragments": [
+      "Достижения современного российского искусства"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-2",
+    "subject": "social",
+    "code": "2",
+    "title": "Экономическая жизнь общества / Введение в экономику",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-social-2-1",
+    "subject": "social",
+    "code": "2.1",
+    "title": "Роль экономики в жизни общества. Микроэкономика, макроэкономика, мировая экономика. Предмет и методы экономической науки. Ограниченность ресурсов. Кривая производственных возможностей. Экономический выбор. Главные вопросы экономики",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2",
+    "notAssessedFragments": [
+      "Кривая производственных возможностей"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-2-2",
+    "subject": "social",
+    "code": "2.2",
+    "title": "Экономические институты и их роль в развитии общества. Собственность. Экономическое содержание собственности",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-3",
+    "subject": "social",
+    "code": "2.3",
+    "title": "Типы экономических систем",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-4",
+    "subject": "social",
+    "code": "2.4",
+    "title": "Экономическая деятельность и её субъекты. Домашние хозяйства, предприятия, государство. Потребление, сбережения, инвестиции. Экономические отношения и экономические интересы. Рациональное поведение людей в экономике. Экономическая свобода и социальная ответственность субъектов экономики. Экономическая деятельность и проблемы устойчивого развития общества",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2",
+    "notAssessedFragments": [
+      "Экономическая деятельность и проблемы устойчивого развития общества"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-2-5",
+    "subject": "social",
+    "code": "2.5",
+    "title": "Институт рынка. Функционирование рынков. Рыночное ценообразование. Рыночный спрос, величина и факторы спроса. Рыночное предложение, величина и факторы предложения. Закон спроса. Закон предложения. Рыночное равновесие, равновесная цена. Эластичность спроса и эластичность предложения. Товары Гиффена и эффект Веблена. Рынки труда, капитала, земли, информации",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "спрос",
+      "предложение",
+      "равновесная цена"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2",
+    "notAssessedFragments": [
+      "Товары Гиффена и эффект Веблена"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции.",
+    "lessonTopicId": "social-demand",
+    "lessonTopicIds": [
+      "social-demand"
+    ]
+  },
+  {
+    "id": "ege-social-2-6",
+    "subject": "social",
+    "code": "2.6",
+    "title": "Конкуренция как основа функционирования рынка. Типы рыночных структур. Совершенная и несовершенная конкуренция. Монополистическая конкуренция. Олигополия. Монополия, виды монополий. Монопсония. Государственная политика Российской Федерации по поддержке и защите конкуренции. Методы антимонопольного регулирования экономики",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-7",
+    "subject": "social",
+    "code": "2.7",
+    "title": "Рынок труда. Заработная плата и стимулирование труда. Минимальная оплата труда. Занятость и безработица. Причины и виды безработицы. Государственная политика Российской Федерации в области занятости. Особенности труда молодёжи. Деятельность профсоюзов. Потребности современного рынка труда в Российской Федерации",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-8",
+    "subject": "social",
+    "code": "2.8",
+    "title": "Предприятие (фирма) в экономике. Цели предприятия. Экономические цели фирмы. Производство. Факторы производства и факторные доходы. Альтернативная стоимость, способы и источники финансирования предприятий. Показатели деятельности фирмы. Издержки, их виды (необратимые издержки, постоянные и переменные издержки, средние и предельные издержки). Амортизационные отчисления. Выручка, прибыль. Экономическая эффективность. Эффект масштаба производства. Влияние конкуренции на деятельность фирмы",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2",
+    "notAssessedFragments": [
+      "необратимые издержки",
+      "средние и предельные издержки",
+      "Эффект масштаба производства"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-2-9",
+    "subject": "social",
+    "code": "2.9",
+    "title": "Институт предпринимательства и его роль в экономике. Виды и мотивы предпринимательской деятельности. Организационно-правовые формы предприятий. Малый бизнес. Этика предпринимательства. Поддержка малого и среднего предпринимательства в Российской Федерации",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-10",
+    "subject": "social",
+    "code": "2.10",
+    "title": "Финансовый рынок, виды и функции. Фондовый рынок. Финансовые институты. Банки. Банковская система. Центральный банк Российской Федерации: задачи и функции. Денежно-кредитная (монетарная) политика Банка России. Денежные агрегаты. Денежная масса и денежная база. Денежный мультипликатор",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 16,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2",
+    "notAssessedFragments": [
+      "Денежные агрегаты",
+      "и денежная база. Денежный мультипликатор"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-2-11",
+    "subject": "social",
+    "code": "2.11",
+    "title": "Финансовые услуги. Вклады и кредиты. Цифровые финансовые услуги. Финансовые технологии и финансовая безопасность. Цифровые финансовые активы",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 16,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-12",
+    "subject": "social",
+    "code": "2.12",
+    "title": "Инфляция: причины, виды, социально-экономические последствия. Антиинфляционная политика в Российской Федерации",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 16,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-13",
+    "subject": "social",
+    "code": "2.13",
+    "title": "Государство в экономике. Несовершенства рыночной организации хозяйства. Экономические функции государства. Общественные блага. Государственное регулирование рынков. Внешние эффекты. Информация как ресурс экономики. Асимметрия информации. Способы решения проблемы асимметрии информации. Цифровизация экономики в Российской Федерации",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 16,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2",
+    "notAssessedFragments": [
+      "Информация как ресурс экономики. Асимметрия информации. Способы решения проблемы асимметрии информации"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-2-14",
+    "subject": "social",
+    "code": "2.14",
+    "title": "Государственный бюджет. Дефицит и профицит государственного бюджета. Принцип сбалансированности государственного бюджета. Государственный долг",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 16,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-15",
+    "subject": "social",
+    "code": "2.15",
+    "title": "Налоговая система Российской Федерации. Налоги. Виды налогов. Принципы налогообложения в Российской Федерации. Функции налогов. Система налогов и сборов в Российской Федерации. Налоговые льготы и вычеты. Налогообложение и субсидирование. Фискальная политика государства",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 16,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-16",
+    "subject": "social",
+    "code": "2.16",
+    "title": "Экономический рост и пути его достижения. Измерение экономического роста. Основные макроэкономические показатели: валовой национальный продукт (ВНП), валовой внутренний продукт (ВВП). Связь между показателями ВВП и ВНП. Реальный и номинальный валовой внутренний продукт. Макроэкономические показатели и качество жизни. Факторы долгосрочного экономического роста",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 17,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-17",
+    "subject": "social",
+    "code": "2.17",
+    "title": "Понятие экономического цикла. Фазы экономического цикла. Причины экономических циклов",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 17,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2"
+  },
+  {
+    "id": "ege-social-2-18",
+    "subject": "social",
+    "code": "2.18",
+    "title": "Мировая экономика. Международное разделение труда. Внешняя торговля. Сравнительные преимущества в международной торговле. Экспорт и импорт товаров и услуг. Выгоды и убытки от участия в международной торговле. Государственное регулирование внешней торговли. Международные расчёты. Платёжный баланс. Валютный рынок. Государственная политика импортозамещения в Российской Федерации",
+    "section": "Экономическая жизнь общества / Введение в экономику",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 17,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-2",
+    "notAssessedFragments": [
+      "Платёжный баланс"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-3",
+    "subject": "social",
+    "code": "3",
+    "title": "Социальная сфера / Введение в социологию",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 17,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-social-3-1",
+    "subject": "social",
+    "code": "3.1",
+    "title": "Социальные общности, группы, их типы. Социальная стратификация, её критерии. Социальное неравенство. Социальная структура российского общества",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 17,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "социальные группы",
+      "стратификация",
+      "мобильность"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3",
+    "lessonTopicId": "social-groups",
+    "lessonTopicIds": [
+      "social-groups"
+    ]
+  },
+  {
+    "id": "ege-social-3-2",
+    "subject": "social",
+    "code": "3.2",
+    "title": "Этнические общности. Этнокультурные ценности и традиции. Нация как этническая и гражданская общность. Этнические отношения. Этническое многообразие современного мира. Миграционные процессы в современном мире. Этносоциальные конфликты, способы их предотвращения и пути разрешения. Конституционные принципы (основы) национальной политики в Российской Федерации",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 13,
+    "printedPage": 17,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3",
+    "notAssessedFragments": [
+      "Миграционные процессы в современном мире"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-3-3",
+    "subject": "social",
+    "code": "3.3",
+    "title": "Молодёжь как социальная группа, её социальные и социально-психологические характеристики. Молодёжная субкультура. Проблемы молодёжи в современной России",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 18,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3",
+    "notAssessedFragments": [
+      "Проблемы молодёжи в современной России"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-3-4",
+    "subject": "social",
+    "code": "3.4",
+    "title": "Положение индивида в обществе. Социальные статусы и роли. Социальная мобильность, её формы и каналы в современном российском обществе",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 18,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3"
+  },
+  {
+    "id": "ege-social-3-5",
+    "subject": "social",
+    "code": "3.5",
+    "title": "Семья и брак. Функции и типы семьи. Семья как важнейший социальный институт",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 18,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3"
+  },
+  {
+    "id": "ege-social-3-6",
+    "subject": "social",
+    "code": "3.6",
+    "title": "Социализация личности и её этапы. Агенты (институты) социализации",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 18,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3"
+  },
+  {
+    "id": "ege-social-3-7",
+    "subject": "social",
+    "code": "3.7",
+    "title": "Социальные нормы и отклоняющееся (девиантное) поведение. Формы социальных девиаций. Конформизм. Социальный контроль и самоконтроль",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 18,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3"
+  },
+  {
+    "id": "ege-social-3-8",
+    "subject": "social",
+    "code": "3.8",
+    "title": "Социальный конфликт. Виды социальных конфликтов, их причины. Способы разрешения социальных конфликтов",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 18,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3"
+  },
+  {
+    "id": "ege-social-3-9",
+    "subject": "social",
+    "code": "3.9",
+    "title": "Государственная поддержка социально незащищённых слоёв общества в Российской Федерации. Государственная молодёжная политика Российской Федерации. Меры социальной поддержки семьи в Российской Федерации. Помощь государства многодетным семьям",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 18,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3"
+  },
+  {
+    "id": "ege-social-3-10",
+    "subject": "social",
+    "code": "3.10",
+    "title": "Особенности профессиональной деятельности в сфере науки, образования, искусства. Особенности профессиональной деятельности в экономической и финансовых сферах. Особенности профессиональной деятельности социолога, социального психолога. Особенности профессиональной деятельности политолога. Юридическое образование, юристы как социально-профессиональная группа",
+    "section": "Социальная сфера / Введение в социологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 18,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-3"
+  },
+  {
+    "id": "ege-social-4",
+    "subject": "social",
+    "code": "4",
+    "title": "Политическая сфера / Введение в политологию",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-social-4-1",
+    "subject": "social",
+    "code": "4.1",
+    "title": "Политическая власть и субъекты политики в современном обществе. Структура, ресурсы и функции политической власти. Легитимность власти. Политические институты. Политическая деятельность",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-2",
+    "subject": "social",
+    "code": "4.2",
+    "title": "Политическая система общества, её структура и функции. Политическая система Российской Федерации на современном этапе",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-3",
+    "subject": "social",
+    "code": "4.3",
+    "title": "Государство как основной институт политической системы. Государственный суверенитет. Функции государства",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-4",
+    "subject": "social",
+    "code": "4.4",
+    "title": "Понятие формы государства. Формы правления. Государственно-территориальное устройство. Политический режим. Типы политических режимов. Демократия, её основные ценности и признаки. Гражданское общество",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-5",
+    "subject": "social",
+    "code": "4.5",
+    "title": "Федеративное устройство Российской Федерации",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-6",
+    "subject": "social",
+    "code": "4.6",
+    "title": "Субъекты государственной власти в Российской Федерации",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-7",
+    "subject": "social",
+    "code": "4.7",
+    "title": "Государственное управление в Российской Федерации. Государственная служба и статус государственного служащего. Опасность коррупции, антикоррупционная политика государства, механизмы противодействия коррупции. Обеспечение национальной безопасности в Российской Федерации. Государственная политика Российской Федерации по противодействию экстремизму",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4",
+    "notAssessedFragments": [
+      "Государственное управление в Российской Федерации. Государственная служба и статус государственного служащего"
+    ],
+    "assessmentNote": "Позиция входит в содержание ЕГЭ 2026, кроме перечисленных курсивных фрагментов: сноска 8, печатная с. 14. Знаки в последнем столбце показывают наличие материала в прошлые годы, а не исключение всей позиции."
+  },
+  {
+    "id": "ege-social-4-8",
+    "subject": "social",
+    "code": "4.8",
+    "title": "Политическая культура общества и личности. Политическое поведение. Политическое участие. Причины абсентеизма. Политический процесс. Формы участия граждан в политике",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-9",
+    "subject": "social",
+    "code": "4.9",
+    "title": "Политическая идеология, её роль в обществе. Основные идейно-политические течения современности. Политические партии как субъекты политики, их функции, виды. Типы партийных систем",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 14,
+    "printedPage": 19,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-10",
+    "subject": "social",
+    "code": "4.10",
+    "title": "Избирательная система. Типы избирательных систем: мажоритарная, пропорциональная, смешанная. Избирательная система Российской Федерации",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-11",
+    "subject": "social",
+    "code": "4.11",
+    "title": "Политическая элита и политическое лидерство. Типология лидерства",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-4-12",
+    "subject": "social",
+    "code": "4.12",
+    "title": "Роль средств массовой информации в политической жизни общества. Интернет в современной политической коммуникации",
+    "section": "Политическая сфера / Введение в политологию",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-4"
+  },
+  {
+    "id": "ege-social-5",
+    "subject": "social",
+    "code": "5",
+    "title": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": []
+  },
+  {
+    "id": "ege-social-5-1",
+    "subject": "social",
+    "code": "5.1",
+    "title": "Право как социальный институт. Понятие, признаки и функции права. Роль права в жизни общества. Понятие, структура и виды правовых норм",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-2",
+    "subject": "social",
+    "code": "5.2",
+    "title": "Источники права: нормативный правовой акт, нормативный договор, правовой обычай, судебный прецедент. Нормативные правовые акты, их виды. Законы и законодательный процесс в Российской Федерации",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-3",
+    "subject": "social",
+    "code": "5.3",
+    "title": "Система права. Отрасли права. Частное и публичное, материальное и процессуальное право, национальное и международное право. Система российского права",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-4",
+    "subject": "social",
+    "code": "5.4",
+    "title": "Понятие и признаки правоотношений. Субъекты правоотношений, их виды",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-5",
+    "subject": "social",
+    "code": "5.5",
+    "title": "Правомерное поведение и правонарушение. Виды правонарушений, состав правонарушения. Понятие и виды юридической ответственности",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 20,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-6",
+    "subject": "social",
+    "code": "5.6",
+    "title": "Конституция Российской Федерации. Основы конституционного строя Российской Федерации. Гражданство Российской Федерации: понятие, принципы, основания приобретения",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-7",
+    "subject": "social",
+    "code": "5.7",
+    "title": "Личные (гражданские), политические, социально-экономические и культурные права и свободы человека и гражданина Российской Федерации. Конституционные обязанности гражданина Российской Федерации. Воинская обязанность и альтернативная гражданская служба",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-8",
+    "subject": "social",
+    "code": "5.8",
+    "title": "Гражданское право. Гражданско-правовые отношения: понятия и виды. Субъекты гражданского права. Физические и юридические лица. Организационно-правовые формы юридических лиц. Правоспособность и дееспособность. Дееспособность несовершеннолетних. Защита гражданских прав. Гражданско-правовая ответственность",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-9",
+    "subject": "social",
+    "code": "5.9",
+    "title": "Семейное право. Семья и брак как социально-правовые институты. Порядок и условия заключения и расторжения брака. Правовое регулирование отношений супругов. Права и обязанности членов семьи (супругов, родителей и детей)",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-10",
+    "subject": "social",
+    "code": "5.10",
+    "title": "Трудовое право. Трудовые правоотношения. Порядок приёма на работу. Трудовой договор. Заключение и прекращение трудового договора. Права и обязанности работников и работодателей. Дисциплинарная ответственность. Защита трудовых прав работников. Особенности правового регулирования труда несовершеннолетних в Российской Федерации",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-11",
+    "subject": "social",
+    "code": "5.11",
+    "title": "Законодательство Российской Федерации о налогах и сборах. Участники отношений, регулируемых законодательством о налогах и сборах. Права и обязанности налогоплательщиков. Ответственность за налоговые правонарушения",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 15,
+    "printedPage": 21,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-12",
+    "subject": "social",
+    "code": "5.12",
+    "title": "Образовательное право в российской правовой системе. Образовательные правоотношения. Права и обязанности участников образовательного процесса",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-13",
+    "subject": "social",
+    "code": "5.13",
+    "title": "Административное право и его субъекты. Административное правонарушение и административная ответственность, виды наказаний в административном праве",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-14",
+    "subject": "social",
+    "code": "5.14",
+    "title": "Экологическое законодательство. Экологические правонарушения. Способы защиты права на благоприятную окружающую среду",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-15",
+    "subject": "social",
+    "code": "5.15",
+    "title": "Уголовное право. Основные принципы уголовного права. Понятие преступления и виды преступлений. Уголовная ответственность, её цели, виды наказаний в уголовном праве. Особенности уголовной ответственности несовершеннолетних",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-16",
+    "subject": "social",
+    "code": "5.16",
+    "title": "Гражданское процессуальное право. Принципы гражданского судопроизводства. Участники гражданского процесса. Стадии гражданского процесса",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-17",
+    "subject": "social",
+    "code": "5.17",
+    "title": "Административный процесс. Судебное производство по делам об административных правонарушениях",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-18",
+    "subject": "social",
+    "code": "5.18",
+    "title": "Уголовное процессуальное право. Принципы уголовного судопроизводства. Участники уголовного процесса. Стадии уголовного процесса. Меры процессуального принуждения",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-19",
+    "subject": "social",
+    "code": "5.19",
+    "title": "Конституционное судопроизводство. Арбитражное судопроизводство",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  },
+  {
+    "id": "ege-social-5-20",
+    "subject": "social",
+    "code": "5.20",
+    "title": "Правоохранительные органы Российской Федерации",
+    "section": "Правовое регулирование общественных отношений в Российской Федерации / Введение в правоведение",
+    "sourceId": "fipi-social-2026",
+    "sourceDocumentId": "fipi-social-2026-codifier",
+    "page": 16,
+    "printedPage": 22,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-social-5"
+  }
+]

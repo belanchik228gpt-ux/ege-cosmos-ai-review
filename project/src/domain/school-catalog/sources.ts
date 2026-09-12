@@ -1,0 +1,15 @@
+import type { LearningSource } from '../sources';
+import type { SubjectId } from '../types';
+
+const definitions: [string, SubjectId[], string, string, string][] = [
+  ['edsoo-math-lower', ['math'], 'Математика · федеральная рабочая программа 5–9', 'https://edsoo.ru/wp-content/uploads/2025/07/2025_ooo_frp_matematika-5-9_baza.pdf', '2025 · базовый уровень · ориентир распределения школьного материала'],
+  ['edsoo-math-upper', ['math'], 'Математика · федеральная рабочая программа 10–11', 'https://edsoo.ru/wp-content/uploads/2025/07/2025_soo_frp_matematika_10_11_baz.pdf', '2025 · базовый уровень · содержание 10 класса, PDF стр.15–16'],
+  ['edsoo-russian-lower', ['russian'], 'Русский язык · федеральная рабочая программа 5–9', 'https://edsoo.ru/wp-content/uploads/2025/09/01_frp_russkij-yazyk_5-9-klassy_itog-na-sajt_1-2.pdf', '2025 · опубликованный PDF · содержание 8–9 классов'],
+  ['edsoo-russian-upper', ['russian'], 'Русский язык · федеральная рабочая программа 10–11', 'https://edsoo.ru/wp-content/uploads/2025/07/2025_soo_frp_russkij-yazyk_10_11.pdf', '2025 · базовый уровень · содержание старшей школы'],
+  ['edsoo-history-lower', ['history'], 'История · федеральная рабочая программа 5–9', 'https://edsoo.ru/wp-content/uploads/2025/07/2025_ooo_frp_istoriya_5-9.pdf', '2025 · распределение по классам зависит от переходного учебного плана'],
+  ['edsoo-history-upper', ['history'], 'История · федеральная рабочая программа 10–11', 'https://edsoo.ru/wp-content/uploads/2025/07/2025_soo_frp_istoriya_10_11_baza.pdf', '2025 · базовый уровень · содержание новейшей истории'],
+  ['edsoo-social-secondary', ['social'], 'Обществознание · опубликованная программа старшей школы', 'https://edsoo.ru/wp-content/uploads/2023/09/frp_obshhestvoznanie-10-11-klassy_baza.pdf', '2023 · ссылка остаётся на странице издателя; не объявлена действующей для всех поступивших в 10 класс в 2026/27'],
+  ['edsoo-social-2026', ['social'], 'Обществознание · методическое письмо на 2026/2027 учебный год', 'https://edsoo.ru/wp-content/uploads/2026/08/obshhestvoznanie.pdf', '2026 · 24 страницы · 9 класс: стр.2–6; новая программа 10 класса и переход 11 класса: стр.6–9'],
+  ['edsoo-social-transition', ['social'], 'ЕДСОО · изменения преподавания обществознания', 'https://edsoo.ru/otvety-na-chasto-zadavaemye-voprosy/', 'На 08.09.2026: в основной школе с сентября 2026 предмет изучается в 9 классе'],
+];
+export const schoolProgrammeSources: LearningSource[] = definitions.map(([id, subjects, title, url, version]) => ({ id, subjects, title, url, version, checkedAt: '2026-09-08', publisher: 'ИСМО им. В. С. Леднева · Единое содержание общего образования', status: 'official-reference', role: 'curriculum', publicationStatus: 'reference', verification: url.endsWith('.pdf') ? 'document-text' : 'publisher-page', note: 'Первичная публикация прочитана для состава и порядка программы. Карточки Cosmos авторские; классы в экзаменационной карте ориентировочные, а соответствие ЕГЭ устанавливается отдельно по кодификатору ФИПИ. Эти дополнительные PDF не входят автоматически в ранее поставленный комплект 22 файлов.' }));

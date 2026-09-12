@@ -1,0 +1,70 @@
+{
+  "at": "2026-09-08T14:12:34.848Z",
+  "kind": "Actual application in headless Chrome; source, not EXE",
+  "checks": [
+    {
+      "name": "current task and scene both use 7 by 3",
+      "passed": true
+    },
+    {
+      "name": "integrated scene pause holds geometry and pixels",
+      "passed": true,
+      "detail": {
+        "exactFileEquality": true,
+        "exactPixelEquality": true,
+        "maxChannelDelta": 0,
+        "changedPixels": 0,
+        "totalPixels": 263534,
+        "changedFraction": 0
+      }
+    },
+    {
+      "name": "practice scene conceals 21 before own answer",
+      "passed": true
+    },
+    {
+      "name": "nested scene gives illustration enough width",
+      "passed": true,
+      "detail": {
+        "panel": 723.5,
+        "svg": 673.5,
+        "shape": 390,
+        "bodyColumns": "673.5px"
+      }
+    },
+    {
+      "name": "math task advances after natural language answer",
+      "passed": true
+    },
+    {
+      "name": "own task scene uses confirmed 7 by 4",
+      "passed": true
+    },
+    {
+      "name": "own answer wording is accepted",
+      "passed": true
+    },
+    {
+      "name": "own condition survives reload",
+      "passed": true
+    },
+    {
+      "name": "russian advances instead of repeating first prompt",
+      "passed": true
+    },
+    {
+      "name": "social free wording advances to next question",
+      "passed": true
+    },
+    {
+      "name": "390 layout has no horizontal overflow",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390
+      }
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

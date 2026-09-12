@@ -1,0 +1,19 @@
+{
+  "at": "2026-09-07T22:24:29.751Z",
+  "kind": "Full app in Chrome; not EXE",
+  "start": {
+    "point": 450,
+    "label": 450
+  },
+  "middle": {
+    "point": 385.861,
+    "label": 385.8611
+  },
+  "end": {
+    "point": 360,
+    "label": 360
+  },
+  "pausedPixelsEqual": true,
+  "resumedPixelsChanged": true,
+  "errors": []
+}

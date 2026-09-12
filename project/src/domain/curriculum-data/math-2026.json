@@ -1,0 +1,1356 @@
+[
+  {
+    "id": "ege-math-1",
+    "subject": "math",
+    "code": "1",
+    "title": "Числа и вычисления",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "examLevels": [
+      "basic",
+      "profile"
+    ],
+    "examLevelNote": "Подтверждены только коды разделов в обобщённых планах спецификаций 2026. Эта отметка НЕ означает, что каждый дочерний элемент проверяется на обоих уровнях. База: печатные с. 10–12; профиль: печатные с. 14–18."
+  },
+  {
+    "id": "ege-math-1-1",
+    "subject": "math",
+    "code": "1.1",
+    "title": "Натуральные и целые числа. Признаки делимости целых чисел",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-1"
+  },
+  {
+    "id": "ege-math-1-2",
+    "subject": "math",
+    "code": "1.2",
+    "title": "Рациональные числа. Обыкновенные и десятичные дроби, проценты, бесконечные периодические дроби",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "дроби",
+      "проценты",
+      "умножение дробей"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-1",
+    "lessonTopicId": "math-fraction",
+    "lessonTopicIds": [
+      "math-fraction",
+      "math-multiply",
+      "math-percent"
+    ]
+  },
+  {
+    "id": "ege-math-1-3",
+    "lessonTopicId": "math-radicals",
+    "lessonTopicIds": ["math-radicals"],
+    "subject": "math",
+    "code": "1.3",
+    "title": "Арифметический корень натуральной степени. Действия с арифметическими корнями натуральной степени",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-1"
+  },
+  {
+    "id": "ege-math-1-4",
+    "subject": "math",
+    "code": "1.4",
+    "title": "Степень с целым показателем. Степень с рациональным показателем. Свойства степени",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-1"
+  },
+  {
+    "id": "ege-math-1-5",
+    "subject": "math",
+    "code": "1.5",
+    "title": "Синус, косинус и тангенс числового аргумента. Арксинус, арккосинус, арктангенс числового аргумента",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9,
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-1"
+  },
+  {
+    "id": "ege-math-1-6",
+    "subject": "math",
+    "code": "1.6",
+    "title": "Логарифм числа. Десятичные и натуральные логарифмы",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-1"
+  },
+  {
+    "id": "ege-math-1-7",
+    "subject": "math",
+    "code": "1.7",
+    "title": "Действительные числа. Арифметические операции с действительными числами. Приближённые вычисления, правила округления, прикидка и оценка результата вычислений",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "модуль числа",
+      "абсолютная величина",
+      "округление"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-1",
+    "lessonTopicId": "math-absolute",
+    "lessonTopicIds": [
+      "math-absolute"
+    ]
+  },
+  {
+    "id": "ege-math-1-8",
+    "subject": "math",
+    "code": "1.8",
+    "title": "Преобразование выражений",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-1"
+  },
+  {
+    "id": "ege-math-1-9",
+    "subject": "math",
+    "code": "1.9",
+    "title": "Комплексные числа",
+    "section": "Числа и вычисления",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "not-assessed-in-edition",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-math-1",
+    "assessmentNote": "Не проверяется на ЕГЭ 2026: знак «−» в таблице 3 и сноска 2 к кодификатору математики. Доступно как дополнительная школьная тема."
+  },
+  {
+    "id": "ege-math-2",
+    "subject": "math",
+    "code": "2",
+    "title": "Уравнения и неравенства",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "examLevels": [
+      "basic",
+      "profile"
+    ],
+    "examLevelNote": "Подтверждены только коды разделов в обобщённых планах спецификаций 2026. Эта отметка НЕ означает, что каждый дочерний элемент проверяется на обоих уровнях. База: печатные с. 10–12; профиль: печатные с. 14–18."
+  },
+  {
+    "id": "ege-math-2-1",
+    "subject": "math",
+    "code": "2.1",
+    "title": "Целые и дробно-рациональные уравнения",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "линейные уравнения",
+      "квадратные уравнения"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-2",
+    "subject": "math",
+    "code": "2.2",
+    "title": "Иррациональные уравнения",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 13,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-3",
+    "subject": "math",
+    "code": "2.3",
+    "title": "Тригонометрические уравнения",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-4",
+    "subject": "math",
+    "code": "2.4",
+    "title": "Показательные и логарифмические уравнения",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-5",
+    "subject": "math",
+    "code": "2.5",
+    "title": "Целые и дробно-рациональные неравенства",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-6",
+    "subject": "math",
+    "code": "2.6",
+    "title": "Иррациональные неравенства",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-7",
+    "subject": "math",
+    "code": "2.7",
+    "title": "Показательные и логарифмические неравенства",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-8",
+    "subject": "math",
+    "code": "2.8",
+    "title": "Тригонометрические неравенства",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-9",
+    "subject": "math",
+    "code": "2.9",
+    "title": "Системы и совокупности уравнений и неравенств",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-10",
+    "subject": "math",
+    "code": "2.10",
+    "title": "Уравнения, неравенства и системы с параметрами",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-math-2"
+  },
+  {
+    "id": "ege-math-2-11",
+    "subject": "math",
+    "code": "2.11",
+    "title": "Матрица системы линейных уравнений. Определитель матрицы",
+    "section": "Уравнения и неравенства",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "not-assessed-in-edition",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-math-2",
+    "assessmentNote": "Не проверяется на ЕГЭ 2026: знак «−» в таблице 3 и сноска 2 к кодификатору математики. Доступно как дополнительная школьная тема."
+  },
+  {
+    "id": "ege-math-3",
+    "subject": "math",
+    "code": "3",
+    "title": "Функции и графики",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "examLevels": [
+      "basic",
+      "profile"
+    ],
+    "examLevelNote": "Подтверждены только коды разделов в обобщённых планах спецификаций 2026. Эта отметка НЕ означает, что каждый дочерний элемент проверяется на обоих уровнях. База: печатные с. 10–12; профиль: печатные с. 14–18."
+  },
+  {
+    "id": "ege-math-3-1",
+    "subject": "math",
+    "code": "3.1",
+    "title": "Функция, способы задания функции. График функции. Взаимно обратные функции. Чётные и нечётные функции. Периодические функции",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-3"
+  },
+  {
+    "id": "ege-math-3-2",
+    "subject": "math",
+    "code": "3.2",
+    "title": "Область определения и множество значений функции. Нули функции. Промежутки знакопостоянства. Промежутки монотонности функции. Максимумы и минимумы функции. Наибольшее и наименьшее значение функции на промежутке",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-3"
+  },
+  {
+    "id": "ege-math-3-3",
+    "subject": "math",
+    "code": "3.3",
+    "title": "Степенная функция с натуральным и целым показателем. Её свойства и график. Свойства и график корня n-ой степени",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-3"
+  },
+  {
+    "id": "ege-math-3-4",
+    "subject": "math",
+    "code": "3.4",
+    "title": "Тригонометрические функции, их свойства и графики",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-3"
+  },
+  {
+    "id": "ege-math-3-5",
+    "subject": "math",
+    "code": "3.5",
+    "title": "Показательная и логарифмическая функции, их свойства и графики",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-3"
+  },
+  {
+    "id": "ege-math-3-6",
+    "subject": "math",
+    "code": "3.6",
+    "title": "Точки разрыва. Асимптоты графиков функций. Свойства функций, непрерывных на отрезке",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 11,
+    "printedPage": 14,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "not-assessed-in-edition",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-math-3",
+    "assessmentNote": "Не проверяется на ЕГЭ 2026: знак «−» в таблице 3 и сноска 2 к кодификатору математики. Доступно как дополнительная школьная тема."
+  },
+  {
+    "id": "ege-math-3-7",
+    "subject": "math",
+    "code": "3.7",
+    "title": "Последовательности, способы задания последовательностей",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9,
+      10
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-3"
+  },
+  {
+    "id": "ege-math-3-8",
+    "subject": "math",
+    "code": "3.8",
+    "title": "Арифметическая и геометрическая прогрессии. Формула сложных процентов",
+    "section": "Функции и графики",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-3"
+  },
+  {
+    "id": "ege-math-4",
+    "subject": "math",
+    "code": "4",
+    "title": "Начала математического анализа",
+    "section": "Начала математического анализа",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "examLevels": [
+      "basic",
+      "profile"
+    ],
+    "examLevelNote": "Подтверждены только коды разделов в обобщённых планах спецификаций 2026. Эта отметка НЕ означает, что каждый дочерний элемент проверяется на обоих уровнях. База: печатные с. 10–12; профиль: печатные с. 14–18."
+  },
+  {
+    "id": "ege-math-4-1",
+    "subject": "math",
+    "code": "4.1",
+    "title": "Производная функции. Производные элементарных функций",
+    "section": "Начала математического анализа",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-4"
+  },
+  {
+    "id": "ege-math-4-2",
+    "subject": "math",
+    "code": "4.2",
+    "title": "Применение производной к исследованию функций на монотонность и экстремумы. Нахождение наибольшего и наименьшего значения функции на отрезке",
+    "section": "Начала математического анализа",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-4"
+  },
+  {
+    "id": "ege-math-4-3",
+    "subject": "math",
+    "code": "4.3",
+    "title": "Первообразная. Интеграл",
+    "section": "Начала математического анализа",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-4"
+  },
+  {
+    "id": "ege-math-5",
+    "subject": "math",
+    "code": "5",
+    "title": "Множества и логика",
+    "section": "Множества и логика",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "examLevels": [
+      "basic",
+      "profile"
+    ],
+    "examLevelNote": "Подтверждены только коды разделов в обобщённых планах спецификаций 2026. Эта отметка НЕ означает, что каждый дочерний элемент проверяется на обоих уровнях. База: печатные с. 10–12; профиль: печатные с. 14–18."
+  },
+  {
+    "id": "ege-math-5-1",
+    "subject": "math",
+    "code": "5.1",
+    "title": "Множество, операции над множествами. Диаграммы Эйлера – Венна",
+    "section": "Множества и логика",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "not-assessed-in-edition",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-5",
+    "assessmentNote": "Не проверяется на ЕГЭ 2026: знак «−» в таблице 3 и сноска 2 к кодификатору математики. Доступно как дополнительная школьная тема."
+  },
+  {
+    "id": "ege-math-5-2",
+    "subject": "math",
+    "code": "5.2",
+    "title": "Логика",
+    "section": "Множества и логика",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-5"
+  },
+  {
+    "id": "ege-math-6",
+    "subject": "math",
+    "code": "6",
+    "title": "Вероятность и статистика",
+    "section": "Вероятность и статистика",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "examLevels": [
+      "basic",
+      "profile"
+    ],
+    "examLevelNote": "Подтверждены только коды разделов в обобщённых планах спецификаций 2026. Эта отметка НЕ означает, что каждый дочерний элемент проверяется на обоих уровнях. База: печатные с. 10–12; профиль: печатные с. 14–18."
+  },
+  {
+    "id": "ege-math-6-1",
+    "subject": "math",
+    "code": "6.1",
+    "title": "Описательная статистика",
+    "section": "Вероятность и статистика",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-6"
+  },
+  {
+    "id": "ege-math-6-2",
+    "subject": "math",
+    "code": "6.2",
+    "title": "Вероятность",
+    "section": "Вероятность и статистика",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-6"
+  },
+  {
+    "id": "ege-math-6-3",
+    "subject": "math",
+    "code": "6.3",
+    "title": "Комбинаторика",
+    "section": "Вероятность и статистика",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-math-6"
+  },
+  {
+    "id": "ege-math-7",
+    "subject": "math",
+    "code": "7",
+    "title": "Геометрия",
+    "section": "Геометрия",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "section",
+    "programLevels": [],
+    "examLevels": [
+      "basic",
+      "profile"
+    ],
+    "examLevelNote": "Подтверждены только коды разделов в обобщённых планах спецификаций 2026. Эта отметка НЕ означает, что каждый дочерний элемент проверяется на обоих уровнях. База: печатные с. 10–12; профиль: печатные с. 14–18."
+  },
+  {
+    "id": "ege-math-7-1",
+    "subject": "math",
+    "code": "7.1",
+    "title": "Фигуры на плоскости",
+    "section": "Геометрия",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      7,
+      8,
+      9
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [
+      "прямоугольник",
+      "треугольник",
+      "площадь",
+      "медиана",
+      "высота",
+      "биссектриса",
+      "окружность"
+    ],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-7",
+    "lessonTopicId": "math-rectangle",
+    "lessonTopicIds": [
+      "math-rectangle",
+      "math-triangle",
+      "math-median"
+    ]
+  },
+  {
+    "id": "ege-math-7-2",
+    "subject": "math",
+    "code": "7.2",
+    "title": "Прямые и плоскости в пространстве",
+    "section": "Геометрия",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-7"
+  },
+  {
+    "id": "ege-math-7-3",
+    "subject": "math",
+    "code": "7.3",
+    "title": "Многогранники",
+    "section": "Геометрия",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "basic",
+      "advanced"
+    ],
+    "parentId": "ege-math-7"
+  },
+  {
+    "id": "ege-math-7-4",
+    "subject": "math",
+    "code": "7.4",
+    "title": "Тела и поверхности вращения",
+    "section": "Геометрия",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-math-7"
+  },
+  {
+    "id": "ege-math-7-5",
+    "subject": "math",
+    "code": "7.5",
+    "title": "Координаты и векторы",
+    "section": "Геометрия",
+    "sourceId": "fipi-math-2026",
+    "sourceDocumentId": "fipi-math-2026-codifier",
+    "page": 12,
+    "printedPage": 15,
+    "editionYear": 2026,
+    "editionStatus": "final",
+    "schoolGrades": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "gradeBasis": "approximate",
+    "gradeNote": "Ориентировочная привязка Cosmos. Кодификатор задаёт содержание экзамена, а не календарь конкретного класса; повторение возможно позднее.",
+    "keywords": [],
+    "assessmentStatus": "assessed",
+    "programLevels": [
+      "advanced"
+    ],
+    "parentId": "ege-math-7"
+  }
+]

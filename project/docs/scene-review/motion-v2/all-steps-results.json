@@ -1,0 +1,825 @@
+{
+  "at": "2026-09-07T21:50:25.297Z",
+  "kind": "Real browser playback of local scenes at 2x, NOT packaged exe",
+  "errors": [],
+  "results": [
+    {
+      "id": "rectangle",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Начнём с пространства",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Построим прямоугольник",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Измерим длину",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Измерим ширину",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Разделим на клетки",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 6,
+          "title": "Первый ряд",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 7,
+          "title": "Добавим второй ряд",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 8,
+          "title": "Заполним всю фигуру",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 9,
+          "title": "Заменим сложение умножением",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "S = a · b"
+        },
+        {
+          "step": 10,
+          "title": "Подставим размеры",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "S = 6 · 4"
+        },
+        {
+          "step": 11,
+          "title": "Соберём результат",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "S = 24 см²"
+        },
+        {
+          "step": 12,
+          "title": "Теперь твоя очередь",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "S = a · b"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "triangle",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Знакомая фигура",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Выберем основание",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Построим высоту",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Сделаем точную копию",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Соберём параллелограмм",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 6,
+          "title": "Возьмём половину",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "S = a · h / 2"
+        },
+        {
+          "step": 7,
+          "title": "Подставим размеры",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "S = 8 · 5 / 2"
+        },
+        {
+          "step": 8,
+          "title": "Получим площадь",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "S = 20 см²"
+        },
+        {
+          "step": 9,
+          "title": "Проверь правило",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "S = a · h / 2"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "median",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Треугольник ABC",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Вершина A",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Вершины B и C",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Противоположная сторона",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Поставим точку M",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 6,
+          "title": "Найдём середину",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 7,
+          "title": "Отметим равные части",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "BM = MC"
+        },
+        {
+          "step": 8,
+          "title": "Соединим A и M",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 9,
+          "title": "Это медиана",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "AM — медиана"
+        },
+        {
+          "step": 10,
+          "title": "Сравним с высотой",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "AH ⟂ BC"
+        },
+        {
+          "step": 11,
+          "title": "Сравним с биссектрисой",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "∠BAL = ∠LAC"
+        },
+        {
+          "step": 12,
+          "title": "Три разных признака",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "BM = MC"
+        },
+        {
+          "step": 13,
+          "title": "Твоя проверка",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "AM — медиана ⇔ BM = MC"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "fraction",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Одно целое",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Восемь равных частей",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Посчитаем части",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Возьмём первую часть",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Возьмём ещё две",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 6,
+          "title": "Знаменатель",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "8 — частей в целом"
+        },
+        {
+          "step": 7,
+          "title": "Числитель",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "3 — взятые части"
+        },
+        {
+          "step": 8,
+          "title": "Запишем дробь",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "3/8"
+        },
+        {
+          "step": 9,
+          "title": "Твоя очередь",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "3/8"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "multiply",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Две дроби",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Три четверти",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Две трети",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Найдём пересечение",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Посчитаем выбранное",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "2 · 3 = 6"
+        },
+        {
+          "step": 6,
+          "title": "Посчитаем целое",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "3 · 4 = 12"
+        },
+        {
+          "step": 7,
+          "title": "Запишем действие",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "2/3 · 3/4 = 6/12"
+        },
+        {
+          "step": 8,
+          "title": "Сократим",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "6/12 = 1/2"
+        },
+        {
+          "step": 9,
+          "title": "Половина целого",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "2/3 · 3/4 = 1/2"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "percent",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Всё — это сто процентов",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Одна сотая",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "1% = 1/100"
+        },
+        {
+          "step": 3,
+          "title": "Четыре одинаковые доли",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Выделим четверть",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "25% = 1/4"
+        },
+        {
+          "step": 5,
+          "title": "Разделим величину",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "80 · 25/100 = 20"
+        },
+        {
+          "step": 6,
+          "title": "Попробуй самостоятельно",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "25% от 80 = 20"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "syntax",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Прочитаем предложение",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Первая основа",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Вторая основа",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Две части",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "2 основы → сложное предложение"
+        },
+        {
+          "step": 5,
+          "title": "Найдём связь",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Вернулись когда?"
+        },
+        {
+          "step": 6,
+          "title": "Соберём схему",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "(Когда …), [ … ]."
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "commas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Пока без знака",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Найдём основы",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Найдём границу",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Поставим знак",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "(Когда …), [ … ]."
+        },
+        {
+          "step": 5,
+          "title": "Прочитаем с паузой",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 6,
+          "title": "Объясни решение",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "(Когда …), [ … ]."
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "ne-ni",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Сначала смысл",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Найдём отрицание",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "НЕ → отрицание"
+        },
+        {
+          "step": 3,
+          "title": "Найдём усиление",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "НИ → усиление отрицания"
+        },
+        {
+          "step": 4,
+          "title": "Проверим смысл",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Запомним в контексте",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "не пропустил + ни одного"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "baptism",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Русь в конце X века",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Киев",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Князь Владимир",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Почему изменили веру",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Принятие христианства",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "988 год"
+        },
+        {
+          "step": 6,
+          "title": "Культурные изменения",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 7,
+          "title": "Свяжем события",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Причины → 988 → последствия"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "reform",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Россия середины XIX века",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Александр II",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Почему назрели перемены",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Документы реформы",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "19 февраля (3 марта) 1861"
+        },
+        {
+          "step": 5,
+          "title": "Личная свобода",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 6,
+          "title": "Земельный вопрос",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 7,
+          "title": "До и после",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Личная свобода ≠ бесплатная земля"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "demand",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Покупатели и продавцы",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Цена и количество",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Кривая спроса",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Кривая предложения",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Точка равновесия",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Q спроса = Q предложения"
+        },
+        {
+          "step": 6,
+          "title": "Если цена выше",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 7,
+          "title": "Проверь закономерность",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "P ↑ → Q спроса ↓"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    },
+    {
+      "id": "groups",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Человек и окружение",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 2,
+          "title": "Семья",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 3,
+          "title": "Учебный класс",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 4,
+          "title": "Большая группа",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 5,
+          "title": "Несколько принадлежностей",
+          "earlyElapsedMs": 210,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Сначала действие — затем вывод"
+        },
+        {
+          "step": 6,
+          "title": "Сравни группы",
+          "earlyElapsedMs": 325,
+          "earlyFormulaWithheld": true,
+          "settledFormula": "Один человек → несколько групп"
+        }
+      ],
+      "completed": true,
+      "replay": true,
+      "overflow": false
+    }
+  ]
+}
