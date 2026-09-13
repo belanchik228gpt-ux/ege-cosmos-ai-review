@@ -106,3 +106,18 @@ html .cosmos-studio.cosmos-studio {
 .cosmos-studio :is(.studio-hero, .ton618-school-hero)::before { content: ''; position: absolute; inset: 0; border-radius: inherit; background: rgba(10, 8, 20, .2); z-index: -1; pointer-events: none; }
 
 :where(button, a, input, select, textarea, summary, [tabindex]):focus-visible { outline: 2px solid var(--ui-accent, #b69af8); outline-offset: 4px; }
+
+.cosmos-studio .topic-progress-empty { display: contents; }
+.cosmos-studio .studio-top-search { display: inline-flex; }
+.cosmos-studio :is(.studio-subject-card, .school-subject-card, .studio-topic-card) {
+  --topic-color: var(--studio-primary) !important;
+  --school-color: var(--studio-primary) !important;
+  background: var(--studio-surface);
+  border-color: var(--studio-line);
+  box-shadow: none;
+}
+.cosmos-studio .studio-sidebar nav svg { color: var(--studio-link) !important; }
+@media (max-width: 800px) {
+  .cosmos-studio .studio-page { margin-top: 60px !important; }
+  .cosmos-studio .studio-streak { display: flex; }
+}

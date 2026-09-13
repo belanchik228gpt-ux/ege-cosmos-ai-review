@@ -476,7 +476,7 @@ export function SchoolWorkspace({
                       </small>
                       <ArrowRight size={19} />
                     </div>
-                    <progress value={done} max={units.length || 1} />
+                    {done > 0 && <progress value={done} max={units.length || 1} aria-label="Разобрано разделов" />}
                     <small>
                       {done ? `Разобрано ${done} из ${units.length}` : 'Начни с любой темы'}
                     </small>
@@ -960,13 +960,7 @@ export function SchoolWorkspace({
       {school.view === 'memory' && (
         <SchoolMemory key={school.grade} school={school} update={update} />
       )}
-      <footer className="school-footer">
-        <span>
-          <ShieldCheck size={15} />
-          Школьные занятия и прогресс сохраняются на этом устройстве
-        </span>
-        <span>Школа · {school.grade} класс</span>
-      </footer>
+
     </section>
   );
 }

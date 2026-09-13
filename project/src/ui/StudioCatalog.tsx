@@ -85,7 +85,7 @@ export function StudioCatalog({
       percent = egeTopicProgress(state, topic.id);
     return (
       <div>
-        <div className="studio-topic-footer">
+        <div className={percent > 0 ? "studio-topic-footer" : "topic-progress-empty"}>
           {percent > 0 && <span>
             {skipped ? 'Пропущено вручную' : 'Пройдено занятие'} · {percent}%
           </span>}
