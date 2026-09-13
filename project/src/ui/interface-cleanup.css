@@ -53,3 +53,10 @@
 .cosmos-studio .tutor-markdown .katex-display { overflow-x: auto; overflow-y: hidden; max-width: 100%; padding: 4px 0; }
 .cosmos-studio .tutor-markdown > p:first-child { margin-top: 0; }
 .cosmos-studio .tutor-markdown > p:last-child { margin-bottom: 0; }
+
+.cosmos-studio :is(.school-topic-card, .school-subtopic-row, .studio-topic-card, .studio-topic-heading) { position: relative; }
+.cosmos-studio .topic-known-icon { position: absolute; right: 12px; top: 12px; display: inline-flex; align-items: center; justify-content: center; width: 32px; min-width: 32px; height: 32px; padding: 4px; border: 1px solid var(--studio-line); border-radius: 6px; background: var(--studio-surface); color: var(--ui-success); }
+.cosmos-studio .school-subtopic-row { padding-right: 48px; }
+.cosmos-studio .school-topic-title { padding-right: 56px; }
+.cosmos-studio :is(.studio-topic-card, .studio-topic-heading) { padding-right: 56px; }
+.cosmos-studio .studio-topic-footer:empty { display: none; }

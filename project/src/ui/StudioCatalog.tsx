@@ -4,6 +4,7 @@ import {
   ArrowRight,
   BookOpen,
   Check,
+  RotateCcw,
   ChevronRight,
   Search,
   Sparkles,
@@ -85,31 +86,31 @@ export function StudioCatalog({
     return (
       <div>
         <div className="studio-topic-footer">
-          <span>
+          {percent > 0 && <span>
             {skipped ? 'Пропущено вручную' : 'Пройдено занятие'} · {percent}%
-          </span>
+          </span>}
           {onSkip && (
             <button
               type="button"
-              className="text-button"
+              className="topic-known-icon"
               aria-label={`${skipped ? 'Вернуть тему в обучение' : 'Пропустить уже знакомую тему'}: ${topic.title}`}
               title={
                 skipped
-                  ? 'Отменить свою отметку. История занятий сохранится.'
-                  : 'Я уже знаю тему. Отметка не заменяет самостоятельную проверку.'
+                  ? 'Вернуть в изучение'
+                  : 'Уже знаю'
               }
               onClick={() => onSkip(topic.id, !skipped)}
             >
-              {skipped ? 'Вернуть' : 'Пропустить'}
+              {skipped ? <RotateCcw size={16} /> : <Check size={16} />}
             </button>
           )}
         </div>
-        <progress
+        {percent > 0 && <progress
           max={100}
           value={percent}
           aria-label={`Пройдено занятие: ${topic.title}`}
           style={{ width: '100%', accentColor: 'var(--topic-color)' }}
-        />
+        />}
       </div>
     );
   };

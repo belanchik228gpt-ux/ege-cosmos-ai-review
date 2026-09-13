@@ -15,6 +15,7 @@ import {
   Brain,
   CalendarDays,
   Check,
+  RotateCcw,
   ChevronRight,
   Compass,
   Download,
@@ -424,11 +425,11 @@ export function SchoolWorkspace({
               <button className={track === 'all' ? 'selected' : ''} onClick={() => setTrack('all')}>
                 Все курсы <small>Идут параллельно</small>
               </button>
-              {programTracks(visibleCourse, school.grade).map((item) => (
+              {programTracks(visibleCourse, school.grade).map((item, index) => (
                 <div key={item.id} className={track === item.id ? 'selected' : ''}>
                   <button onClick={() => setTrack(item.id)}>
                     <strong>{item.title}</strong>
-                    <small>{item.units.length} разделов · своя последовательность</small>
+                    <small>{item.units.length} разделов{index === 0 ? ' · своя последовательность' : ''}</small>
                   </button>
                   {item.entryTopic && (
                     <button
@@ -499,6 +500,23 @@ export function SchoolWorkspace({
                         key={u.id}
                         className={`school-topic-card ${openUnit === u.id ? 'expanded' : ''}`}
                       >
+                              <button
+                                className="topic-known-icon"
+                                title={schoolUnitSkipped(school, u.id) ? 'Вернуть в изучение' : 'Уже знаю'}
+                                aria-label={`${schoolUnitSkipped(school, u.id) ? 'Вернуть в изучение' : 'Уже знаю'}: ${u.title}`}
+                                onClick={() =>
+                                  update((s) =>
+                                    setSchoolTopicSkipped(
+                                      s,
+                                      u.id,
+                                      undefined,
+                                      !schoolUnitSkipped(s, u.id),
+                                    ),
+                                  )
+                                }
+                              >
+                                {schoolUnitSkipped(school, u.id) ? <RotateCcw size={16} /> : <Check size={16} />}
+                              </button>
                         <button
                           className="school-topic-title"
                           onClick={() => setOpenUnit(openUnit === u.id ? undefined : u.id)}
@@ -543,29 +561,10 @@ export function SchoolWorkspace({
                               <button className="button" onClick={() => add(u)}>
                                 <Plus size={16} />В план
                               </button>
-                              <button
-                                className="button"
-                                onClick={() =>
-                                  update((s) =>
-                                    setSchoolTopicSkipped(
-                                      s,
-                                      u.id,
-                                      undefined,
-                                      !schoolUnitSkipped(s, u.id),
-                                    ),
-                                  )
-                                }
-                              >
-                                {schoolUnitSkipped(school, u.id)
-                                  ? 'Вернуть раздел в изучение'
-                                  : 'Уже знаю — пропустить раздел'}
-                              </button>
+
                             </div>
                             <h3>Содержание раздела</h3>
-                            <p className="school-muted">
-                              Процент показывает этапы занятия по этой подтеме, а не оценку знаний.
-                              Завершение раздела не отмечает все подтемы автоматически.
-                            </p>
+                            <InfoTip text="Процент показывает этапы занятия по этой подтеме, а не оценку знаний. Завершение раздела не отмечает все подтемы автоматически." />
                             <div className="school-subtopics">
                               {visibleSubtopics(u, query, allSubtopics === u.id).map(
                                 ({ focus: t, label, index }) => (
@@ -574,7 +573,7 @@ export function SchoolWorkspace({
                                       <span>{index + 1}</span>
                                       <div className="school-subtopic-copy">
                                         {label}
-                                        <small>
+                                        {subtopicProgress(school, u.id, t) > 0 && <><small>
                                           {schoolTopicSkip(school, u.id, t)
                                             ? 'Пропущено — уже знаю: 100%'
                                             : `Пройдено занятие: ${subtopicProgress(school, u.id, t)}%`}
@@ -583,12 +582,13 @@ export function SchoolWorkspace({
                                           aria-label={`Прогресс: ${t}`}
                                           value={subtopicProgress(school, u.id, t)}
                                           max={100}
-                                        />
+                                        /></>}
                                       </div>
                                       <ArrowRight size={14} />
                                     </button>
                                     <button
-                                      className="school-skip-topic"
+                                      className="school-skip-topic topic-known-icon"
+                                      title={schoolTopicSkip(school, u.id, t) ? 'Вернуть в изучение' : 'Уже знаю'}
                                       aria-label={`${schoolTopicSkip(school, u.id, t) ? 'Вернуть' : 'Пропустить'} тему: ${t}`}
                                       onClick={() =>
                                         update((s) =>
@@ -601,7 +601,7 @@ export function SchoolWorkspace({
                                         )
                                       }
                                     >
-                                      {schoolTopicSkip(school, u.id, t) ? 'Вернуть' : 'Уже знаю'}
+                                      {schoolTopicSkip(school, u.id, t) ? <RotateCcw size={16} /> : <Check size={16} />}
                                     </button>
                                   </div>
                                 ),
