@@ -1352,7 +1352,7 @@ function Memory({ state, setState, notify }: StateProps & { notify: (s: string) 
                 maxLength={300}
                 placeholder="Добавить учебное предпочтение"
               />
-              <button className="button secondary" type="submit">
+              <button className="button secondary" type="submit" aria-label="Добавить учебное предпочтение" title="Добавить учебное предпочтение">
                 <Plus size={19} />
               </button>
             </div>

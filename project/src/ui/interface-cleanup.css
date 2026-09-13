@@ -100,3 +100,9 @@ html .cosmos-studio.cosmos-studio {
   .cosmos-studio .school-dialogue-surface { height: max(420px, calc(100dvh - 192px)); }
   .cosmos-studio .app-footer { flex-wrap: wrap; padding: 12px 16px; }
 }
+
+.cosmos-studio .lesson-heading h1 :is(.tutor-markdown, .tutor-markdown span) { font-size: inherit; line-height: inherit; }
+.cosmos-studio :is(.studio-hero, .ton618-school-hero) { isolation: isolate; position: relative; }
+.cosmos-studio :is(.studio-hero, .ton618-school-hero)::before { content: ''; position: absolute; inset: 0; border-radius: inherit; background: rgba(10, 8, 20, .2); z-index: -1; pointer-events: none; }
+
+:where(button, a, input, select, textarea, summary, [tabindex]):focus-visible { outline: 2px solid var(--ui-accent, #b69af8); outline-offset: 4px; }

@@ -115,7 +115,7 @@
 }
 .cosmos-studio .studio-page {
   position: relative;
-  margin: 32px 0 0 32px;
+  margin: 71px 0 0 224px;
   width: auto;
   max-width: none;
   min-height: calc(100vh - 120px);
@@ -127,7 +127,7 @@
   margin-right: auto;
 }
 .cosmos-studio .app-footer {
-  margin-left: 32px;
+  margin-left: 224px;
   max-width: none;
   padding: 16px 32px;
   border-top: 1px solid var(--studio-line);
@@ -1777,7 +1777,7 @@
   }
   .cosmos-studio .studio-page,
   .cosmos-studio .app-footer {
-    margin-left: 32px;
+    margin-left: 200px;
   }
   .studio-top-search span,
   .studio-top-search kbd {
