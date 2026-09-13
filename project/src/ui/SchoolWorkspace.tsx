@@ -572,7 +572,7 @@ export function SchoolWorkspace({
                                     <button onClick={() => start(u, 'lesson', t)}>
                                       <span>{index + 1}</span>
                                       <div className="school-subtopic-copy">
-                                        {label}
+                                        <TutorMarkdown text={label} inline />
                                         {subtopicProgress(school, u.id, t) > 0 && <><small>
                                           {schoolTopicSkip(school, u.id, t)
                                             ? 'Пропущено — уже знаю: 100%'

@@ -672,7 +672,7 @@ export function CloudRoom({
             </button>
           </div>
           {startTopic && (
-            <p className="studio-small">Предлагаю начать: {startTopic.subtopics[0]}.</p>
+            <p className="studio-small">Предлагаю начать: <TutorMarkdown text={startTopic.subtopics[0]} inline />.</p>
           )}
         </div>
       ) : (
@@ -862,14 +862,12 @@ export function CloudRoom({
                         ? 'Пришли свой пример — текстом или фото'
                         : `Разберёмся: ${lesson.title}`}
                   </h2>
-                  <p>
-                    {lesson.examTraining
+                  <TutorMarkdown text={lesson.examTraining
                       ? `В серии ${lesson.examTraining.total} примеров. Cosmos даёт одно условие, ждёт твою попытку и разбирает её. ${subject === 'math' ? 'Открой лист и напиши решение мышью.' : 'Можно отвечать текстом или прикреплять фото решения.'}`
                       : (lesson.title === topic?.recommendedStart?.title
                           ? topic.recommendedStart.description
                           : topic?.goal) ||
-                        'Сначала выясним условие, затем будем рассуждать небольшими шагами.'}
-                  </p>
+                        'Сначала выясним условие, затем будем рассуждать небольшими шагами.'} />
                   <div className="studio-actions">
                     <button
                       className="button primary"
