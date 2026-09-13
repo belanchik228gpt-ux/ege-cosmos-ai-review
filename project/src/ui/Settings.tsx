@@ -18,6 +18,8 @@ import {
   Volume2,
 } from 'lucide-react';
 import { type LearningState, type SubjectId } from '../domain';
+import { createSchoolState } from '../domain/school-state';
+import type { SchoolGrade } from '../domain/school-program';
 import { sources } from '../domain/sources';
 import { Heading, IconBadge } from './App';
 import { OrbitArt } from './OrbitArt';
@@ -32,8 +34,10 @@ type Props = {
   notify: (s: string) => void;
   model: { available: boolean; model: string };
   saveError: boolean;
+  connected: boolean;
+  onConnect: () => void;
 };
-export function Settings({ page, state, setState, notify, model, saveError }: Props) {
+export function Settings({ page, state, setState, notify, model, saveError, connected, onConnect }: Props) {
   const [tab, setTab] = useState('visual');
   const [visualTab, setVisualTab] = useState('color');
   const [sourceSubject, setSourceSubject] = useState<SubjectId | 'all'>('all');
@@ -221,7 +225,7 @@ export function Settings({ page, state, setState, notify, model, saveError }: Pr
               title: 'Комфорт',
               tone: 'purple',
               items: [
-                { id: 'visual', label: 'Изображение и звук' },
+                { id: 'visual', label: 'Внешний вид' },
                 { id: 'motion', label: 'Неон и движение' },
                 { id: 'workspace', label: 'Рабочее место' },
                 { id: 'profiles', label: 'Мои сочетания' },
@@ -231,9 +235,9 @@ export function Settings({ page, state, setState, notify, model, saveError }: Pr
               title: 'Учёба',
               tone: 'cyan',
               items: [
-                { id: 'study', label: 'Учебный ритм' },
+                { id: 'study', label: 'Учёба' },
                 { id: 'documents', label: 'Конспекты' },
-                { id: 'model', label: 'Преподаватель' },
+                { id: 'connection', label: 'Подключение' },
               ],
             },
             {
@@ -241,7 +245,8 @@ export function Settings({ page, state, setState, notify, model, saveError }: Pr
               tone: 'amber',
               items: [
                 { id: 'sources', label: 'Источники' },
-                { id: 'diagnostics', label: 'Диагностика' },
+                { id: 'diagnostics', label: 'Для разработчика' },
+                { id: 'model', label: 'Локальная модель' },
               ],
             },
           ].map((group) => (
@@ -261,6 +266,23 @@ export function Settings({ page, state, setState, notify, model, saveError }: Pr
           ))}
         </nav>
         <div className="flow-settings-content">
+          {tab === 'connection' && <section className="panel">
+            <h2>Подключение OpenAI</h2>
+            <p role="status">{connected ? 'OpenAI подключён' : 'OpenAI не подключён'}</p>
+            <button className="button" onClick={onConnect}>{connected ? 'Управлять подключением' : 'Подключить OpenAI'}</button>
+          </section>}
+          {tab === 'study' && <section className="panel study-profile-settings">
+            <h2>Школьная программа</h2>
+            <label>Класс
+              <select aria-label="Школьный класс" value={(state.school || createSchoolState()).grade} onChange={e => {
+                const grade = Number(e.target.value) as SchoolGrade;
+                setState(s => ({ ...s, school: { ...(s.school || createSchoolState()), grade, view: 'subjects' } }));
+              }}>
+                {[7, 8, 9, 10, 11].map(g => <option key={g} value={g}>{g} класс</option>)}
+              </select>
+            </label>
+            <p>{(state.school || createSchoolState()).grade >= 10 ? 'Общая программа · базовый уровень 10–11' : 'Общая программа · 7–9 классы'}</p>
+          </section>}
           {['motion', 'workspace', 'study', 'documents', 'profiles'].includes(tab) && (
             <PersonalizationSettings
               section={tab as 'motion' | 'workspace' | 'study' | 'documents' | 'profiles'}

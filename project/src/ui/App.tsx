@@ -1,3 +1,4 @@
+import { InfoTip } from './InfoTip';
 import { getSchoolSubject } from '../domain/school-program';
 import { useEffect, useRef, useState, type CSSProperties, type ReactNode } from 'react';
 import {
@@ -749,7 +750,7 @@ export function App() {
                 )}
               </div>
             )}
-          {ready && !schoolMode && activeRun && page !== 'study' && (
+          {ready && !schoolMode && activeRun && page === 'home' && (
             <div className="study-banner">
               <Play size={21} />
               <div>
@@ -1044,6 +1045,8 @@ export function App() {
               {page === 'memory' && <Memory state={state} setState={setState} notify={setNotice} />}
               {(page === 'settings' || page === 'backgrounds') && (
                 <Settings
+                  connected={ai.status.authenticated === true}
+                  onConnect={() => setAuthOpen(true)}
                   page={page}
                   state={state}
                   setState={setState}
@@ -1056,7 +1059,7 @@ export function App() {
           )}
         </main>
         {authOpen && <OpenAIConnection ai={ai} onClose={() => setAuthOpen(false)} />}
-        <footer className="app-footer">
+        {page === 'home' && <footer className="app-footer">
           <span>
             <Orbit size={14} />
             COSMOS · учиться с пониманием
@@ -1068,7 +1071,7 @@ export function App() {
           <span className="small">
             {saveError ? 'Есть несохранённые изменения' : 'Прогресс хранится на этом устройстве'}
           </span>
-        </footer>
+        </footer>}
         {notice && (
           <div className="toast" role="status">
             <Info size={19} />
@@ -1141,9 +1144,7 @@ export function App() {
                 Начнём знакомство
                 <ArrowRight size={18} />
               </button>
-              <span className="muted small">
-                Материалы работают без входа. Для живого диалога подключи ChatGPT.
-              </span>
+              <InfoTip text="Материалы работают без входа. Для живого диалога подключи ChatGPT." />
             </form>
           </div>
         )}
@@ -1208,7 +1209,7 @@ function Headquarters({
               </p>
               <p className="small muted">
                 Подтверждено навыков в доступных уроках: {progress.masteredTopics} из{' '}
-                {progress.totalTopics}. Это не процент всего курса ЕГЭ.
+                {progress.totalTopics}. <InfoTip text="Это не процент всего курса ЕГЭ." />
               </p>
               <details>
                 <summary>Темы, к которым стоит вернуться</summary>
@@ -1392,12 +1393,7 @@ function Memory({ state, setState, notify }: StateProps & { notify: (s: string) 
               </div>
             ))}
           </div>
-          <div className="gentle-note">
-            <ShieldCheck size={20} />
-            <p>
-              Предметы хранят отдельные занятия. Технические ошибки не попадают в учебные факты.
-            </p>
-          </div>
+          <InfoTip text="Предметы хранят отдельные занятия. Технические ошибки не попадают в учебные факты." />
         </section>
       </div>
       <section className="panel">

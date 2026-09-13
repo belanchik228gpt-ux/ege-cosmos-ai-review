@@ -32,3 +32,5 @@ createRoot(document.getElementById('root')!).render(
     </AppBoundary>
   </React.StrictMode>,
 );
+
+import './ui/interface-cleanup.css';

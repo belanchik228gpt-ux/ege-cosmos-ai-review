@@ -199,7 +199,7 @@ export function StudioNavigation({
             className="studio-profile"
             onClick={() => (schoolMode ? onSchoolView?.('memory') : go('memory'))}
           >
-            <span>{name.slice(0, 1).toUpperCase()}</span>
+            <span className="profile-avatar">{name.slice(0, 1).toUpperCase()}<i className={`profile-connection ${connected ? 'online' : 'offline'}`} role="img" aria-label={connected ? 'OpenAI подключён' : 'OpenAI не подключён'} /></span>
             <div>
               <strong>{name}</strong>
               <small>
@@ -224,15 +224,10 @@ export function StudioNavigation({
           <strong>{page === 'room' ? subjects.find((s) => s.id === subject)?.title : title}</strong>
         </div>
         <div>
-          <button className="studio-top-search" onClick={onSearch}>
-            <Search size={17} />
-            <span>Быстрый поиск</span>
-            <kbd>Ctrl K</kbd>
+          <button className="studio-top-search icon-button" onClick={onSearch} title="Поиск (Ctrl+K)" aria-label="Поиск (Ctrl+K)">
+            <Search size={20} />
           </button>
-          <button className="studio-connection-pill" onClick={onConnect}>
-            <span className={connected ? 'online' : ''} />
-            {connected ? 'OpenAI подключён' : 'Подключить OpenAI'}
-          </button>
+
         </div>
       </header>
     </>

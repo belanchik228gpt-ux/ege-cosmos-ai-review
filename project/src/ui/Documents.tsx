@@ -1,3 +1,4 @@
+import { InfoTip } from './InfoTip';
 import { useEffect, useMemo, useState } from 'react';
 import { createPortal } from 'react-dom';
 import {
@@ -371,7 +372,7 @@ export function Documents({ state, setState, notify, initialSessionId }: Props) 
       <div className="section-title">
         <div>
           <h2>Сохранённые документы</h2>
-          <p>Файлы появятся здесь после успешного экспорта.</p>
+          <InfoTip text="Файлы появятся здесь после успешного экспорта." />
         </div>
         <select
           aria-label="Фильтр документов по предмету"

@@ -1,3 +1,4 @@
+import { InfoTip } from './InfoTip';
 import { visibleSubtopics } from '../domain/school-topic-search';
 import { Ton618Controls } from './Ton618';
 import {
@@ -212,34 +213,6 @@ export function SchoolWorkspace({
       notify('Выбери тему для повторения или добавь свою тему в план.');
     }
   }
-  const filters = (
-    <div className="school-filters">
-      <label>
-        Класс
-        <select
-          aria-label="Школьный класс"
-          value={school.grade}
-          onChange={(e) => {
-            const grade = Number(e.target.value) as SchoolGrade;
-            setCourse(undefined);
-            setOpenUnit(undefined);
-            setQuery('');
-            update((s) => ({ ...s, grade, view: s.view === 'room' ? 'subjects' : s.view }));
-          }}
-        >
-          {[7, 8, 9, 10, 11].map((g) => (
-            <option key={g} value={g}>
-              {g} класс
-            </option>
-          ))}
-        </select>
-      </label>
-      <span className="school-program-tag">
-        <ShieldCheck size={15} />
-        Общая программа · базовый уровень 10–11
-      </span>
-    </div>
-  );
   if (school.view === 'room' && active)
     return (
       <SchoolRoom
@@ -272,7 +245,6 @@ export function SchoolWorkspace({
           <h1>{schoolViewNames[school.view === 'room' ? 'today' : school.view]}</h1>
           <p>Понимай материал уроков, разбирай домашнюю работу и двигайся в своём темпе.</p>
         </div>
-        {filters}
       </header>
       {school.view === 'today' && (
         <>
@@ -650,7 +622,7 @@ export function SchoolWorkspace({
                                   Показать всё содержание ({u.topics.length})
                                 </button>
                               )}
-                            {u.notes && <p className="school-muted">{u.notes}</p>}
+                            {u.notes && <InfoTip text={u.notes} />}
                             <ProgramEvidence unit={u} notify={notify} />
                           </div>
                         )}
@@ -1124,7 +1096,7 @@ export function SchoolDocuments({
     return (
       <div className="school-panel school-empty">
         <FileText size={42} />
-        <h2>{homework ? 'Конспекты домашних работ' : 'Твои школьные конспекты'}</h2>
+        <h2>{homework ? 'Конспекты домашних работ' : 'Сохранённые файлы'}</h2>
         <p>
           Открой занятие и нажми «Конспект». В черновик попадут объяснения, твои вопросы и рисунки.
           Его можно отредактировать и сохранить в PDF, HTML, DOCX или текст.
