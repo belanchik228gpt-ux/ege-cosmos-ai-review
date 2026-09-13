@@ -1,0 +1,95 @@
+$ vitest run
+
+ RUN  v3.2.7 C:/new cosmos/work/interface-cleanup/project
+
+ ✓ tests/model-backend.test.ts (7 tests) 87ms
+ ✓ tests/curriculum-sequencing.test.ts (9 tests) 277ms
+ ✓ tests/topic-scenes-natural.test.ts (90 tests) 225ms
+ ✓ tests/openai-service.test.ts (27 tests) 1171ms
+ ✓ tests/school-sources.test.ts (30 tests) 397ms
+ ✓ tests/school-program.test.ts (11 tests) 265ms
+ ✓ tests/domain.test.ts (15 tests) 321ms
+ ✓ tests/school-catalog.test.ts (9 tests) 340ms
+ ✓ tests/topic-scenes-math.test.ts (50 tests) 334ms
+ ✓ tests/study-actions.test.ts (19 tests) 625ms
+ ✓ tests/history-atlas.test.ts (7 tests) 189ms
+ ✓ tests/document-math.test.ts (17 tests) 139ms
+ ✓ tests/teaching-scenes.test.ts (33 tests) 225ms
+ ✓ tests/school-desktop.test.ts (18 tests) 283ms
+ ✓ tests/problem-teaching.test.ts (26 tests) 193ms
+ ✓ tests/manual-topic-skips.test.ts (7 tests) 153ms
+ ✓ tests/persistence.test.ts (4 tests) 128ms
+ ✓ tests/curriculum-data.test.ts (8 tests) 143ms
+ ✓ tests/image-reader.test.ts (14 tests) 170ms
+ ✓ tests/document-content.test.ts (14 tests) 147ms
+ ✓ tests/homework-images.test.ts (8 tests) 217ms
+ ✓ tests/radical-topic.test.ts (21 tests) 132ms
+ ✓ tests/grounding.test.ts (20 tests) 147ms
+ ✓ tests/fast-answer-review.test.ts (70 tests) 158ms
+ ✓ tests/tutor-planner.test.ts (15 tests) 113ms
+ ✓ tests/knowledge.test.ts (8 tests) 94ms
+ ✓ tests/lesson-lab.test.ts (22 tests) 99ms
+ ✓ tests/ege-skip-plan.test.ts (2 tests) 122ms
+ ✓ tests/civics-expanded.test.ts (27 tests) 104ms
+ ✓ tests/evidence.test.ts (15 tests) 101ms
+ ✓ tests/diagnostics.test.ts (11 tests) 84ms
+ ✓ tests/study-plan.test.ts (38 tests) 2957ms
+   ✓ deterministic calendar and honest allocation > creates actual calendar months and keeps the first local day  548ms
+   ✓ deterministic calendar and honest allocation > keeps user-edited days when ensuring overlapping week/month plans  556ms
+ ✓ tests/references.test.ts (5 tests) 104ms
+ ✓ tests/cloud-learning.test.ts (22 tests) 69ms
+ ✓ tests/homework.test.ts (7 tests) 72ms
+ ✓ tests/tutor-response-gate.test.ts (6 tests) 56ms
+ ✓ tests/drawing-coordinate-points.test.ts (9 tests) 96ms
+ ✓ tests/scene-formula.test.ts (3 tests) 72ms
+ ✓ tests/teaching.test.ts (25 tests) 57ms
+ ✓ tests/document-renderer.test.ts (11 tests) 58ms
+ ✓ tests/interface-math.test.tsx (7 tests) 73ms
+ ✓ tests/quick-jump.test.ts (4 tests) 4929ms
+   ✓ quick jump searches the whole exam catalogue before optional local practice > covers all assessed source positions as searchable results without adding excluded or navigation rows  4843ms
+ ✓ tests/document-tables.test.ts (9 tests) 63ms
+ ✓ tests/chemistry-expanded.test.ts (56 tests) 58ms
+ ✓ tests/problem-workbench.test.ts (65 tests) 71ms
+ ✓ tests/document-scenes.test.ts (13 tests) 48ms
+ ✓ tests/preferences.test.ts (5 tests) 66ms
+ ✓ tests/evidence-review.test.ts (12 tests) 41ms
+ ✓ tests/tutor-conversation.test.ts (23 tests) 49ms
+ ✓ tests/openai-progress.test.ts (15 tests) 32ms
+ ✓ tests/topic-scenes-humanities.test.ts (48 tests) 41ms
+ ✓ tests/exam-workshop.test.ts (13 tests) 37ms
+ ✓ tests/tutor-disclosure.test.ts (10 tests) 31ms
+ ✓ tests/document-pagination.test.ts (5 tests) 35ms
+ ✓ tests/curriculum-scenes.test.ts (24 tests) 37ms
+ ✓ tests/spatial-plane.test.ts (8 tests) 21ms
+ ✓ tests/answer-check.test.ts (52 tests) 29ms
+ ✓ tests/dialogue-scenes.test.ts (8 tests) 39ms
+ ✓ tests/learning-step-contract.test.ts (18 tests) 18ms
+ ✓ tests/problem-sessions.test.ts (5 tests) 15ms
+ ✓ tests/school-topic-drawings.test.ts (20 tests) 15ms
+ ✓ tests/absolute-knowledge.test.ts (2 tests) 13ms
+ ✓ tests/subject-figures.test.ts (16 tests) 29ms
+ ✓ tests/homework-desk.test.ts (4 tests) 13ms
+ ✓ tests/math-sheet.test.ts (4 tests) 9ms
+ ✓ tests/appearance.test.ts (3 tests) 13ms
+ ✓ tests/tutor-evidence-persistence.test.ts (2 tests) 12ms
+ ✓ tests/task-board-content.test.ts (13 tests) 15ms
+ ✓ tests/school-topic-search.test.ts (4 tests) 11ms
+ ✓ tests/learning-position.test.ts (3 tests) 8ms
+ ✓ tests/school-drawings.test.ts (2 tests) 17ms
+ ✓ tests/school-progress.test.ts (2 tests) 7ms
+ ✓ tests/document-code.test.ts (2 tests) 8ms
+ ✓ tests/scenes.test.ts (9 tests) 8ms
+ ✓ tests/school-local-material.test.ts (3 tests) 6ms
+ ✓ tests/scene-motion-snapshot.test.ts (4 tests) 5ms
+ ✓ tests/tutor-routing.test.ts (19 tests) 7ms
+ ✓ tests/math-sheet-assignment.test.ts (5 tests) 5ms
+ ✓ tests/sheet-math-text.test.ts (9 tests) 6ms
+ ✓ tests/search-text.test.ts (6 tests) 5ms
+ ✓ tests/motion.test.ts (5 tests) 5ms
+ ✓ tests/activity.test.ts (2 tests) 4ms
+
+ Test Files  82 passed (82)
+      Tests  1299 passed (1299)
+   Start at  12:53:38
+   Duration  9.71s (transform 7.59s, setup 0ms, collect 32.61s, tests 16.68s, environment 21ms, prepare 21.97s)
+

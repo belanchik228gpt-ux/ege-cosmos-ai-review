@@ -1,0 +1,57 @@
+{
+  "scope": "Real Electron from built dist, hidden window to exclude unrelated desktop clicks, isolated profile and export folder; no live model requests.",
+  "checks": [
+    "clean-home",
+    "hero-text-contrast",
+    "connection-settings",
+    "background-settings",
+    "zero-progress-hidden",
+    "math-sheet-draw-undo",
+    "local-scene-and-answer",
+    "plan-edit-persists",
+    "memory-persists",
+    "known-topic-toggle",
+    "document-editor",
+    "native-pdf-export",
+    "keyboard-info-and-focus",
+    "internal-chrome-hidden",
+    "search-opens",
+    "mobile-search-visible"
+  ],
+  "screenshots": [
+    "01-home",
+    "02-school-subjects",
+    "03-school-lesson",
+    "04-plan",
+    "05-curriculum",
+    "06-exam-workshop",
+    "07-documents",
+    "08-memory",
+    "09-memory-mobile",
+    "10-home-mobile"
+  ],
+  "errors": [],
+  "overflow": [],
+  "unnamedButtons": [],
+  "heroContrast": 5.407018350122984,
+  "exportFolder": "C:\\new cosmos\\work\\interface-cleanup\\project\\test-results\\interface-native-1789293095016\\documents",
+  "narrowViewport": {
+    "width": 604,
+    "height": 861
+  },
+  "menuAfterClick": {
+    "class": "studio-sidebar open",
+    "transform": "none",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 224,
+      "height": 861,
+      "top": 0,
+      "right": 224,
+      "bottom": 861,
+      "left": 0
+    }
+  },
+  "pass": true
+}
