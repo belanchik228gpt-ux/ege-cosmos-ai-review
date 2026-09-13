@@ -1,5 +1,4 @@
 import { type CSSProperties } from 'react';
-import { Ton618Controls } from './Ton618';
 import {
   ArrowRight,
   BookOpen,
@@ -73,7 +72,6 @@ export function StudioHome({
           })}
         </span>
       </div>
-      <Ton618Controls settings={state.settings} update={onSettings} />
       <div className="studio-hero-grid">
         <div className="studio-hero">
           <div className="studio-hero-content">
@@ -97,7 +95,7 @@ export function StudioHome({
                 onClick={() => (active ? onContinue(active.id) : onStart())}
               >
                 <Play size={17} />
-                {active ? 'Продолжить занятие' : 'Начать сегодняшнее занятие'}
+                Продолжить занятие
                 <ArrowRight size={16} />
               </button>
               <button className="studio-hero-link" onClick={onPlan}>
@@ -123,7 +121,7 @@ export function StudioHome({
           <p>
             {stats.streak
               ? 'Продолжай в удобном темпе. Каждое осмысленное занятие имеет значение.'
-              : 'Первая самостоятельная практика начнёт твою серию.'}
+              : 'Серия появится после первой практики'}
           </p>
           <div className="studio-week-dots">
             {'ПВCЧПСВ'.split('').map((d, i) => (

@@ -296,6 +296,7 @@ export function Settings({ page, state, setState, notify, model, saveError, conn
               <nav className="flow-reader-tabs" aria-label="Изображение и звук">
                 {[
                   { id: 'color', label: 'Цвет и текст' },
+                  { id: 'background', label: 'Фон' },
                   { id: 'scenes', label: 'Учебные сцены' },
                   { id: 'sound', label: 'Звук' },
                 ].map((item) => (
@@ -309,6 +310,7 @@ export function Settings({ page, state, setState, notify, model, saveError, conn
                   </button>
                 ))}
               </nav>
+              {visualTab === 'background' && <Ton618Catalog settings={state.settings} update={update} />}
               {visualTab === 'color' && (
                 <AppearanceSettings settings={state.settings} update={update} />
               )}

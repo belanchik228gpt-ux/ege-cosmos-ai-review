@@ -1,6 +1,5 @@
 import { InfoTip } from './InfoTip';
 import { visibleSubtopics } from '../domain/school-topic-search';
-import { Ton618Controls } from './Ton618';
 import {
   useEffect,
   useRef,
@@ -248,7 +247,6 @@ export function SchoolWorkspace({
       </header>
       {school.view === 'today' && (
         <>
-          <Ton618Controls settings={state.settings} update={patch => setState(s => ({ ...s, settings: { ...s.settings, ...patch } }))} />
           <div className="school-hero ton618-school-hero">
             <div>
               <span className="school-eyebrow">ТВОЙ МАРШРУТ НА СЕГОДНЯ</span>
@@ -274,10 +272,11 @@ export function SchoolWorkspace({
                     ))}
                   </select>
                 </label>
-                <button className="button primary" onClick={startToday}>
-                  Начать сегодняшнее занятие
+                <button className="button primary" onClick={() => active && !active.completedAt && active.grade === school.grade ? go('room') : startToday()}>
+                  Продолжить занятие
                   <ArrowRight size={18} />
                 </button>
+                <button className="text-button" onClick={() => go('plan')}>Мой план</button>
               </div>
             </div>
           </div>

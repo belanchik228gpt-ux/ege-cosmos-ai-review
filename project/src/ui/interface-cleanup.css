@@ -25,3 +25,17 @@
 .cosmos-studio .app-footer button { font-size: 12px; }
 .study-profile-settings { margin-bottom: 24px; }
 .study-profile-settings label { display: grid; gap: 8px; max-width: 240px; }
+
+.cosmos-studio .studio-hero-content,
+.cosmos-studio .ton618-school-hero > div {
+  background: rgba(10, 8, 20, .55);
+  backdrop-filter: blur(2px);
+  color: #f3effb;
+  border-radius: 10px;
+}
+.cosmos-studio .studio-hero-content :is(p, .studio-hero-meta, .studio-tag),
+.cosmos-studio .ton618-school-hero :is(p, label, .school-eyebrow) { color: #f3effb; }
+.cosmos-studio .studio-hero-content { padding: 32px; }
+.cosmos-studio .ton618-school-hero > div { padding: 32px; width: 100%; }
+.cosmos-studio .ton618-school-hero { padding: 0; }
+.cosmos-studio .studio-hero-link { color: #f3effb; text-decoration: underline; text-underline-offset: 4px; }
