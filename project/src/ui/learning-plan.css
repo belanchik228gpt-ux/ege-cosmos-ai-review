@@ -4,27 +4,27 @@
   z-index: 5;
   border: 1px solid #8562bb;
   background: #181128;
-  border-radius: 18px;
-  margin: 20px 0;
-  box-shadow: 0 8px 28px #08051188;
+  border-radius: 14px;
+  margin: 16px 0;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
   color: #efe9ff;
 }
 .learning-plan summary {
   cursor: pointer;
-  padding: 16px 22px;
+  padding: 16px 24px;
   display: grid;
   grid-template-columns: 1fr auto;
-  gap: 7px 20px;
+  gap: 8px 16px;
   list-style: none;
 }
 .learning-plan-label {
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.12em;
   color: #bca6ef;
 }
 .learning-plan-title {
   grid-row: 2;
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 700;
 }
 .learning-plan-title p {
@@ -39,7 +39,7 @@
 }
 .learning-plan-track {
   display: flex;
-  gap: 5px;
+  gap: 4px;
   align-items: center;
   min-width: 130px;
 }
@@ -47,18 +47,18 @@
   height: 4px;
   background: #44364e;
   flex: 1;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 .learning-plan-track .done {
   background: #6ad4ba;
 }
 .learning-plan-track .current {
   background: #be94ff;
-  box-shadow: 0 0 8px #ab6cfb77;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .learning-plan-body {
   border-top: 1px solid #49345f;
-  padding: 20px 24px;
+  padding: 16px 24px;
   display: grid;
   grid-template-columns: 1.2fr 1fr;
   gap: 32px;
@@ -66,18 +66,18 @@
   overflow: auto;
 }
 .learning-plan-body small {
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.1em;
   color: #86dfdc;
 }
 .learning-plan-body p {
-  margin: 8px 0 18px;
+  margin: 8px 0 16px;
   line-height: 1.65;
 }
 .learning-plan-body ol {
   list-style: none;
   padding: 0;
-  margin: 0 0 20px;
+  margin: 0 0 16px;
 }
 .learning-plan-body li {
   margin: 8px 0;
@@ -88,7 +88,7 @@
   align-items: baseline;
   gap: 8px;
   padding: 8px 12px;
-  border-radius: 9px;
+  border-radius: 10px;
   color: #c2b6d0;
 }
 .learning-plan-body ol li p {
@@ -102,7 +102,7 @@
   color: #82d8bd;
 }
 .learning-plan-body ul {
-  padding-left: 20px;
+  padding-left: 16px;
 }
 @media (max-width: 700px) {
   .learning-plan-body {

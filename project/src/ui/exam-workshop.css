@@ -4,11 +4,11 @@
   margin: 0 auto;
 }
 .cosmos-studio .exam-workshop-heading {
-  margin: 0 0 26px;
+  margin: 0 0 24px;
 }
 .cosmos-studio .exam-workshop-heading h1 {
-  margin: 10px 0 8px;
-  font-size: clamp(26px, 3vw, 34px);
+  margin: 8px 0 8px;
+  font-size: clamp(24px, 3vw, 32px);
   line-height: 1.2;
 }
 .cosmos-studio .exam-workshop-heading p {
@@ -28,7 +28,7 @@
   gap: 12px;
   align-items: center;
   position: relative;
-  padding: 18px 14px;
+  padding: 16px 12px;
   background: var(--surface);
   color: var(--text);
   border: 1px solid var(--stroke);
@@ -47,14 +47,14 @@
   display: flex;
   flex-direction: column;
   min-width: 0;
-  gap: 5px;
+  gap: 4px;
 }
 .cosmos-studio .exam-subjects strong {
   font-size: 14px;
   overflow-wrap: anywhere;
 }
 .cosmos-studio .exam-subjects small {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
 }
 .cosmos-studio .exam-subjects > button.selected {
@@ -67,7 +67,7 @@
 .cosmos-studio .exam-workshop-layout {
   display: grid;
   grid-template-columns: 230px minmax(0, 1fr);
-  gap: 20px;
+  gap: 16px;
   align-items: start;
 }
 .cosmos-studio .exam-number-panel,
@@ -75,21 +75,21 @@
 .cosmos-studio .exam-training-panel {
   background: var(--surface);
   border: 1px solid var(--stroke);
-  border-radius: 16px;
+  border-radius: 14px;
   min-width: 0;
 }
 .cosmos-studio .exam-number-panel {
-  padding: 22px 18px;
+  padding: 24px 16px;
 }
 .cosmos-studio .exam-section-label {
   display: flex;
   align-items: center;
-  gap: 10px;
-  margin-bottom: 20px;
+  gap: 8px;
+  margin-bottom: 16px;
 }
 .cosmos-studio .exam-section-label > span {
   color: var(--exam-color);
-  font-size: 11px;
+  font-size: 12px;
 }
 .cosmos-studio .exam-section-label h2 {
   margin: 0;
@@ -98,13 +98,13 @@
 .cosmos-studio .exam-number-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 7px;
+  gap: 8px;
 }
 .cosmos-studio .exam-number-grid > button {
   min-height: 40px;
   padding: 8px;
   border: 1px solid var(--stroke);
-  border-radius: 8px;
+  border-radius: 6px;
   background: var(--space);
   color: var(--muted);
   font-size: 14px;
@@ -116,19 +116,19 @@
   font-weight: 700;
 }
 .cosmos-studio .exam-number-panel > p {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
   line-height: 1.7;
-  margin: 20px 0 0;
+  margin: 16px 0 0;
 }
 .cosmos-studio .exam-level-note {
   display: flex;
   gap: 8px;
-  margin-top: 18px;
+  margin-top: 16px;
   padding-top: 16px;
   border-top: 1px solid var(--stroke);
   color: var(--muted);
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.6;
 }
 .cosmos-studio .exam-level-note svg {
@@ -137,8 +137,8 @@
 }
 .cosmos-studio .exam-task-heading {
   display: flex;
-  gap: 15px;
-  padding: 24px 26px 22px;
+  gap: 16px;
+  padding: 24px 24px 24px;
   align-items: center;
 }
 .cosmos-studio .exam-task-number {
@@ -148,7 +148,7 @@
   min-width: 58px;
   height: 54px;
   background: color-mix(in srgb, var(--exam-color) 12%, var(--surface));
-  border-radius: 12px;
+  border-radius: 10px;
   font-size: 20px;
   font-weight: 700;
   color: var(--exam-color);
@@ -159,34 +159,34 @@
   min-width: 0;
 }
 .cosmos-studio .exam-task-heading h2 {
-  font-size: clamp(19px, 2vw, 24px);
+  font-size: clamp(20px, 2vw, 24px);
   line-height: 1.35;
-  margin: 5px 0 0;
+  margin: 4px 0 0;
   overflow-wrap: anywhere;
 }
 .cosmos-studio .exam-task-subject {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
 }
 .cosmos-studio .exam-points {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
   max-width: 115px;
   line-height: 1.5;
 }
 .cosmos-studio .exam-detail-tabs {
   display: flex;
-  padding: 0 26px;
-  gap: 18px;
+  padding: 0 24px;
+  gap: 16px;
   border-bottom: 1px solid var(--stroke);
   overflow-x: auto;
 }
 .cosmos-studio .exam-detail-tabs > button {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 8px;
   flex-shrink: 0;
-  padding: 13px 0;
+  padding: 12px 0;
   background: none;
   color: var(--muted);
   border: 0;
@@ -198,23 +198,23 @@
   border-bottom-color: var(--exam-color);
 }
 .cosmos-studio .exam-task-details {
-  padding: 24px 26px;
+  padding: 24px 24px;
   min-height: 215px;
 }
 .cosmos-studio .exam-task-details h3 {
   font-size: 16px;
-  margin: 0 0 17px;
+  margin: 0 0 16px;
 }
 .cosmos-studio .exam-task-details ul {
   list-style: none;
   padding: 0;
   margin: 0;
   display: grid;
-  gap: 13px;
+  gap: 12px;
 }
 .cosmos-studio .exam-task-details li {
   display: flex;
-  gap: 10px;
+  gap: 8px;
   font-size: 14px;
   line-height: 1.65;
 }
@@ -224,14 +224,14 @@
   color: var(--exam-color);
 }
 .cosmos-studio .exam-detail-note {
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.65;
   color: var(--muted);
-  margin: 18px 0 0;
+  margin: 16px 0 0;
 }
 .cosmos-studio .exam-criteria-note {
-  padding: 12px 14px;
-  margin: 15px 0 0;
+  padding: 12px 12px;
+  margin: 16px 0 0;
   border-left: 2px solid var(--exam-color);
   background: color-mix(in srgb, var(--exam-color) 5%, var(--surface));
   font-size: 12px;
@@ -240,8 +240,8 @@
 .cosmos-studio .exam-answer-format {
   display: flex;
   align-items: flex-start;
-  gap: 15px;
-  padding: 18px;
+  gap: 16px;
+  padding: 16px;
   border: 1px solid var(--stroke);
   border-radius: 10px;
 }
@@ -258,16 +258,16 @@
 .cosmos-studio .exam-source {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px 20px;
+  gap: 12px 16px;
   justify-content: space-between;
-  padding: 15px 26px;
+  padding: 16px 24px;
   border-top: 1px solid var(--stroke);
 }
 .cosmos-studio .exam-source a {
   display: inline-flex;
   gap: 8px;
   align-items: center;
-  font-size: 11px;
+  font-size: 12px;
   color: var(--exam-color);
   text-decoration: none;
   min-width: 0;
@@ -276,20 +276,20 @@
   flex-shrink: 0;
 }
 .cosmos-studio .exam-source > span {
-  font-size: 10px;
+  font-size: 12px;
   color: var(--muted);
 }
 .cosmos-studio .exam-training-panel {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
-  gap: 16px 26px;
+  gap: 16px 24px;
   align-items: center;
-  margin-top: 22px;
-  padding: 24px 26px;
+  margin-top: 24px;
+  padding: 24px 24px;
 }
 .cosmos-studio .exam-training-intro {
   display: flex;
-  gap: 15px;
+  gap: 16px;
   align-items: center;
 }
 .cosmos-studio .exam-training-icon {
@@ -297,14 +297,14 @@
   place-items: center;
   width: 46px;
   height: 46px;
-  border-radius: 12px;
+  border-radius: 10px;
   color: var(--exam-color);
   background: color-mix(in srgb, var(--exam-color) 10%, var(--surface));
   flex-shrink: 0;
 }
 .cosmos-studio .exam-training-intro h2 {
-  margin: 0 0 5px;
-  font-size: 18px;
+  margin: 0 0 4px;
+  font-size: 16px;
 }
 .cosmos-studio .exam-training-intro p {
   color: var(--muted);
@@ -314,24 +314,24 @@
 }
 .cosmos-studio .exam-training-panel form {
   display: flex;
-  gap: 20px;
+  gap: 16px;
   align-items: center;
 }
 .cosmos-studio .exam-count-control label {
   display: block;
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
   margin-bottom: 8px;
 }
 .cosmos-studio .exam-count-control > div {
   display: flex;
-  gap: 5px;
+  gap: 4px;
 }
 .cosmos-studio .exam-count-control input {
   width: 66px;
   min-width: 0;
   height: 36px;
-  padding: 6px 8px;
+  padding: 4px 8px;
   font-size: 14px;
 }
 .cosmos-studio .exam-count-control button {
@@ -340,7 +340,7 @@
   border: 1px solid var(--stroke);
   background: var(--space);
   color: var(--muted);
-  border-radius: 7px;
+  border-radius: 6px;
   padding: 0;
   font-size: 12px;
 }
@@ -350,8 +350,8 @@
 }
 .cosmos-studio .exam-count-control small {
   display: block;
-  margin-top: 6px;
-  font-size: 10px;
+  margin-top: 4px;
+  font-size: 12px;
   color: var(--muted);
 }
 .cosmos-studio .exam-count-control input[aria-invalid='true'] {
@@ -365,14 +365,14 @@
 .cosmos-studio .exam-training-disclosure {
   grid-column: 1/-1;
   color: var(--muted);
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.6;
   padding-top: 16px;
   margin: 0;
   border-top: 1px solid var(--stroke);
 }
 .cosmos-studio .exam-unavailable {
-  padding: 26px;
+  padding: 24px;
 }
 .cosmos-studio .exam-workshop button:focus-visible,
 .cosmos-studio .exam-workshop a:focus-visible {
@@ -391,10 +391,10 @@
     justify-content: space-between;
   }
   .cosmos-studio .exam-subjects {
-    gap: 9px;
+    gap: 8px;
   }
   .cosmos-studio .exam-subjects > button {
-    padding: 15px 11px;
+    padding: 16px 12px;
     gap: 8px;
   }
   .cosmos-studio .exam-subject-check {
@@ -411,10 +411,10 @@
   .cosmos-studio .exam-points {
     max-width: none;
     width: 100%;
-    padding-left: 73px;
+    padding-left: 32px;
   }
   .cosmos-studio .exam-detail-tabs {
-    gap: 14px;
+    gap: 12px;
   }
   .cosmos-studio .exam-detail-tabs svg {
     display: none;
@@ -425,7 +425,7 @@
     grid-template-columns: 1fr;
   }
   .cosmos-studio .exam-number-panel {
-    padding: 18px;
+    padding: 16px;
   }
   .cosmos-studio .exam-number-grid {
     grid-template-columns: repeat(auto-fit, minmax(38px, 1fr));
@@ -436,16 +436,16 @@
   }
   .cosmos-studio .exam-task-heading,
   .cosmos-studio .exam-task-details {
-    padding: 20px 18px;
+    padding: 16px 16px;
   }
   .cosmos-studio .exam-detail-tabs {
-    padding: 0 18px;
+    padding: 0 16px;
   }
   .cosmos-studio .exam-source {
-    padding: 14px 18px;
+    padding: 12px 16px;
   }
   .cosmos-studio .exam-training-panel {
-    padding: 20px 18px;
+    padding: 16px 16px;
   }
   .cosmos-studio .exam-training-panel form {
     flex-wrap: wrap;
@@ -460,7 +460,7 @@
     font-size: 12px;
   }
   .cosmos-studio .exam-subjects small {
-    font-size: 10px;
+    font-size: 12px;
   }
   .cosmos-studio .exam-subjects > button > svg {
     width: 18px;

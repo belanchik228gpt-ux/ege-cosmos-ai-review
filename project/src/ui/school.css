@@ -3,19 +3,19 @@
   --school-color: #b69cff;
   max-width: 1480px;
   margin: 0 auto;
-  padding: 18px 0 36px;
+  padding: 16px 0 32px;
   color: var(--text, #f3efff);
 }
 .school-heading {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  gap: 28px;
-  margin-bottom: 30px;
+  gap: 24px;
+  margin-bottom: 32px;
 }
 .school-heading h1,
 .school-room h1 {
-  font-size: clamp(28px, 3vw, 42px);
+  font-size: clamp(24px, 3vw, 32px);
   line-height: 1.18;
   margin: 12px 0;
 }
@@ -26,10 +26,10 @@
 }
 .school-eyebrow {
   display: inline-flex;
-  gap: 9px;
+  gap: 8px;
   align-items: center;
   color: #bba5ff;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 750;
   letter-spacing: 0.13em;
 }
@@ -43,8 +43,8 @@
 .school-program-tag {
   display: flex;
   align-items: center;
-  gap: 7px;
-  font-size: 11px;
+  gap: 8px;
+  font-size: 12px;
   color: #a9bfc7;
   max-width: 210px;
   padding-bottom: 12px;
@@ -65,8 +65,8 @@
   background: #141022;
   color: #eee7ff;
   border: 1px solid #504264;
-  border-radius: 11px;
-  padding: 12px 14px;
+  border-radius: 10px;
+  padding: 12px 12px;
   font: inherit;
   min-width: 0;
 }
@@ -89,8 +89,8 @@
 .school-workspace .button,
 .school-room .button {
   min-height: 40px;
-  font-size: 13px;
-  border-radius: 12px;
+  font-size: 12px;
+  border-radius: 10px;
 }
 .school-workspace .button:not(.primary),
 .school-room .button:not(.primary) {
@@ -105,7 +105,7 @@
 }
 .school-actions {
   display: flex;
-  gap: 10px;
+  gap: 8px;
   align-items: center;
   flex-wrap: wrap;
 }
@@ -123,29 +123,27 @@
   display: grid;
   grid-template-columns: 1fr 230px;
   align-items: center;
-  gap: 25px;
-  padding: 40px;
+  gap: 24px;
+  padding: 32px;
   border: 1px solid #645090;
-  border-radius: 26px;
+  border-radius: 14px;
   background:
     radial-gradient(ellipse at 95% 0%, #38235f88, transparent 65%),
     linear-gradient(120deg, #231734, #111125);
-  box-shadow:
-    0 0 60px #aa6fff0b,
-    inset 0 1px 0 #ffffff12;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .school-hero h2 {
-  font-size: 34px;
-  margin: 14px 0;
+  font-size: 32px;
+  margin: 12px 0;
 }
 .school-hero p {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.8;
   color: #c3b8d8;
   max-width: 750px;
 }
 .school-hero .school-actions {
-  margin-top: 26px;
+  margin-top: 24px;
 }
 .school-orbit {
   position: relative;
@@ -183,26 +181,26 @@
 .school-metrics {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
-  margin: 22px 0;
+  gap: 16px;
+  margin: 24px 0;
 }
 .school-metrics > div {
   background: #151022d9;
   border: 1px solid #3a3149;
-  border-radius: 18px;
-  padding: 22px;
+  border-radius: 14px;
+  padding: 24px;
 }
 .school-metrics span {
-  font-size: 31px;
+  font-size: 32px;
   font-weight: 750;
   color: #c9b8ff;
 }
 .school-metrics small {
-  font-size: 17px;
+  font-size: 16px;
   color: #9b8aae;
 }
 .school-metrics p {
-  margin: 7px 0 0;
+  margin: 8px 0 0;
   font-size: 12px;
   color: #b4abc7;
 }
@@ -212,8 +210,8 @@
   height: 5px;
   border: 0;
   background: #332740;
-  border-radius: 8px;
-  margin: 14px 0 6px;
+  border-radius: 6px;
+  margin: 12px 0 4px;
   overflow: hidden;
   accent-color: var(--school-color);
 }
@@ -222,7 +220,7 @@
 }
 .school-workspace progress::-webkit-progress-value {
   background: linear-gradient(90deg, #9673ee, var(--school-color));
-  border-radius: 8px;
+  border-radius: 6px;
 }
 .school-continue {
   width: 100%;
@@ -231,11 +229,11 @@
   justify-content: space-between;
   background: #211834;
   border: 1px solid #68518b;
-  border-radius: 17px;
+  border-radius: 14px;
   color: #eee5ff;
   text-align: left;
-  padding: 23px;
-  gap: 20px;
+  padding: 24px;
+  gap: 16px;
 }
 .school-continue small,
 .school-continue span {
@@ -253,7 +251,7 @@
   justify-content: space-between;
   align-items: center;
   gap: 16px;
-  margin: 28px 0 16px;
+  margin: 24px 0 16px;
 }
 .school-section-title h2,
 .school-section-title h3 {
@@ -273,7 +271,7 @@
   background: linear-gradient(135deg, color-mix(in srgb, var(--school-color) 9%, #12101e), #11101b);
   border: 1px solid color-mix(in srgb, var(--school-color) 32%, #30263d);
   padding: 24px;
-  border-radius: 18px;
+  border-radius: 14px;
   color: #f1eaff;
   text-align: left;
   display: flex;
@@ -294,7 +292,7 @@
 .school-quick-unit small,
 .school-quick-unit > span {
   color: var(--school-color);
-  font-size: 11px;
+  font-size: 12px;
 }
 .school-quick-unit > span {
   margin-top: auto;
@@ -303,7 +301,7 @@
   align-items: center;
 }
 .school-quick-unit h3 {
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.5;
   margin: 0;
 }
@@ -315,17 +313,17 @@
 }
 .school-panel {
   padding: 24px;
-  border-radius: 18px;
+  border-radius: 14px;
   border: 1px solid #42354e;
   background: #15101fdd;
-  margin: 18px 0;
+  margin: 16px 0;
 }
 .school-panel h2 {
-  font-size: 21px;
-  margin: 0 0 14px;
+  font-size: 20px;
+  margin: 0 0 12px;
 }
 .school-panel h3 {
-  font-size: 17px;
+  font-size: 16px;
 }
 .school-panel p {
   line-height: 1.75;
@@ -334,7 +332,7 @@
 .school-panel summary {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   cursor: pointer;
   font-weight: 650;
   list-style: none;
@@ -343,24 +341,24 @@
   content: '+';
   margin-left: auto;
   color: #b6a0d8;
-  font-size: 21px;
+  font-size: 20px;
 }
 .school-panel[open] summary:after {
   content: '−';
 }
 .school-panel summary small {
   margin-left: auto;
-  font-size: 11px;
+  font-size: 12px;
   color: #ad9fc0;
   font-weight: 400;
 }
 .school-panel[open] > summary {
-  margin-bottom: 23px;
+  margin-bottom: 24px;
 }
 .school-choice-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 17px;
+  gap: 16px;
 }
 .school-choice-grid label {
   flex-direction: row;
@@ -379,18 +377,18 @@
 .school-history button {
   display: grid;
   grid-template-columns: 1fr 20px;
-  gap: 7px;
+  gap: 8px;
   color: #eee5ff;
   background: #15101e;
   border: 1px solid #392d49;
   border-radius: 14px;
-  padding: 18px;
+  padding: 16px;
   text-align: left;
 }
 .school-history button span,
 .school-history small {
   grid-column: 1;
-  font-size: 11px;
+  font-size: 12px;
 }
 .school-history strong {
   font-size: 14px;
@@ -407,19 +405,19 @@
 .school-search {
   display: flex;
   align-items: center;
-  gap: 13px;
+  gap: 12px;
   background: #171024;
   border: 1px solid #4a385f;
-  border-radius: 15px;
-  padding: 5px 17px;
-  margin-bottom: 26px;
+  border-radius: 14px;
+  padding: 4px 16px;
+  margin-bottom: 24px;
   color: #bbaad1;
 }
 .school-search input {
   border: 0 !important;
   background: transparent !important;
   flex: 1;
-  padding: 14px 4px !important;
+  padding: 12px 4px !important;
   font-size: 14px !important;
 }
 .school-search button {
@@ -430,14 +428,14 @@
 .school-subject-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 20px;
+  gap: 16px;
 }
 .school-subject-card {
   position: relative;
   text-align: left;
   overflow: hidden;
   min-height: 262px;
-  padding: 25px;
+  padding: 24px;
   color: #ede7fb;
   background:
     radial-gradient(
@@ -447,7 +445,7 @@
     ),
     #13101e;
   border: 1px solid color-mix(in srgb, var(--school-color) 32%, #21162a);
-  border-radius: 22px;
+  border-radius: 14px;
   transition:
     transform 0.2s,
     box-shadow 0.2s,
@@ -455,13 +453,13 @@
 }
 .school-subject-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 7px 35px color-mix(in srgb, var(--school-color) 12%, transparent);
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
   border-color: var(--school-color);
 }
 .school-subject-icon {
   width: 60px;
   height: 60px;
-  border-radius: 17px;
+  border-radius: 14px;
   display: grid;
   place-items: center;
   background: color-mix(in srgb, var(--school-color) 10%, transparent);
@@ -477,27 +475,27 @@
   height: 9px;
   border-radius: 100%;
   background: var(--school-color);
-  box-shadow: 0 0 15px var(--school-color);
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .school-card-grade {
   position: absolute;
   right: 25px;
   top: 31px;
   color: var(--school-color);
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.06em;
 }
 .school-subject-card h2 {
   color: var(--school-color);
-  font-size: 23px;
-  margin: 20px 0 7px;
+  font-size: 24px;
+  margin: 16px 0 8px;
 }
 .school-subject-card p {
   color: #b6abc8;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 1.6;
   min-height: 40px;
-  margin: 0 0 19px;
+  margin: 0 0 16px;
 }
 .school-card-tail {
   display: flex;
@@ -506,29 +504,29 @@
   color: var(--school-color);
 }
 .school-subject-card small {
-  font-size: 11px;
+  font-size: 12px;
   color: #b2a5c4;
 }
 .school-topic-card {
   background: #151020;
   border: 1px solid color-mix(in srgb, var(--school-color) 26%, #33243b);
-  border-radius: 17px;
-  margin-bottom: 14px;
+  border-radius: 14px;
+  margin-bottom: 12px;
   overflow: hidden;
 }
 .school-topic-card.expanded {
   border-color: color-mix(in srgb, var(--school-color) 60%, #33243b);
-  box-shadow: 0 0 28px #aa77ff0b;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .school-topic-title {
   display: flex;
   align-items: center;
-  gap: 19px;
+  gap: 16px;
   width: 100%;
   text-align: left;
   background: transparent;
   color: #eee7f8;
-  padding: 22px;
+  padding: 24px;
   border: 0;
 }
 .school-unit-index {
@@ -536,7 +534,7 @@
   color: var(--school-color);
   font-weight: 700;
   background: color-mix(in srgb, var(--school-color) 8%, transparent);
-  border-radius: 12px;
+  border-radius: 10px;
   min-width: 44px;
   min-height: 48px;
   display: grid;
@@ -549,19 +547,19 @@
 .school-topic-title small {
   display: block;
   color: var(--school-color);
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.035em;
   line-height: 1.5;
 }
 .school-topic-title strong {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
   display: block;
-  margin: 5px 0;
+  margin: 4px 0;
 }
 .school-topic-title em {
   font-style: normal;
-  font-size: 11px;
+  font-size: 12px;
   color: #b3a6c6;
 }
 .school-topic-title svg {
@@ -580,27 +578,27 @@
   color: #c6b7d8;
 }
 .school-topic-content h3 {
-  font-size: 13px;
+  font-size: 12px;
   letter-spacing: 0.04em;
   color: var(--school-color);
 }
 .school-subtopics {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 10px;
-  margin: 18px 0 25px;
+  gap: 8px;
+  margin: 16px 0 24px;
 }
 .school-subtopics button {
   display: flex;
   align-items: center;
   text-align: left;
-  gap: 10px;
+  gap: 8px;
   background: #1b1428;
   color: #d9caed;
   border: 1px solid #40304e;
-  border-radius: 11px;
-  padding: 13px 15px;
-  font-size: 13px;
+  border-radius: 10px;
+  padding: 12px 16px;
+  font-size: 12px;
   line-height: 1.6;
 }
 .school-subtopics button:hover {
@@ -608,7 +606,7 @@
 }
 .school-subtopics button span {
   color: var(--school-color);
-  font-size: 11px;
+  font-size: 12px;
 }
 .school-subtopics button svg {
   margin-left: auto;
@@ -616,8 +614,8 @@
   color: var(--school-color);
 }
 .school-evidence {
-  padding-top: 21px;
-  margin-top: 20px;
+  padding-top: 24px;
+  margin-top: 16px;
   border-top: 1px solid #3b2c4a;
   color: #aeb3cf;
   font-size: 12px;
@@ -642,11 +640,11 @@
 .school-source-list a {
   display: flex;
   align-items: flex-start;
-  gap: 9px;
+  gap: 8px;
   line-height: 1.7;
   border: 1px solid #40304c;
   border-radius: 10px;
-  padding: 14px;
+  padding: 12px;
   font-size: 12px;
 }
 .school-source-list small {
@@ -663,14 +661,14 @@
 .school-day-tabs {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  gap: 10px;
+  gap: 8px;
 }
 .school-day-tabs button {
   border: 1px solid #3d3053;
   background: #161020;
   color: #c6b5dc;
   border-radius: 14px;
-  padding: 15px 10px;
+  padding: 16px 8px;
 }
 .school-day-tabs button.active {
   border-color: #b594ee;
@@ -682,21 +680,21 @@
   display: block;
 }
 .school-day-tabs strong {
-  font-size: 22px;
+  font-size: 20px;
   margin: 8px 0;
 }
 .school-day-tabs span {
-  font-size: 10px;
+  font-size: 12px;
 }
 .school-plan-items .school-section-title {
-  margin: 0 0 18px;
+  margin: 0 0 16px;
 }
 .school-plan-items h3 {
-  margin-top: 7px;
+  margin-top: 8px;
 }
 .school-done {
   display: flex;
-  gap: 6px;
+  gap: 4px;
   color: #86dcba !important;
 }
 .school-plan-search {
@@ -705,17 +703,17 @@
 }
 .school-plan-search button {
   display: flex;
-  gap: 15px;
+  gap: 16px;
   align-items: center;
-  padding: 13px;
+  padding: 12px;
   border: 1px solid #423050;
-  border-radius: 11px;
+  border-radius: 10px;
   background: #20152d;
   color: #e3d3f3;
   text-align: left;
 }
 .school-plan-search span {
-  font-size: 11px;
+  font-size: 12px;
   color: #aa9bc0;
   min-width: 85px;
 }
@@ -726,7 +724,7 @@
 .school-documents {
   display: grid;
   grid-template-columns: 245px minmax(0, 1fr);
-  gap: 22px;
+  gap: 24px;
 }
 .school-document-list {
   display: flex;
@@ -741,9 +739,9 @@
   border: 1px solid #49335b;
   color: #d8cae9;
   border-radius: 14px;
-  padding: 17px;
+  padding: 16px;
   text-align: left;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 1.6;
 }
 .school-document-list svg {
@@ -751,7 +749,7 @@
 }
 .school-document-list small {
   display: block;
-  font-size: 11px;
+  font-size: 12px;
   color: #a999be;
   margin-top: 8px;
 }
@@ -760,11 +758,11 @@
   background: #2a1c3b;
 }
 .school-document-paper {
-  margin-top: 22px;
-  padding: 30px;
+  margin-top: 24px;
+  padding: 32px;
   background: linear-gradient(145deg, #251835, #141020);
   border: 1px solid #664786;
-  border-radius: 20px;
+  border-radius: 14px;
   overflow-wrap: anywhere;
   line-height: 1.9;
 }
@@ -779,44 +777,44 @@
   width: 100%;
   min-height: 650px;
   margin-top: 16px;
-  font-size: 13px !important;
+  font-size: 12px !important;
   line-height: 1.8;
   resize: vertical;
 }
 .school-document-preview label {
-  margin-top: 15px;
+  margin-top: 16px;
 }
 .school-empty {
   text-align: center;
-  padding: 60px 30px;
+  padding: 32px 32px;
 }
 .school-empty > svg {
   color: #c6a2ff;
 }
 .school-empty p {
   max-width: 640px;
-  margin: 10px auto;
+  margin: 8px auto;
 }
 .school-memory-list textarea {
   width: 100%;
   min-height: 120px;
-  margin: 15px 0;
+  margin: 16px 0;
   resize: vertical;
 }
 .school-panel > label {
-  margin: 20px 0;
+  margin: 16px 0;
 }
 .school-footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 14px;
+  gap: 12px;
   flex-wrap: wrap;
   border-top: 1px solid #40304a;
   padding: 24px 0 0;
-  margin-top: 35px;
+  margin-top: 32px;
   color: #9d91b3;
-  font-size: 11px;
+  font-size: 12px;
 }
 .school-footer span {
   display: flex;
@@ -830,7 +828,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 18px;
+  gap: 16px;
 }
 .school-room-top > span {
   flex: 1;
@@ -838,21 +836,21 @@
   font-size: 12px;
 }
 .school-room .school-muted {
-  font-size: 13px;
+  font-size: 12px;
 }
 .school-stages {
   display: flex;
-  gap: 13px;
-  padding: 18px 0 25px;
+  gap: 12px;
+  padding: 16px 0 24px;
   border-bottom: 1px solid #403047;
   flex-wrap: wrap;
 }
 .school-stages span {
-  font-size: 11px;
+  font-size: 12px;
   color: #a59ab9;
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 8px;
 }
 .school-stages i {
   font-style: normal;
@@ -862,7 +860,7 @@
   height: 23px;
   border: 1px solid #574767;
   border-radius: 50%;
-  font-size: 10px;
+  font-size: 12px;
 }
 .school-stages .current {
   color: var(--school-color);
@@ -870,82 +868,82 @@
 .school-stages .current i {
   background: var(--school-color);
   color: #171023;
-  box-shadow: 0 0 18px color-mix(in srgb, var(--school-color) 25%, transparent);
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .school-conversation {
-  padding: 14px 0 8px;
+  padding: 12px 0 8px;
 }
 .school-lesson-welcome {
-  padding: 42px 32px;
+  padding: 32px 32px;
   border: 1px solid #56406f;
-  border-radius: 23px;
+  border-radius: 14px;
   background: linear-gradient(140deg, #291c3c, #14111f);
-  margin: 18px 0 20px;
+  margin: 16px 0 16px;
 }
 .school-lesson-welcome h2 {
-  font-size: 27px;
+  font-size: 24px;
   line-height: 1.4;
 }
 .school-lesson-welcome p {
   font-size: 16px;
   line-height: 1.9;
   color: #c6b9d8;
-  margin: 22px 0 28px;
+  margin: 24px 0 24px;
 }
 .school-message {
   line-height: 1.85;
   font-size: 16px;
-  padding: 25px 25px;
-  margin: 18px 0;
+  padding: 24px 24px;
+  margin: 16px 0;
   overflow-wrap: anywhere;
 }
 .school-message > small {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.08em;
   color: #b69bd9;
-  margin-bottom: 14px;
+  margin-bottom: 12px;
 }
 .school-message.user {
   background: #241832;
   border: 1px solid #604372;
-  border-radius: 18px;
+  border-radius: 14px;
   margin-left: 12%;
   max-width: 88%;
 }
 .school-message.assistant {
-  padding-left: 7px;
-  padding-right: 7px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 .school-message .dialogue-scene {
   margin: 25px 0;
 }
 .school-message .school-attachment {
   display: inline-flex;
-  gap: 6px;
+  gap: 4px;
   align-items: center;
-  font-size: 11px;
+  font-size: 12px;
   color: #bba8d3;
 }
 .school-question {
   border-left: 3px solid var(--school-color);
   background: #21172e;
-  padding: 12px 20px;
-  border-radius: 0 12px 12px 0;
-  margin-top: 17px;
+  padding: 12px 16px;
+  border-radius: 0 10px 10px 0;
+  margin-top: 16px;
 }
 .school-composer {
-  padding: 22px;
+  padding: 24px;
   background: #191223;
   border: 1px solid #694780;
-  border-radius: 20px;
-  box-shadow: 0 0 32px #ae71ff0c;
+  border-radius: 14px;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .school-composer textarea {
   width: 100%;
   min-height: 100px;
   resize: vertical;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.7;
   background: #110c19;
 }
@@ -953,8 +951,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 15px;
-  margin: 10px 0;
+  gap: 16px;
+  margin: 8px 0;
 }
 .school-help {
   margin-bottom: 12px;
@@ -962,23 +960,23 @@
 .school-help button {
   border: 1px solid #534062;
   background: #281c35;
-  border-radius: 20px;
+  border-radius: 14px;
   color: #cdb9e5;
-  padding: 8px 13px;
-  font-size: 11px;
+  padding: 8px 12px;
+  font-size: 12px;
 }
 .school-photo {
   display: flex;
   align-items: center;
   gap: 12px;
-  margin-bottom: 15px;
+  margin-bottom: 16px;
   font-size: 12px;
 }
 .school-photo img {
   height: 85px;
   max-width: 180px;
   object-fit: contain;
-  border-radius: 8px;
+  border-radius: 6px;
   background: white;
 }
 .school-photo button {
@@ -987,20 +985,20 @@
   color: #d6c7e6;
 }
 .school-feedback {
-  font-size: 13px;
+  font-size: 12px;
   line-height: 1.7;
   color: #e9c993;
-  border-radius: 12px;
+  border-radius: 10px;
   background: #48331655;
-  padding: 14px;
+  padding: 12px;
 }
 .school-feedback button {
-  margin-left: 15px;
+  margin-left: 16px;
 }
 .school-local-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 35px;
+  gap: 32px;
   line-height: 1.9;
 }
 .school-finish {
@@ -1015,16 +1013,16 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   border: 1px solid #4d365f;
-  border-radius: 13px;
+  border-radius: 14px;
   padding: 4px;
-  margin: 2px 15px 20px;
+  margin: 4px 16px 16px;
   background: #100c17;
-  gap: 5px;
+  gap: 4px;
 }
 .school-mode-switch button {
-  padding: 9px;
+  padding: 8px;
   border: 0;
-  border-radius: 9px;
+  border-radius: 10px;
   background: none;
   color: #b4a1c7;
   font-weight: 600;
@@ -1033,7 +1031,7 @@
 }
 .school-mode-switch button.active {
   background: linear-gradient(135deg, #7145ad, #44317b);
-  box-shadow: 0 0 16px #b47cfa24;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
   color: #f3e9ff;
 }
 @keyframes school-breathe {
@@ -1062,20 +1060,20 @@
 @media (max-width: 800px) {
   .school-workspace,
   .school-room {
-    padding: 10px 0 24px;
+    padding: 8px 0 24px;
   }
   .school-hero {
     grid-template-columns: 1fr;
-    padding: 25px;
+    padding: 24px;
   }
   .school-orbit {
     display: none;
   }
   .school-hero h2 {
-    font-size: 28px;
+    font-size: 24px;
   }
   .school-metrics {
-    gap: 9px;
+    gap: 8px;
   }
   .school-metrics > div {
     padding: 16px 12px;
@@ -1084,13 +1082,13 @@
     font-size: 24px;
   }
   .school-metrics p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .school-subject-grid {
     gap: 12px;
   }
   .school-subject-card {
-    padding: 19px;
+    padding: 16px;
     min-height: 270px;
   }
   .school-subject-card h2 {
@@ -1119,22 +1117,22 @@
     flex: none;
   }
   .school-plan-builder .school-actions {
-    gap: 13px;
+    gap: 12px;
   }
   .school-day-tabs {
-    gap: 5px;
+    gap: 4px;
   }
   .school-day-tabs button {
-    padding: 10px 3px;
+    padding: 8px 4px;
   }
   .school-plan-search button {
     flex-wrap: wrap;
   }
   .school-room .school-message {
-    font-size: 15px;
+    font-size: 14px;
   }
   .school-document-paper {
-    padding: 20px;
+    padding: 16px;
   }
 }
 @media (max-width: 500px) {
@@ -1160,7 +1158,7 @@
     justify-content: center;
   }
   .school-stages span {
-    font-size: 10px;
+    font-size: 12px;
   }
   .school-topic-title {
     padding: 16px;
@@ -1170,10 +1168,10 @@
     font-size: 16px;
   }
   .school-topic-content {
-    padding: 17px;
+    padding: 16px;
   }
   .school-composer {
-    padding: 14px;
+    padding: 12px;
   }
   .school-composer-tools {
     align-items: stretch;
@@ -1228,7 +1226,7 @@
   font-size: 12px;
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 8px;
   color: #d7c8ff;
 }
 .conversation-history h3 small {
@@ -1236,10 +1234,10 @@
 }
 .conversation-history > label {
   display: flex;
-  gap: 6px;
+  gap: 4px;
   align-items: center;
   border: 1px solid #b99aff38;
-  border-radius: 9px;
+  border-radius: 10px;
   padding: 8px;
 }
 .conversation-history input {
@@ -1248,7 +1246,7 @@
   background: transparent;
   border: 0;
   color: #eee8ff;
-  font-size: 11px;
+  font-size: 12px;
   outline-offset: 3px;
 }
 .conversation-history-list {
@@ -1262,9 +1260,9 @@
   width: 100%;
   text-align: left;
   border: 1px solid transparent;
-  border-radius: 9px;
-  padding: 9px;
-  margin: 3px 0;
+  border-radius: 10px;
+  padding: 8px;
+  margin: 4px 0;
   background: #b99aff08;
   color: #eee8ff;
 }
@@ -1283,7 +1281,7 @@
 .conversation-history-list span,
 .conversation-history-list small {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   color: #bcb0d1;
   margin-top: 4px;
 }
@@ -1294,11 +1292,11 @@
 }
 .conversation-history p,
 .history-more {
-  font-size: 11px;
+  font-size: 12px;
   color: #c9b6ef;
 }
 .history-more {
-  padding: 9px;
+  padding: 8px;
   width: 100%;
   background: transparent;
   border: 0;
@@ -1306,17 +1304,17 @@
 
 /* Keep the sidebar controls independent of the page form styles. */
 .cosmos-studio .conversation-history {
-  margin: 10px 4px;
+  margin: 8px 4px;
 }
 .cosmos-studio .conversation-history h3 {
   font-size: 12px;
   line-height: 1.4;
-  margin: 0 0 10px;
+  margin: 0 0 8px;
 }
 .cosmos-studio .conversation-history > label {
   flex-direction: row;
-  padding: 7px 9px;
-  gap: 7px;
+  padding: 8px 8px;
+  gap: 8px;
 }
 .cosmos-studio .conversation-history input {
   padding: 0;
@@ -1324,7 +1322,7 @@
   border-radius: 0;
   background: transparent;
   height: 25px;
-  font-size: 11px;
+  font-size: 12px;
 }
 .cosmos-studio .conversation-history-list {
   max-height: 250px;
@@ -1336,12 +1334,12 @@
 /* One working area: current step, conversation, and a stable place to write. */
 .school-course-focused > .school-heading {
   align-items: center;
-  margin-bottom: 18px;
+  margin-bottom: 16px;
   padding: 0;
 }
 .school-course-focused > .school-heading h1 {
-  font-size: 23px;
-  margin: 6px 0;
+  font-size: 24px;
+  margin: 4px 0;
 }
 .school-course-focused > .school-heading p {
   display: none;
@@ -1353,8 +1351,8 @@
   margin: 12px 0;
 }
 .school-room > h1 {
-  font-size: clamp(22px, 2.2vw, 32px);
-  margin: 14px 0;
+  font-size: clamp(20px, 2.2vw, 32px);
+  margin: 12px 0;
   line-height: 1.3;
 }
 .school-dialogue-surface {
@@ -1362,7 +1360,7 @@
   flex-direction: column;
   height: max(420px, calc(100dvh - 240px));
   border: 1px solid #584273;
-  border-radius: 22px;
+  border-radius: 14px;
   overflow: hidden;
   background: #110e1c;
 }
@@ -1376,7 +1374,7 @@
   box-shadow: none;
 }
 .school-dialogue-surface .learning-plan summary {
-  padding: 10px 20px;
+  padding: 8px 16px;
 }
 .school-dialogue-surface .learning-plan-body {
   max-height: 27vh;
@@ -1390,7 +1388,7 @@
   padding: 8px clamp(12px, 2vw, 32px);
 }
 .school-dialogue-surface .school-message {
-  margin: 8px 0 22px;
+  margin: 8px 0 24px;
 }
 .school-dialogue-surface .school-message.user {
   margin-left: 12%;
@@ -1399,25 +1397,25 @@
   flex: none;
   border-width: 1px 0 0;
   border-radius: 0;
-  padding: 10px 18px;
+  padding: 8px 16px;
 }
 .school-dialogue-surface .school-composer textarea {
   min-height: 58px;
   max-height: 150px;
-  padding: 10px 12px;
+  padding: 8px 12px;
 }
 .school-dialogue-surface .school-composer-tools {
-  margin: 6px 0;
+  margin: 4px 0;
   gap: 8px;
 }
 .school-dialogue-surface .school-composer-tools .button {
-  padding: 7px 10px;
+  padding: 8px 8px;
   font-size: 12px;
 }
 .school-help-menu {
   font-size: 12px;
   color: #c8afea;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
 }
 .school-help-menu > summary,
 .school-materials-menu > summary {
@@ -1433,11 +1431,11 @@
 .school-materials-menu > summary {
   padding: 12px 16px;
   border: 1px solid #453353;
-  border-radius: 12px;
+  border-radius: 10px;
   background: #171120;
 }
 .school-room .homework-original {
-  padding: 9px 15px;
+  padding: 8px 16px;
   margin: 8px 0;
 }
 .school-room .homework-original[open] {
@@ -1448,19 +1446,19 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 12px;
-  margin: 20px 0;
+  margin: 16px 0;
 }
 .school-track-picker > * {
   border: 1px solid #4a365f;
-  border-radius: 16px;
+  border-radius: 14px;
   background: #191125;
-  padding: 14px;
+  padding: 12px;
   color: #e5d9f4;
 }
 .school-track-picker > .selected {
   border-color: #ae83f5;
   background: linear-gradient(135deg, #35214d, #19172f);
-  box-shadow: 0 0 20px #9862fa16;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .school-track-picker > div > button {
   border: 0;
@@ -1472,9 +1470,9 @@
 }
 .school-track-picker small {
   display: block;
-  font-size: 11px;
+  font-size: 12px;
   color: #bbaaca;
-  margin-top: 7px;
+  margin-top: 8px;
 }
 .school-track-picker .text-button {
   margin-top: 12px;
@@ -1494,7 +1492,7 @@
   width: auto;
   flex: 0 0 82px;
   justify-content: center;
-  font-size: 11px;
+  font-size: 12px;
   color: #93e1cf;
   border: 1px solid #395b57;
   background: #142727;
@@ -1502,7 +1500,7 @@
 .studio-room-history-link {
   display: flex;
   justify-content: flex-end;
-  margin: -8px 0 10px;
+  margin: -8px 0 8px;
   font-size: 12px;
 }
 @media (max-width: 700px) {

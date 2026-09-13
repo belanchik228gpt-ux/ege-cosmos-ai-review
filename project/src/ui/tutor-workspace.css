@@ -11,7 +11,7 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
   margin: 0 0 16px;
 }
 .room-actions > .text-button:last-child {
@@ -22,11 +22,11 @@
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  padding: 18px 0 26px;
+  padding: 16px 0 24px;
 }
 .room-start h1 {
-  font-size: clamp(26px, 2.5vw, 38px);
-  margin: 10px 0;
+  font-size: clamp(24px, 2.5vw, 32px);
+  margin: 8px 0;
 }
 .room-start p {
   color: var(--muted, #b5aacb);
@@ -35,18 +35,16 @@
 }
 .lesson-compass {
   border: 1px solid #a688ed66;
-  border-radius: 23px;
-  padding: 23px 27px 19px;
-  margin-bottom: 22px;
+  border-radius: 14px;
+  padding: 24px 24px 16px;
+  margin-bottom: 24px;
   background: linear-gradient(112deg, #211736ee, #141124f0 62%, #11252cee);
-  box-shadow:
-    0 0 38px #9969ff12,
-    inset 0 1px #d3baff14;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .compass-heading {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 16px;
   margin-bottom: 16px;
 }
 .compass-heading > div:first-child {
@@ -54,24 +52,24 @@
   min-width: 0;
 }
 .compass-heading h1 {
-  font-size: clamp(22px, 2vw, 32px);
+  font-size: clamp(20px, 2vw, 32px);
   line-height: 1.25;
   margin: 8px 0 0;
 }
 .compass-count {
   text-align: right;
-  font-size: 23px;
+  font-size: 24px;
   color: #cfc2e8;
   white-space: nowrap;
 }
 .compass-count b {
   color: var(--tutor-cyan);
-  font-size: 31px;
+  font-size: 32px;
 }
 .compass-count small {
   display: block;
-  font-size: 11px;
-  margin-top: 3px;
+  font-size: 12px;
+  margin-top: 4px;
   color: #bcb0d0;
 }
 .lesson-compass progress,
@@ -82,7 +80,7 @@
   width: 100%;
   height: 7px;
   border: 0;
-  border-radius: 8px;
+  border-radius: 6px;
   overflow: hidden;
   background: #ffffff13;
   accent-color: #b494ff;
@@ -91,31 +89,31 @@
 .direct-topics progress::-webkit-progress-bar,
 .day-progress-strip progress::-webkit-progress-bar {
   background: #ffffff13;
-  border-radius: 8px;
+  border-radius: 6px;
 }
 .lesson-compass progress::-webkit-progress-value,
 .direct-topics progress::-webkit-progress-value,
 .day-progress-strip progress::-webkit-progress-value {
   background: linear-gradient(90deg, #9865ff, #ac9aff, #63e7db);
-  border-radius: 8px;
-  box-shadow: 0 0 12px #a986ff77;
+  border-radius: 6px;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
   transition: width 0.3s ease;
 }
 .compass-phases {
   display: flex;
-  gap: 19px;
+  gap: 16px;
   margin: 16px 0;
   flex-wrap: wrap;
 }
 .compass-phases > span {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 8px;
   font-size: 12px;
   color: #aa9dbc;
 }
 .compass-phases > span > b {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 500;
   width: 21px;
   height: 21px;
@@ -131,7 +129,7 @@
   background: #9c70fb;
   color: #10101c;
   border-color: #bd9aff;
-  box-shadow: 0 0 15px #8f63f76b;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .compass-phases > span[data-done='true'] {
   color: #79d7b0;
@@ -140,7 +138,7 @@
   display: flex;
   align-items: flex-start;
   gap: 12px;
-  padding-top: 13px;
+  padding-top: 12px;
   border-top: 1px solid #d5bdff20;
 }
 .compass-request > svg {
@@ -155,19 +153,19 @@
 }
 .compass-request p {
   color: #f1eafc;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
-  margin: 6px 0 0;
+  margin: 4px 0 0;
 }
 .compass-next {
-  margin: 9px 0 0 31px;
+  margin: 8px 0 0 32px;
   color: #b2a4c7;
   font-size: 12px;
 }
 .tutor-grid {
   display: grid;
   grid-template-columns: minmax(0, 1.65fr) minmax(345px, 1fr);
-  gap: 22px;
+  gap: 24px;
   align-items: start;
 }
 .current-board {
@@ -176,9 +174,9 @@
 .tutor-conversation {
   min-width: 0;
   border: 1px solid #ac8be266;
-  border-radius: 22px;
+  border-radius: 14px;
   background: #110b1cf5;
-  box-shadow: 0 0 26px #9161ef12;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
   display: flex;
   flex-direction: column;
   height: min(850px, calc(100vh - 135px));
@@ -188,7 +186,7 @@
   overflow: hidden;
 }
 .tutor-conversation .tutor-header {
-  padding: 17px 20px;
+  padding: 16px 16px;
   flex: none;
   background: linear-gradient(100deg, #1c122d, #141020);
 }
@@ -196,26 +194,26 @@
   flex: 1;
 }
 .tutor-conversation .tutor-header strong {
-  font-size: 17px;
+  font-size: 16px;
 }
 .tutor-conversation .tutor-header span:not(.cosmos-avatar):not(.mini-tag) {
-  font-size: 11px;
+  font-size: 12px;
 }
 .conversation-condition {
   border-bottom: 1px solid #a385c62b;
-  padding: 12px 20px;
+  padding: 12px 16px;
   background: #26203485;
   flex: none;
 }
 .conversation-condition small {
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 0.1em;
   color: #88e3e6;
 }
 .conversation-condition p {
-  font-size: 13px;
+  font-size: 12px;
   line-height: 1.5;
-  margin: 5px 0 0;
+  margin: 4px 0 0;
   max-height: 72px;
   overflow: auto;
   color: #e0d6ee;
@@ -224,32 +222,32 @@
   flex: 1;
   min-height: 120px;
   overflow: auto;
-  padding: 18px 19px;
+  padding: 16px 16px;
   overscroll-behavior: contain;
   scrollbar-gutter: stable;
 }
 .tutor-conversation .message {
-  margin: 0 0 21px;
+  margin: 0 0 24px;
 }
 .tutor-conversation .message p {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.7;
   overflow-wrap: anywhere;
 }
 .tutor-conversation .message > span {
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 0.06em;
   color: #b1a2c8;
 }
 .tutor-conversation .message.student {
   background: linear-gradient(130deg, #38255399, #251935cc);
   border: 1px solid #a687c51c;
-  border-radius: 17px 17px 4px 17px;
-  padding: 13px 16px;
-  margin-left: 28px;
+  border-radius: 14px 14px 6px 14px;
+  padding: 12px 16px;
+  margin-left: 24px;
 }
 .tutor-conversation .composer {
-  padding: 13px 14px 14px;
+  padding: 12px 12px 12px;
   flex: none;
   background: #211a2cdc;
   border-top: 1px solid #a385c636;
@@ -257,7 +255,7 @@
 .unified-composer form {
   width: 100%;
   border: 1px solid #a785eb63;
-  box-shadow: 0 0 18px #a36eff12;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
   border-radius: 14px;
   background: #100b18;
   overflow: hidden;
@@ -269,7 +267,7 @@
   font-size: 14px;
   border: 0;
   resize: vertical;
-  padding: 14px;
+  padding: 12px;
   border-radius: 0;
 }
 .unified-composer textarea:focus {
@@ -278,37 +276,37 @@
 }
 .unified-composer form:focus-within {
   border-color: #b78aff;
-  box-shadow: 0 0 17px #9a6fff33;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .unified-composer form > div {
   display: flex;
-  gap: 6px;
+  gap: 4px;
   align-items: center;
   border-top: 1px solid #9064d74a;
-  padding: 7px;
+  padding: 8px;
 }
 .unified-composer form > div > small {
-  font-size: 10px;
+  font-size: 12px;
   color: #b5a9c8;
   flex: 1;
-  padding-left: 6px;
+  padding-left: 4px;
 }
 .tutor-suggestions {
   display: flex;
   flex-wrap: wrap;
-  gap: 7px;
-  margin-bottom: 10px;
+  gap: 8px;
+  margin-bottom: 8px;
 }
 .tutor-suggestions button {
   display: flex;
-  gap: 5px;
+  gap: 4px;
   align-items: center;
-  padding: 6px 9px;
+  padding: 4px 8px;
   border: 1px solid #a183cf45;
   background: #2d203f;
-  border-radius: 9px;
+  border-radius: 10px;
   color: #d9c8f2;
-  font-size: 10px;
+  font-size: 12px;
 }
 .tutor-suggestions button:hover {
   border-color: #c199ff;
@@ -316,11 +314,11 @@
 }
 .tutor-thinking {
   display: flex;
-  gap: 9px;
+  gap: 8px;
   align-items: center;
-  padding: 11px;
+  padding: 12px;
   border: 1px solid #9a78dd44;
-  border-radius: 12px;
+  border-radius: 10px;
   color: #cdbde2;
 }
 .tutor-thinking p {
@@ -332,7 +330,7 @@
 .tutor-thinking small {
   display: block;
   color: #a899bf;
-  font-size: 10px;
+  font-size: 12px;
 }
 .thinking-orbit {
   display: block;
@@ -350,37 +348,37 @@
   }
 }
 .direct-topic-picker {
-  padding: 23px;
+  padding: 24px;
   border: 1px solid #a07adb66;
-  border-radius: 21px;
+  border-radius: 14px;
   background: #171122f7;
   margin-bottom: 24px;
 }
 .direct-topic-picker h2 {
-  font-size: 23px;
+  font-size: 24px;
   margin: 0;
 }
 .direct-topics {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
-  margin-top: 14px;
+  margin-top: 12px;
 }
 .direct-topics > button {
-  padding: 18px;
+  padding: 16px;
   border: 1px solid #aa83e335;
   display: flex;
-  gap: 14px;
+  gap: 12px;
   align-items: center;
   text-align: left;
-  border-radius: 16px;
+  border-radius: 14px;
   background: linear-gradient(125deg, #33234588, #1e1629);
   color: #f0e5ff;
 }
 .direct-topics > button:hover,
 .direct-topics > button[data-current='true'] {
   border-color: #b084f7;
-  box-shadow: 0 0 20px #8e57e720;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .direct-topics > button > svg {
   flex-shrink: 0;
@@ -391,9 +389,9 @@
   min-width: 0;
 }
 .direct-topics strong {
-  font-size: 17px;
+  font-size: 16px;
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
 }
 .direct-topics span,
 .direct-topics small {
@@ -404,7 +402,7 @@
 }
 .direct-topics progress {
   height: 4px;
-  margin: 11px 0 7px;
+  margin: 12px 0 8px;
 }
 .direct-topic-picker .search {
   max-width: 520px;
@@ -417,23 +415,23 @@
 .concept-reference,
 .lesson-finish-card {
   border: 1px solid #9c78cf38;
-  border-radius: 17px;
+  border-radius: 14px;
   background: #1b132be6;
-  padding: 18px;
-  margin: 15px 0;
+  padding: 16px;
+  margin: 16px 0;
 }
 .concept-reference summary {
   display: flex;
   align-items: center;
-  gap: 9px;
+  gap: 8px;
   color: #d0b8f2;
   cursor: pointer;
-  font-size: 13px;
+  font-size: 12px;
 }
 .concept-reference summary span {
   margin-left: auto;
   color: #9887ae;
-  font-size: 10px;
+  font-size: 12px;
 }
 .concept-reference > p,
 .lesson-finish-card > p {
@@ -453,23 +451,23 @@
 }
 .active-task-board {
   border: 1px solid #9f88d177;
-  border-radius: 23px;
+  border-radius: 14px;
   background:
     radial-gradient(ellipse at 50% 20%, #35245488, transparent 70%),
     linear-gradient(145deg, #211932, #131221);
-  padding: 25px;
+  padding: 24px;
   overflow: hidden;
 }
 .active-task-board h2 {
-  font-size: clamp(19px, 1.6vw, 25px);
+  font-size: clamp(20px, 1.6vw, 24px);
   line-height: 1.5;
-  margin: 15px 0;
+  margin: 16px 0;
 }
 .task-board-art {
   min-height: 210px;
   display: grid;
   place-items: center;
-  padding: 14px 0;
+  padding: 12px 0;
 }
 .task-board-art svg {
   width: 100%;
@@ -481,13 +479,13 @@
   flex-wrap: wrap;
   align-content: center;
   justify-content: center;
-  gap: 10px;
-  padding: 24px 5px;
+  gap: 8px;
+  padding: 24px 4px;
 }
 .sentence-tiles > span {
-  font-size: clamp(19px, 2vw, 30px);
-  padding: 12px 17px;
-  border-radius: 12px;
+  font-size: clamp(20px, 2vw, 32px);
+  padding: 12px 16px;
+  border-radius: 10px;
   border: 1px solid #81dae746;
   background: #18364088;
   color: #a7edf1;
@@ -517,18 +515,18 @@
 .task-board-controls {
   display: flex;
   align-items: center;
-  gap: 9px;
+  gap: 8px;
   border-top: 1px solid #b895ee33;
-  padding-top: 15px;
-  margin-top: 20px;
+  padding-top: 16px;
+  margin-top: 16px;
 }
 .task-board-controls > span {
   flex: 1;
 }
 .task-board-controls select {
   max-width: 75px;
-  border-radius: 9px;
-  padding: 9px;
+  border-radius: 10px;
+  padding: 8px;
 }
 .board-still .sentence-tiles > span {
   animation: none;
@@ -536,14 +534,14 @@
 .problem-entry-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
-  gap: 23px;
+  gap: 24px;
 }
 .photo-entry,
 .problem-transcript {
   border: 1px solid #a788db55;
   background: linear-gradient(145deg, #221732, #15121f);
-  border-radius: 23px;
-  padding: 25px;
+  border-radius: 14px;
+  padding: 24px;
 }
 .photo-entry {
   display: flex;
@@ -574,7 +572,7 @@
   filter: drop-shadow(0 0 18px #a279ff55);
 }
 .photo-placeholder h2 {
-  font-size: 23px;
+  font-size: 24px;
 }
 .photo-placeholder p {
   max-width: 340px;
@@ -584,7 +582,7 @@
 }
 .photo-entry > small {
   color: #a595bd;
-  font-size: 11px;
+  font-size: 12px;
   max-width: 100%;
   overflow-wrap: anywhere;
 }
@@ -593,26 +591,26 @@
   width: 100%;
   font-size: 20px;
   line-height: 1.7;
-  padding: 19px;
+  padding: 16px;
   background: #0b0912;
   border-color: #ab80e573;
-  border-radius: 15px;
-  margin: 17px 0;
+  border-radius: 14px;
+  margin: 16px 0;
 }
 .problem-transcript > .button.primary {
   width: 100%;
-  margin: 13px 0;
+  margin: 12px 0;
   justify-content: center;
 }
 .transcription-note {
-  font-size: 13px;
+  font-size: 12px;
   color: #d4c49c;
   line-height: 1.6;
 }
 .problem-parse-status {
-  font-size: 13px;
+  font-size: 12px;
   display: flex;
-  gap: 10px;
+  gap: 8px;
   align-items: flex-start;
   line-height: 1.5;
   color: #97d8c1;
@@ -627,17 +625,17 @@
   color: #bba0f8;
   background: #7a48c228;
   border: 1px solid #a787e644;
-  border-radius: 24px;
-  padding: 26px;
+  border-radius: 14px;
+  padding: 24px;
 }
 .own-example-chips {
   display: flex;
   flex-wrap: wrap;
-  gap: 11px;
-  margin: 22px 0;
+  gap: 12px;
+  margin: 24px 0;
 }
 .own-example-chips button {
-  font-size: 13px;
+  font-size: 12px;
 }
 .own-problem-list {
   padding: 12px;
@@ -647,9 +645,9 @@
 }
 .own-problem-list > button {
   display: flex;
-  gap: 11px;
+  gap: 12px;
   width: 100%;
-  padding: 13px;
+  padding: 12px;
   text-align: left;
   border-bottom: 1px solid #ac87cc30;
 }
@@ -659,32 +657,32 @@
 }
 .own-problem-list small {
   display: block;
-  margin-top: 6px;
+  margin-top: 4px;
   color: #aa98bf;
 }
 .global-problem-button {
   font-size: 12px;
-  padding: 9px 12px;
+  padding: 8px 12px;
 }
 .day-progress-strip {
-  padding: 17px 22px;
+  padding: 16px 24px;
   border: 1px solid #91cde54a;
   background: linear-gradient(100deg, #142830bb, #231432bb);
-  border-radius: 17px;
-  margin: 10px 0 16px;
+  border-radius: 14px;
+  margin: 8px 0 16px;
 }
 .day-progress-strip > div {
   display: flex;
-  gap: 15px;
+  gap: 16px;
   justify-content: space-between;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   color: #bcdae1;
-  font-size: 13px;
+  font-size: 12px;
   flex-wrap: wrap;
 }
 .day-progress-strip small {
   display: block;
-  margin-top: 9px;
+  margin-top: 8px;
   color: #b0a3c5;
 }
 html[data-motion='reduced'] .thinking-orbit {
@@ -704,16 +702,16 @@ html[data-quality='low'] .task-board-art svg {
 @media (max-width: 1100px) {
   .tutor-grid {
     grid-template-columns: minmax(0, 1.2fr) minmax(320px, 1fr);
-    gap: 15px;
+    gap: 16px;
   }
   .lesson-compass {
-    padding: 20px;
+    padding: 16px;
   }
   .compass-phases {
-    gap: 11px;
+    gap: 12px;
   }
   .active-task-board {
-    padding: 20px;
+    padding: 16px;
   }
   .global-problem-button span {
     display: none;
@@ -747,15 +745,15 @@ html[data-quality='low'] .task-board-art svg {
     flex-direction: column;
   }
   .compass-request p {
-    font-size: 17px;
+    font-size: 16px;
   }
 }
 @media (max-width: 520px) {
   .lesson-compass {
-    padding: 17px;
+    padding: 16px;
   }
   .compass-heading h1 {
-    font-size: 23px;
+    font-size: 24px;
   }
   .compass-count {
     font-size: 16px;
@@ -764,13 +762,13 @@ html[data-quality='low'] .task-board-art svg {
     font-size: 24px;
   }
   .compass-count small {
-    font-size: 9px;
+    font-size: 12px;
   }
   .compass-phases {
-    gap: 7px;
+    gap: 8px;
   }
   .compass-phases > span {
-    font-size: 10px;
+    font-size: 12px;
   }
   .compass-phases > span > svg:last-child {
     display: none;
@@ -782,14 +780,14 @@ html[data-quality='low'] .task-board-art svg {
     margin-left: 0;
   }
   .direct-topic-picker {
-    padding: 17px;
+    padding: 16px;
   }
   .task-board-controls {
     flex-wrap: wrap;
   }
   .problem-transcript,
   .photo-entry {
-    padding: 17px;
+    padding: 16px;
   }
   .tutor-conversation {
     height: 620px;
@@ -800,34 +798,34 @@ html[data-quality='low'] .task-board-art svg {
     padding-top: 16px;
   }
   .tutor-workspace .room-actions {
-    margin-bottom: 11px;
+    margin-bottom: 12px;
     gap: 8px;
   }
   .lesson-compass {
-    padding: 12px 20px;
-    margin-bottom: 15px;
+    padding: 12px 16px;
+    margin-bottom: 16px;
   }
   .compass-heading {
-    margin-bottom: 7px;
+    margin-bottom: 8px;
   }
   .compass-heading .eyebrow {
     display: none;
   }
   .compass-heading h1 {
-    font-size: 23px;
+    font-size: 24px;
     margin-top: 0;
   }
   .compass-count b {
-    font-size: 26px;
+    font-size: 24px;
   }
   .compass-count small {
     display: none;
   }
   .compass-phases {
-    margin: 7px 0;
+    margin: 8px 0;
   }
   .compass-phases > span {
-    font-size: 11px;
+    font-size: 12px;
   }
   .compass-request {
     padding-top: 8px;
@@ -836,7 +834,7 @@ html[data-quality='low'] .task-board-art svg {
     display: none;
   }
   .compass-request p {
-    font-size: 15px;
+    font-size: 14px;
     margin: 0;
     line-height: 1.4;
   }
@@ -849,20 +847,20 @@ html[data-quality='low'] .task-board-art svg {
     min-height: 390px;
   }
   .tutor-conversation .tutor-header {
-    padding: 12px 17px;
+    padding: 12px 16px;
   }
   .tutor-conversation .dialogue {
     min-height: 0;
   }
   .tutor-conversation .conversation-condition {
-    padding: 8px 17px;
+    padding: 8px 16px;
   }
   .tutor-conversation .conversation-condition p {
     font-size: 12px;
     max-height: 52px;
   }
   .tutor-conversation .composer {
-    padding: 10px;
+    padding: 8px;
   }
   .tutor-conversation .composer textarea {
     min-height: 58px;
@@ -871,7 +869,7 @@ html[data-quality='low'] .task-board-art svg {
     resize: none;
   }
   .tutor-conversation .tutor-suggestions {
-    margin-bottom: 7px;
+    margin-bottom: 8px;
   }
 }
 
@@ -894,10 +892,10 @@ html[data-quality='low'] .task-board-art svg {
   background: var(--surface-raised);
 }
 .tutor-workspace .message p {
-  font-size: calc(15px * var(--text-scale, 1));
+  font-size: calc(14px * var(--text-scale, 1));
 }
 .tutor-workspace .compass-request p {
-  font-size: calc(18px * var(--text-scale, 1));
+  font-size: calc(16px * var(--text-scale, 1));
 }
 .focus-mode .tutor-conversation {
   top: 18px;
@@ -911,7 +909,7 @@ html[data-quality='low'] .task-board-art svg {
     .problem-transcript,
     .direct-topic-picker
   ) {
-  border-radius: var(--panel-radius, 23px);
+  border-radius: var(--panel-radius, 14px);
 }
 html[data-glow='off']
   .tutor-workspace
@@ -936,7 +934,7 @@ html[data-glow='off']
 
 @media (max-height: 800px) and (min-width: 831px) {
   .tutor-workspace .compass-request p {
-    font-size: calc(15px * var(--text-scale, 1));
+    font-size: calc(14px * var(--text-scale, 1));
   }
   .tutor-workspace .compass-count small,
   .tutor-workspace .compass-next {
@@ -964,21 +962,21 @@ html[data-glow='off']
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 18px;
+  gap: 16px;
   margin: 16px 0;
-  padding: 18px 20px;
+  padding: 16px 16px;
   border: 1px solid color-mix(in srgb, var(--accent, #ad96ff) 36%, transparent);
-  border-radius: 18px;
+  border-radius: 14px;
   background: linear-gradient(110deg, #211433, #111522);
 }
 .teaching-actions strong {
   display: block;
   color: #cabbff;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
 }
 .teaching-actions span {
   display: block;
-  font-size: 13px;
+  font-size: 12px;
   color: #c0b7d1;
   line-height: 1.5;
 }
@@ -995,26 +993,26 @@ html[data-glow='off']
 /* The route stays readable without taking most of the learning viewport. */
 @media (min-width: 1100px) and (min-height: 801px) {
   .lesson-active .main-content {
-    padding-top: 20px;
+    padding-top: 16px;
   }
   .tutor-workspace .lesson-compass {
     padding: 16px 24px;
-    margin-bottom: 18px;
+    margin-bottom: 16px;
   }
   .tutor-workspace .compass-heading {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
   .tutor-workspace .compass-heading h1 {
-    font-size: 27px;
+    font-size: 24px;
     margin-top: 4px;
   }
   .tutor-workspace .compass-phases {
-    margin: 10px 0;
+    margin: 8px 0;
   }
   .tutor-workspace .compass-request {
-    padding-top: 9px;
+    padding-top: 8px;
   }
   .tutor-workspace .compass-request p {
-    margin-top: 3px;
+    margin-top: 4px;
   }
 }

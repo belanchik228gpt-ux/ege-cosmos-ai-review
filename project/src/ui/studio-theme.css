@@ -14,7 +14,7 @@
   --studio-link: color-mix(in srgb, var(--studio-primary) 70%, var(--studio-text));
   --studio-card-radius: 15px;
   --studio-control-radius: 8px;
-  --studio-panel-padding: 28px;
+  --studio-panel-padding: 24px;
   color: var(--studio-text);
   font-family: var(--body-font, 'Segoe UI', Arial, sans-serif);
   background: var(--studio-bg);
@@ -41,7 +41,7 @@ html[data-corner-style='square'] .cosmos-studio {
   --studio-control-radius: 4px;
 }
 html[data-density='compact'] .cosmos-studio {
-  --studio-panel-padding: 22px;
+  --studio-panel-padding: 24px;
 }
 html[data-contrast='high'] .cosmos-studio {
   --studio-text: #ffffff;
@@ -56,33 +56,33 @@ html[data-contrast='high'] .cosmos-studio {
   min-width: 0;
 }
 .cosmos-studio :where(.page-heading, .study-heading) {
-  margin: 0 0 27px;
+  margin: 0 0 24px;
   align-items: center;
-  gap: 18px;
+  gap: 16px;
 }
 .cosmos-studio :where(.page-heading, .study-heading) h1 {
-  font-size: calc(34px * var(--text-scale, 1));
+  font-size: calc(32px * var(--text-scale, 1));
   font-weight: 650;
   line-height: 1.3;
   letter-spacing: -1px;
 }
 .cosmos-studio :where(.page-heading, .study-heading) p {
-  margin: 9px 0 0;
+  margin: 8px 0 0;
   color: var(--studio-muted);
   font-size: calc(14px * var(--text-scale, 1));
   line-height: 1.6;
 }
 .cosmos-studio .eyebrow {
   color: var(--studio-link);
-  font-size: calc(10px * var(--text-scale, 1));
+  font-size: calc(12px * var(--text-scale, 1));
   font-weight: 600;
   letter-spacing: 1.65px;
   line-height: 1.6;
 }
 .cosmos-studio .button {
   min-height: 42px;
-  padding: 10px 16px;
-  gap: 9px;
+  padding: 8px 16px;
+  gap: 8px;
   border-radius: var(--studio-control-radius);
   font-size: calc(14px * var(--text-scale, 1));
   font-weight: 550;
@@ -92,7 +92,7 @@ html[data-contrast='high'] .cosmos-studio {
   color: var(--studio-primary-ink);
   background: linear-gradient(110deg, var(--studio-primary-start), var(--studio-primary-end));
   border: 1px solid color-mix(in srgb, var(--studio-primary) 32%, transparent);
-  box-shadow: 0 3px 18px color-mix(in srgb, var(--studio-primary) 9%, transparent);
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .cosmos-studio .button.secondary {
   color: var(--studio-text);
@@ -108,7 +108,7 @@ html[data-contrast='high'] .cosmos-studio {
   background-color: color-mix(in srgb, var(--studio-surface) 88%, var(--studio-bg));
   border-color: var(--studio-input);
   border-radius: var(--studio-control-radius);
-  font-size: calc(13px * var(--text-scale, 1));
+  font-size: calc(12px * var(--text-scale, 1));
 }
 .cosmos-studio :where(input, textarea)::placeholder {
   color: var(--studio-muted);
@@ -154,7 +154,7 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio :where(.gentle-note, .unreal-note, .study-banner) {
   border: 1px solid var(--studio-line);
-  border-radius: 9px;
+  border-radius: 10px;
   background: color-mix(in srgb, var(--studio-surface) 92%, var(--studio-primary));
   color: var(--studio-muted);
   box-shadow: none;
@@ -162,7 +162,7 @@ html[data-contrast='high'] .cosmos-studio {
 .cosmos-studio .flow-disclosure {
   background: color-mix(in srgb, var(--studio-surface) 97%, var(--studio-primary));
   border-color: var(--studio-line);
-  border-radius: 9px;
+  border-radius: 10px;
 }
 .cosmos-studio .flow-disclosure > summary {
   color: var(--studio-text);
@@ -172,7 +172,7 @@ html[data-contrast='high'] .cosmos-studio {
 /* Settings: quiet left navigation and one coherent reading panel, as in the supplied view. */
 .cosmos-studio .flow-settings-layout {
   grid-template-columns: 195px minmax(0, 1fr);
-  gap: 26px;
+  gap: 24px;
   align-items: start;
 }
 .cosmos-studio .flow-settings-nav {
@@ -180,11 +180,11 @@ html[data-contrast='high'] .cosmos-studio {
   top: 18px;
 }
 .cosmos-studio .flow-settings-group {
-  margin-bottom: 19px;
+  margin-bottom: 16px;
 }
 .cosmos-studio .flow-settings-group > strong {
   color: var(--studio-muted);
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 1.35px;
   padding: 0 12px 8px;
 }
@@ -193,9 +193,9 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio .flow-settings-group > button {
   min-height: 45px;
-  padding: 11px 14px;
-  margin: 5px 0;
-  border-radius: 9px;
+  padding: 12px 12px;
+  margin: 4px 0;
+  border-radius: 10px;
   color: var(--studio-muted);
   font-weight: 550;
 }
@@ -206,7 +206,7 @@ html[data-contrast='high'] .cosmos-studio {
   box-shadow: none;
 }
 .cosmos-studio .flow-settings-content {
-  padding: 30px 32px;
+  padding: 32px 32px;
   border: 1px solid var(--studio-line);
   border-radius: var(--studio-card-radius);
   background: var(--studio-surface);
@@ -225,10 +225,10 @@ html[data-contrast='high'] .cosmos-studio {
   max-width: 960px;
 }
 .cosmos-studio .flow-settings-content .settings-grid {
-  gap: 30px;
+  gap: 32px;
 }
 .cosmos-studio .flow-settings-content .preferences-grid {
-  gap: 26px;
+  gap: 24px;
 }
 .cosmos-studio .flow-reader-tabs {
   border: 0;
@@ -240,8 +240,8 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio .flow-reader-tabs button {
   border: 1px solid transparent;
-  border-radius: 7px;
-  padding: 9px 13px;
+  border-radius: 6px;
+  padding: 8px 12px;
   color: var(--studio-muted);
 }
 .cosmos-studio .flow-reader-tabs button.active {
@@ -252,11 +252,11 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio .preference-control {
   margin: 0;
-  padding: 23px 0;
+  padding: 24px 0;
 }
 .cosmos-studio .preference-control + .preference-control {
   border-color: var(--studio-line);
-  padding-top: 23px;
+  padding-top: 24px;
 }
 .cosmos-studio .preference-control strong {
   color: var(--studio-text);
@@ -264,7 +264,7 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio .preference-control small {
   color: var(--studio-muted);
-  margin-top: 6px;
+  margin-top: 4px;
 }
 .cosmos-studio .preference-control select {
   min-height: 40px;
@@ -277,7 +277,7 @@ html[data-contrast='high'] .cosmos-studio {
   min-width: 40px;
   height: 23px;
   padding: 0;
-  border-radius: 20px;
+  border-radius: 14px;
   border: 1px solid var(--studio-input);
   background: var(--studio-raised);
   cursor: pointer;
@@ -301,7 +301,7 @@ html[data-contrast='high'] .cosmos-studio {
   transform: translateX(17px);
 }
 .cosmos-studio .setting-toggle {
-  padding: 22px 0;
+  padding: 24px 0;
   border-bottom: 1px solid var(--studio-line);
 }
 .cosmos-studio
@@ -317,20 +317,20 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio .preference-demo {
   min-height: 200px;
-  border-radius: 12px;
+  border-radius: 10px;
 }
 .cosmos-studio .flow-settings-content .sources-grid {
-  gap: 18px;
+  gap: 16px;
 }
 .cosmos-studio .source-card {
-  padding: 21px;
+  padding: 24px;
   min-width: 0;
 }
 .cosmos-studio .source-card h3 {
   font-size: calc(16px * var(--text-scale, 1));
 }
 .cosmos-studio .source-pagination {
-  gap: 14px;
+  gap: 12px;
 }
 .cosmos-studio .diagnostic-log {
   background: var(--studio-bg);
@@ -339,14 +339,14 @@ html[data-contrast='high'] .cosmos-studio {
 
 /* Saved documents: actual metadata with a decorative authored cover, never demo pages. */
 .cosmos-studio .documents-page > .section-title {
-  margin: 0 0 26px;
+  margin: 0 0 24px;
 }
 .cosmos-studio .documents-page > .section-title h2 {
-  font-size: calc(18px * var(--text-scale, 1));
+  font-size: calc(16px * var(--text-scale, 1));
 }
 .cosmos-studio .documents-page > .section-title p {
   font-size: calc(12px * var(--text-scale, 1));
-  margin: 5px 0 0;
+  margin: 4px 0 0;
 }
 .cosmos-studio .document-grid {
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -368,7 +368,7 @@ html[data-contrast='high'] .cosmos-studio {
   top: 13px;
   left: 14px;
   z-index: 1;
-  font-size: 10px;
+  font-size: 12px;
   color: var(--flow-subject, var(--studio-link));
   background: color-mix(in srgb, var(--studio-bg) 80%, transparent);
   border: 1px solid color-mix(in srgb, var(--flow-subject, var(--studio-primary)) 15%, transparent);
@@ -376,20 +376,20 @@ html[data-contrast='high'] .cosmos-studio {
 .cosmos-studio .saved-document > h3 {
   font-size: calc(16px * var(--text-scale, 1));
   line-height: 1.5;
-  margin: 18px 21px 9px;
+  margin: 16px 24px 8px;
   color: var(--studio-text);
   min-height: 48px;
 }
 .cosmos-studio .saved-document > p {
-  margin: 0 21px 20px;
-  font-size: calc(11px * var(--text-scale, 1));
+  margin: 0 24px 16px;
+  font-size: calc(12px * var(--text-scale, 1));
   color: var(--studio-muted);
 }
 .cosmos-studio .saved-document > .card-action {
-  margin: auto 21px 20px;
+  margin: auto 24px 16px;
   align-self: flex-end;
   padding: 0;
-  font-size: calc(11px * var(--text-scale, 1));
+  font-size: calc(12px * var(--text-scale, 1));
   border: 0;
 }
 .studio-document-cover {
@@ -422,35 +422,35 @@ html[data-contrast='high'] .cosmos-studio {
   width: 145px;
   height: 154px;
   border: 1px solid color-mix(in srgb, var(--flow-subject, #bca5f5) 23%, transparent);
-  border-radius: 5px 5px 0 0;
+  border-radius: 6px 6px 0 0;
   transform: rotate(-5deg) translateY(10px);
-  padding: 15px;
+  padding: 16px;
   color: var(--flow-subject, #bca5f5);
-  box-shadow: 15px 10px 25px #0002;
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .studio-mini-paper > b {
-  font-size: 8px;
+  font-size: 12px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   line-height: 1.45;
   color: var(--studio-muted, #b6a4c6);
-  margin: 9px 0;
+  margin: 8px 0;
 }
 .studio-mini-paper > i {
   display: block;
   height: 3px;
-  border-radius: 2px;
+  border-radius: 6px;
   background: #d0bde118;
-  margin: 6px 0;
+  margin: 4px 0;
 }
 .studio-mini-paper > span {
   display: block;
   height: 14px;
   width: 80%;
   background: color-mix(in srgb, var(--flow-subject, #bca5f5) 10%, transparent);
-  margin: 10px 0;
+  margin: 8px 0;
 }
 .studio-mini-paper > i:last-child {
   width: 73%;
@@ -482,32 +482,32 @@ html[data-contrast='high'] .cosmos-studio {
   --study-line: var(--studio-line);
 }
 .cosmos-studio .study-plan-toolbar {
-  gap: 15px;
+  gap: 16px;
   margin: 0 0 24px;
 }
 .cosmos-studio .study-segments {
   border-color: var(--studio-line);
   background: var(--studio-surface);
-  border-radius: 8px;
+  border-radius: 6px;
 }
 .cosmos-studio .study-segments > button {
   color: var(--studio-muted);
-  font-size: calc(13px * var(--text-scale, 1));
+  font-size: calc(12px * var(--text-scale, 1));
 }
 .cosmos-studio .study-segments > button.active {
   color: var(--studio-text);
   background: var(--studio-raised);
 }
 .cosmos-studio .study-calendar {
-  gap: 9px;
+  gap: 8px;
   margin: 0 0 24px;
 }
 .cosmos-studio .study-day {
-  border-radius: 11px;
+  border-radius: 10px;
   background: var(--studio-surface);
   border-color: var(--studio-line);
   color: var(--studio-muted);
-  padding: 15px 12px;
+  padding: 16px 12px;
 }
 .cosmos-studio .study-day.selected {
   background: linear-gradient(
@@ -516,7 +516,7 @@ html[data-contrast='high'] .cosmos-studio {
     var(--studio-surface)
   );
   border-color: color-mix(in srgb, var(--studio-primary) 55%, transparent);
-  box-shadow: 0 0 18px color-mix(in srgb, var(--studio-primary) 5%, transparent);
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .cosmos-studio .study-day.today strong {
   color: var(--studio-link);
@@ -529,13 +529,13 @@ html[data-contrast='high'] .cosmos-studio {
   border-top: 1px solid var(--studio-line);
   border-radius: 0;
   background: transparent;
-  padding: 21px 0;
+  padding: 24px 0;
   box-shadow: none;
 }
 .cosmos-studio .study-block-editor .block-order {
   border: 1px solid color-mix(in srgb, var(--subject-color, var(--studio-primary)) 18%, transparent);
   background: color-mix(in srgb, var(--subject-color, var(--studio-primary)) 8%, transparent);
-  border-radius: 8px;
+  border-radius: 6px;
   font-size: 12px;
 }
 .cosmos-studio :where(.study-plan-settings, .study-school-panel) {
@@ -544,19 +544,19 @@ html[data-contrast='high'] .cosmos-studio {
   border-radius: var(--studio-card-radius);
 }
 .cosmos-studio .study-empty {
-  padding: 34px 20px;
+  padding: 32px 16px;
   color: var(--studio-muted);
 }
 
 /* Progress and editable memory use real stored values, not mock knowledge bars. */
 .cosmos-studio .progress-space .study-report-metrics {
-  gap: 18px;
+  gap: 16px;
   margin: 0 0 24px;
 }
 .cosmos-studio .progress-space .study-report-metrics > div {
   position: relative;
   min-height: 154px;
-  padding: 30px 24px 24px;
+  padding: 32px 24px 24px;
   border: 1px solid var(--studio-line);
   border-radius: var(--studio-card-radius);
   background: var(--studio-surface);
@@ -566,7 +566,7 @@ html[data-contrast='high'] .cosmos-studio {
   align-items: flex-start;
 }
 .cosmos-studio .progress-space .study-report-metrics strong {
-  font-size: calc(31px * var(--text-scale, 1));
+  font-size: calc(32px * var(--text-scale, 1));
   color: var(--studio-text);
   font-weight: 600;
   line-height: 1.25;
@@ -574,10 +574,10 @@ html[data-contrast='high'] .cosmos-studio {
 .cosmos-studio .progress-space .study-report-metrics span {
   font-size: calc(12px * var(--text-scale, 1));
   color: var(--studio-muted);
-  margin-top: 10px;
+  margin-top: 8px;
 }
 .cosmos-studio .progress-space .materials-grid {
-  gap: 20px;
+  gap: 16px;
 }
 .cosmos-studio .progress-space .study-card {
   padding: 24px;
@@ -593,7 +593,7 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio .progress-space .study-card details {
   border-top: 1px solid var(--studio-line);
-  padding-top: 14px;
+  padding-top: 12px;
 }
 .cosmos-studio .progress-space .study-card summary {
   cursor: pointer;
@@ -609,14 +609,14 @@ html[data-contrast='high'] .cosmos-studio {
   margin-bottom: 16px;
 }
 .cosmos-studio .memory-layout .panel h2 {
-  margin-bottom: 19px;
+  margin-bottom: 16px;
 }
 .cosmos-studio .memory-layout .panel h3 {
-  margin: 29px 0 17px;
+  margin: 32px 0 16px;
 }
 .cosmos-studio .fact-list > div {
   background: transparent;
-  padding: 15px 0;
+  padding: 16px 0;
   gap: 12px;
   border-color: var(--studio-line);
 }
@@ -626,29 +626,29 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio .fact-list input {
   width: 100%;
-  margin-top: 5px;
+  margin-top: 4px;
   background: transparent;
   border-color: transparent;
-  padding: 6px 0;
+  padding: 4px 0;
 }
 .cosmos-studio .fact-list input:focus {
   background: var(--studio-raised);
   border-color: var(--studio-input);
-  padding-inline: 9px;
+  padding-inline: 8px;
 }
 .cosmos-studio .memory-subjects {
-  gap: 20px;
+  gap: 16px;
   margin-top: 24px;
 }
 .cosmos-studio .memory-subjects > div {
   border: 1px solid var(--studio-line);
-  border-radius: 11px;
-  padding: 19px;
+  border-radius: 10px;
+  padding: 16px;
   min-width: 0;
 }
 .cosmos-studio .memory-subjects .text-button {
   color: var(--studio-muted);
-  font-size: calc(11px * var(--text-scale, 1));
+  font-size: calc(12px * var(--text-scale, 1));
 }
 .cosmos-studio .memory-observations {
   color: var(--studio-muted);
@@ -678,7 +678,7 @@ html[data-contrast='high'] .cosmos-studio {
 }
 .cosmos-studio .background-info {
   flex: 1;
-  padding: 25px 24px;
+  padding: 24px 24px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -698,22 +698,22 @@ html[data-contrast='high'] .cosmos-studio {
   color: #eee4fa;
   background: #100a18bf;
   border: 1px solid #c6a4e829;
-  border-radius: 5px;
-  padding: 5px 8px;
-  font-size: 10px;
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 12px;
 }
 .studio-background-actions {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 10px;
+  gap: 8px;
   margin-top: auto;
 }
 .studio-background-note {
   display: block;
-  margin-top: 15px;
+  margin-top: 16px;
   color: var(--studio-muted);
-  font-size: 10px;
+  font-size: 12px;
   line-height: 1.7;
 }
 .cosmos-studio .studio-ton-backdrop {
@@ -726,20 +726,20 @@ html[data-background='cosmos-ton618'] .cosmos-studio .ui-ambient {
   display: none;
 }
 .cosmos-studio .background-info .eyebrow {
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 0.1px;
-  margin: 0 0 15px;
-  padding: 4px 7px;
-  border-radius: 5px;
+  margin: 0 0 16px;
+  padding: 4px 8px;
+  border-radius: 6px;
   background: #ffffff04;
 }
 .cosmos-studio .background-info h2 {
   font-size: calc(24px * var(--text-scale, 1));
 }
 .cosmos-studio .background-info p {
-  font-size: calc(13px * var(--text-scale, 1));
+  font-size: calc(12px * var(--text-scale, 1));
   line-height: 1.8;
-  margin: 12px 0 28px;
+  margin: 12px 0 24px;
 }
 .cosmos-studio .background-info > :where(.button, .card-bottom) {
   margin-top: auto;
@@ -750,15 +750,15 @@ html[data-background='cosmos-ton618'] .cosmos-studio .ui-ambient {
   gap: 12px;
 }
 .cosmos-studio .unreal-note {
-  margin-top: 27px;
-  padding: 25px;
+  margin-top: 24px;
+  padding: 24px;
   align-items: center;
 }
 .cosmos-studio .unreal-note h2 {
-  font-size: calc(18px * var(--text-scale, 1));
+  font-size: calc(16px * var(--text-scale, 1));
 }
 .cosmos-studio .unreal-note p {
-  font-size: calc(13px * var(--text-scale, 1));
+  font-size: calc(12px * var(--text-scale, 1));
   color: var(--studio-muted);
 }
 
@@ -776,15 +776,15 @@ html[data-background='cosmos-ton618'] .cosmos-studio .ui-ambient {
 @media (max-width: 1200px) {
   .cosmos-studio .flow-settings-layout {
     grid-template-columns: 175px minmax(0, 1fr);
-    gap: 20px;
+    gap: 16px;
   }
   .cosmos-studio .flow-settings-content {
-    padding: 25px;
+    padding: 24px;
   }
   .cosmos-studio .document-grid,
   .cosmos-studio .background-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 18px;
+    gap: 16px;
   }
   .cosmos-studio .memory-subjects {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -793,12 +793,12 @@ html[data-background='cosmos-ton618'] .cosmos-studio .ui-ambient {
 @media (max-width: 900px) {
   .cosmos-studio .flow-settings-layout {
     grid-template-columns: minmax(0, 1fr);
-    gap: 18px;
+    gap: 16px;
   }
   .cosmos-studio .flow-settings-nav {
     position: static;
     display: flex;
-    gap: 18px;
+    gap: 16px;
     overflow-x: auto;
   }
   .cosmos-studio .flow-settings-group {
@@ -806,14 +806,14 @@ html[data-background='cosmos-ton618'] .cosmos-studio .ui-ambient {
     margin: 0;
   }
   .cosmos-studio .flow-settings-group > strong {
-    padding: 0 4px 6px;
+    padding: 0 4px 4px;
   }
   .cosmos-studio .flow-settings-group > button {
     display: inline-flex;
     align-items: center;
     width: auto;
     margin: 0 4px 0 0;
-    padding: 9px 12px;
+    padding: 8px 12px;
     min-height: 40px;
   }
   .cosmos-studio .memory-layout {
@@ -828,25 +828,25 @@ html[data-background='cosmos-ton618'] .cosmos-studio .ui-ambient {
 }
 @media (max-width: 620px) {
   .cosmos-studio {
-    --studio-panel-padding: 20px;
+    --studio-panel-padding: 16px;
   }
   .cosmos-studio :where(.page-heading, .study-heading) {
     align-items: flex-start;
-    margin-bottom: 22px;
+    margin-bottom: 24px;
   }
   .cosmos-studio :where(.page-heading, .study-heading) h1 {
-    font-size: calc(27px * var(--text-scale, 1));
+    font-size: calc(24px * var(--text-scale, 1));
     letter-spacing: -0.7px;
   }
   .cosmos-studio :where(.page-heading, .study-heading) p {
-    font-size: calc(13px * var(--text-scale, 1));
+    font-size: calc(12px * var(--text-scale, 1));
   }
   .cosmos-studio .button {
     font-size: calc(12px * var(--text-scale, 1));
-    padding: 10px 13px;
+    padding: 8px 12px;
   }
   .cosmos-studio .flow-settings-content {
-    padding: 23px 18px;
+    padding: 24px 16px;
   }
   .cosmos-studio .flow-settings-content .sources-grid {
     grid-template-columns: minmax(0, 1fr);
@@ -863,11 +863,11 @@ html[data-background='cosmos-ton618'] .cosmos-studio .ui-ambient {
     max-width: 100%;
   }
   .cosmos-studio .flow-reader-tabs {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
   }
   .cosmos-studio .document-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 13px;
+    gap: 12px;
   }
   .cosmos-studio .saved-document {
     min-height: 285px;
@@ -881,61 +881,61 @@ html[data-background='cosmos-ton618'] .cosmos-studio .ui-ambient {
     padding: 12px;
   }
   .cosmos-studio .studio-mini-paper > b {
-    font-size: 6px;
-    margin: 6px 0;
+    font-size: 12px;
+    margin: 4px 0;
   }
   .cosmos-studio .studio-mini-paper > i {
     height: 2px;
-    margin: 5px 0;
+    margin: 4px 0;
   }
   .cosmos-studio .studio-mini-paper > span {
     height: 9px;
-    margin: 6px 0;
+    margin: 4px 0;
   }
   .cosmos-studio .saved-document > .mini-tag {
-    font-size: 8px;
+    font-size: 12px;
     top: 9px;
     left: 9px;
     max-width: calc(100% - 18px);
     white-space: normal;
   }
   .cosmos-studio .saved-document > h3 {
-    font-size: calc(13px * var(--text-scale, 1));
-    margin: 14px 12px 9px;
+    font-size: calc(12px * var(--text-scale, 1));
+    margin: 12px 12px 8px;
     min-height: 58px;
   }
   .cosmos-studio .saved-document > p {
-    font-size: calc(10px * var(--text-scale, 1));
-    margin: 0 12px 13px;
+    font-size: calc(12px * var(--text-scale, 1));
+    margin: 0 12px 12px;
   }
   .cosmos-studio .saved-document > .card-action {
-    font-size: calc(10px * var(--text-scale, 1));
-    margin: auto 12px 15px;
+    font-size: calc(12px * var(--text-scale, 1));
+    margin: auto 12px 16px;
   }
   .cosmos-studio .memory-subjects {
     grid-template-columns: minmax(0, 1fr);
   }
   .cosmos-studio .background-grid {
     grid-template-columns: minmax(0, 1fr);
-    gap: 22px;
+    gap: 24px;
   }
   .cosmos-studio .background-info {
     padding: 24px;
   }
   .cosmos-studio .unreal-note {
-    padding: 22px;
+    padding: 24px;
     align-items: flex-start;
-    gap: 14px;
+    gap: 12px;
   }
   .cosmos-studio .progress-space .study-report-metrics {
     gap: 12px;
   }
   .cosmos-studio .progress-space .study-report-metrics > div {
     min-height: 128px;
-    padding: 22px 17px;
+    padding: 24px 16px;
   }
   .cosmos-studio .progress-space .study-report-metrics strong {
-    font-size: calc(27px * var(--text-scale, 1));
+    font-size: calc(24px * var(--text-scale, 1));
   }
 }
 @media (max-width: 370px) {
@@ -978,7 +978,7 @@ html:is([data-quality='low'], [data-quality='static'], [data-glow='off'])
 .studio-room-wide .studio-chat-scroll {
   height: clamp(520px, calc(100vh - 280px), 1100px);
   min-height: 520px;
-  padding: 26px clamp(20px, 3vw, 48px);
+  padding: 24px clamp(16px, 3vw, 32px);
 }
 .studio-room-wide .studio-message.assistant {
   max-width: 1240px;
@@ -988,8 +988,8 @@ html:is([data-quality='low'], [data-quality='static'], [data-glow='off'])
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 7px 20px;
-  padding: 12px 25px;
+  gap: 8px 16px;
+  padding: 12px 24px;
   background: #21172c;
   border-bottom: 1px solid #bb9afa22;
 }
@@ -1003,15 +1003,15 @@ html:is([data-quality='low'], [data-quality='static'], [data-glow='off'])
 }
 .studio-chat-current small {
   margin-left: auto;
-  font-size: 10px;
+  font-size: 12px;
   color: #a99ab9;
 }
 .sheet-open-button {
   display: inline-flex;
   align-items: center;
-  gap: 7px;
-  padding: 8px 11px;
-  border-radius: 9px;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 10px;
   border: 1px solid #aa86eb66;
   background: #362348;
   color: #e4d1ff;
@@ -1021,16 +1021,16 @@ html:is([data-quality='low'], [data-quality='static'], [data-glow='off'])
 .studio-room-wide .studio-scroll-bottom {
   position: static;
   align-self: center;
-  margin: 5px;
+  margin: 4px;
 }
 @media (max-width: 780px) {
   .studio-room-wide .studio-chat-scroll {
     min-height: 480px;
     height: 68vh;
-    padding: 18px 14px;
+    padding: 16px 12px;
   }
   .studio-chat-current {
-    padding: 10px 14px;
+    padding: 8px 12px;
   }
   .studio-chat-current small {
     margin-left: 0;
@@ -1039,7 +1039,7 @@ html:is([data-quality='low'], [data-quality='static'], [data-glow='off'])
     flex-wrap: wrap;
   }
   .sheet-open-button {
-    font-size: 11px !important;
+    font-size: 12px !important;
   }
 }
 

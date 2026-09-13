@@ -8,7 +8,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 20px;
+  gap: 16px;
   flex-wrap: wrap;
   margin: 24px 0;
 }
@@ -23,16 +23,16 @@
 }
 .flow-disclosure {
   border: 1px solid var(--stroke);
-  border-radius: 13px;
+  border-radius: 14px;
   padding: 0;
   background: color-mix(in srgb, var(--surface) 95%, var(--accent));
-  margin-block: 13px;
+  margin-block: 12px;
   min-width: 0;
 }
 .flow-disclosure > summary {
   cursor: pointer;
-  padding: 14px 16px;
-  font-size: calc(13px * var(--text-scale, 1));
+  padding: 12px 16px;
+  font-size: calc(12px * var(--text-scale, 1));
   font-weight: 600;
   line-height: 1.45;
   color: var(--text);
@@ -49,38 +49,38 @@
 .flow-disclosure > summary:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: -3px;
-  border-radius: 11px;
+  border-radius: 10px;
 }
 .flow-reader-tabs {
   display: flex;
   align-items: center;
-  gap: 5px;
-  padding: 5px;
-  margin: 0 0 22px;
+  gap: 4px;
+  padding: 4px;
+  margin: 0 0 24px;
   background: color-mix(in srgb, var(--surface) 94%, var(--accent));
   border: 1px solid var(--stroke);
-  border-radius: 13px;
+  border-radius: 14px;
   overflow-x: auto;
 }
 .flow-reader-tabs button {
-  padding: 11px 17px;
+  padding: 12px 16px;
   white-space: nowrap;
   background: transparent;
   border: 0;
   color: var(--muted);
-  font-size: calc(13px * var(--text-scale, 1));
-  border-radius: 9px;
+  font-size: calc(12px * var(--text-scale, 1));
+  border-radius: 10px;
   cursor: pointer;
 }
 .flow-reader-tabs button.active {
   background: var(--accent-soft);
   color: var(--text);
-  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 35%, transparent);
+  box-shadow: var(--ui-shadow, 0 8px 24px #00000033);
 }
 .flow-settings-layout {
   display: grid;
   grid-template-columns: 217px minmax(0, 1fr);
-  gap: 28px;
+  gap: 24px;
   align-items: start;
 }
 .flow-settings-nav {
@@ -90,7 +90,7 @@
   padding: 8px 0;
 }
 .flow-settings-group {
-  margin-bottom: 21px;
+  margin-bottom: 24px;
   --flow-group: var(--accent);
 }
 .flow-settings-group.tone-cyan {
@@ -103,11 +103,11 @@
   display: flex;
   gap: 8px;
   align-items: center;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--flow-group);
-  padding: 5px 13px 9px;
+  padding: 4px 12px 8px;
 }
 .flow-settings-group > strong::before {
   content: '';
@@ -121,14 +121,14 @@
   width: 100%;
   text-align: left;
   border: 1px solid transparent;
-  border-radius: 11px;
+  border-radius: 10px;
   background: transparent;
   color: var(--muted);
-  padding: 11px 13px;
-  font-size: calc(13px * var(--text-scale, 1));
+  padding: 12px 12px;
+  font-size: calc(12px * var(--text-scale, 1));
   line-height: 1.4;
   cursor: pointer;
-  margin: 3px 0;
+  margin: 4px 0;
 }
 .flow-settings-group > button.active {
   color: var(--text);
@@ -145,7 +145,7 @@
 .flow-settings-content .flow-model-settings {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
-  gap: 17px;
+  gap: 16px;
 }
 .flow-settings-content .appearance-panel {
   grid-column: auto;
@@ -176,10 +176,10 @@
 .flow-source-filter {
   display: flex;
   align-items: center;
-  gap: 13px;
-  margin: 20px 0;
+  gap: 12px;
+  margin: 16px 0;
   color: var(--muted);
-  font-size: 13px;
+  font-size: 12px;
 }
 .flow-source-filter select {
   width: auto;
@@ -201,13 +201,13 @@
 .flow-document-create {
   display: block;
   max-width: 860px;
-  margin-bottom: 30px;
+  margin-bottom: 32px;
 }
 .flow-document-create .document-create-intro {
   display: flex;
   align-items: start;
-  gap: 14px;
-  margin-bottom: 23px;
+  gap: 12px;
+  margin-bottom: 24px;
 }
 .flow-document-create .document-create-intro h2 {
   margin-top: 0;
@@ -242,13 +242,13 @@
   background: var(--flow-subject);
 }
 .flow-document-create .document-session-note {
-  margin-top: 6px;
+  margin-top: 4px;
 }
 .flow-document-create .flow-disclosure {
   margin: 0;
 }
 .flow-document-create .flow-disclosure .two-inputs {
-  margin-block: 8px 17px;
+  margin-block: 8px 16px;
 }
 .flow-saved-document {
   position: relative;
@@ -270,7 +270,7 @@
   min-width: 0;
 }
 .flow-knowledge .knowledge-reader > h2 {
-  margin-bottom: 18px;
+  margin-bottom: 16px;
 }
 .flow-knowledge .knowledge-list {
   max-height: 68vh;
@@ -292,13 +292,13 @@
   padding: 0;
 }
 .flow-reader-next {
-  margin: 17px 0;
+  margin: 16px 0;
 }
 .flow-knowledge .knowledge-mistakes p {
   margin-inline: 16px;
 }
 .flow-knowledge .knowledge-reader > .button.primary {
-  margin-top: 20px;
+  margin-top: 16px;
 }
 .flow-library-picker {
   display: none;
@@ -306,7 +306,7 @@
 .flow-homework .homework-layout {
   display: flex;
   flex-direction: column;
-  gap: 18px;
+  gap: 16px;
 }
 .flow-homework-archive {
   width: 100%;
@@ -320,13 +320,13 @@
 .flow-homework-archive > summary::after {
   content: '⌄';
   color: var(--muted);
-  font-size: 18px;
+  font-size: 16px;
   margin-left: 12px;
 }
 .flow-homework-archive > summary > span {
   margin-left: auto;
   color: var(--muted);
-  font-size: 11px;
+  font-size: 12px;
 }
 .flow-homework .homework-current {
   width: 100%;
@@ -336,7 +336,7 @@
 .flow-homework .homework-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
-  gap: 10px;
+  gap: 8px;
   max-height: 420px;
   overflow: auto;
   position: static;
@@ -347,7 +347,7 @@
 @media (max-width: 1050px) {
   .flow-settings-layout {
     grid-template-columns: 178px minmax(0, 1fr);
-    gap: 18px;
+    gap: 16px;
   }
   .flow-settings-content .sources-grid {
     grid-template-columns: minmax(0, 1fr);
@@ -362,36 +362,36 @@
 @media (max-width: 760px) {
   .flow-settings-layout {
     grid-template-columns: minmax(0, 1fr);
-    gap: 14px;
+    gap: 12px;
   }
   .flow-settings-nav {
     position: static;
     display: flex;
     gap: 12px;
     overflow: auto;
-    padding-bottom: 9px;
+    padding-bottom: 8px;
   }
   .flow-settings-group {
     margin: 0;
     min-width: 170px;
     flex: 1;
-    padding: 6px;
+    padding: 4px;
     border: 1px solid color-mix(in srgb, var(--flow-group) 20%, transparent);
-    border-radius: 13px;
+    border-radius: 14px;
   }
   .flow-settings-group > button {
-    padding: 9px;
+    padding: 8px;
     font-size: 12px;
   }
   .flow-settings-group > strong {
-    padding-left: 9px;
+    padding-left: 8px;
   }
   .flow-knowledge .knowledge-layout {
     display: block;
   }
   .flow-library-picker {
     display: inline-flex;
-    margin-bottom: 15px;
+    margin-bottom: 16px;
   }
   .flow-knowledge .knowledge-layout .knowledge-list {
     display: none;
@@ -405,16 +405,16 @@
   }
   .flow-reader-tabs button {
     flex: 1;
-    padding-inline: 10px;
+    padding-inline: 8px;
     font-size: 12px;
   }
   .flow-reader-tabs {
-    gap: 1px;
+    gap: 4px;
   }
   .flow-source-filter {
     align-items: stretch;
     flex-direction: column;
-    gap: 7px;
+    gap: 8px;
   }
   .flow-document-create .two-inputs {
     grid-template-columns: 1fr;
