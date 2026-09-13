@@ -120,4 +120,7 @@ html .cosmos-studio.cosmos-studio {
 @media (max-width: 800px) {
   .cosmos-studio .studio-page { margin-top: 60px !important; }
   .cosmos-studio .studio-streak { display: flex; }
+  .cosmos-studio .studio-sidebar { transition: none; visibility: hidden; pointer-events: none; }
+  .cosmos-studio .studio-sidebar.open { transform: none; visibility: visible; pointer-events: auto; }
+  .cosmos-studio .studio-sidebar-shade:active { transform: none; }
 }

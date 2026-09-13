@@ -80,7 +80,7 @@ export function StudioNavigation({
           onClick={() => setOpen(false)}
         />
       )}
-      <aside className={`studio-sidebar ${open ? 'open' : ''}`}>
+      <aside id="studio-sidebar" className={`studio-sidebar ${open ? 'open' : ''}`}>
         <button
           className="studio-brand"
           onClick={() => (schoolMode ? onSchoolView?.('today') : go('home'))}
@@ -214,7 +214,9 @@ export function StudioNavigation({
         <button
           className="icon-button studio-menu"
           aria-label="Открыть меню"
-          onClick={() => setOpen(!open)}
+          aria-controls="studio-sidebar"
+          aria-expanded={open}
+          onClick={() => setOpen(value => !value)}
         >
           <Menu size={21} />
         </button>
