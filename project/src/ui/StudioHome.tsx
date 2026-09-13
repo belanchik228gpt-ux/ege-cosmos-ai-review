@@ -32,10 +32,8 @@ export function StudioHome({
   onDocument,
   onCheckin,
   onMinutes,
-  onSettings,
 }: {
   state: LearningState;
-  onSettings: (s: Partial<LearningState['settings']>) => void;
   onRoom: (s: SubjectId) => void;
   onContinue: (id: string) => void;
   onStart: () => void;

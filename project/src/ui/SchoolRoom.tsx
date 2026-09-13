@@ -1,5 +1,4 @@
 import { LessonHeading } from './LessonHeading';
-import { InfoTip } from './InfoTip';
 import { CivicsTermDeck } from './CivicsTermDeck';
 import { LearningPlan } from './LearningPlan';
 import { currentLearningPosition, learningSheets } from '../domain/learning-position';

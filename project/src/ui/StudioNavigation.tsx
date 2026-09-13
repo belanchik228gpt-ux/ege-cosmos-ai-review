@@ -13,12 +13,10 @@ import {
   Orbit,
   Search,
   Settings2,
-  ShieldCheck,
   Sigma,
   Sparkles,
   Telescope,
   TrendingUp,
-  X,
 } from 'lucide-react';
 import { subjects, type SubjectId } from '../domain';
 import type { Page } from './App';

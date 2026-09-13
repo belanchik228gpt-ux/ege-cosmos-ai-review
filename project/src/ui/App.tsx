@@ -802,7 +802,6 @@ export function App() {
               {page === 'home' && (
                 <StudioHome
                   state={state}
-                  onSettings={(patch) => setState(s => ({ ...s, settings: { ...s.settings, ...patch } }))}
                   onRoom={openRoom}
                   onContinue={continueCloud}
                   onStart={() => startDay()}
