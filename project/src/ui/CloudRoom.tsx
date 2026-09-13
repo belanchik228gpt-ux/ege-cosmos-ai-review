@@ -1,3 +1,5 @@
+import { LessonHeading } from './LessonHeading';
+import { InfoTip } from './InfoTip';
 import { CivicsTermDeck } from './CivicsTermDeck';
 import { AnswerReview } from './AnswerReview';
 import { cleanAnswerReview } from '../domain/answer-review';
@@ -678,7 +680,7 @@ export function CloudRoom({
           <aside className="studio-lesson-aside">
             <div className="studio-card studio-route">
               <span className="studio-eyebrow">СЕЙЧАС ИЗУЧАЕМ</span>
-              <h2>{lesson.title}</h2>
+              <LessonHeading title={lesson.title} />
               <span className="studio-tag">
                 <Clock3 size={14} />
                 {lesson.minutes} минут · {modes[lesson.mode]}
@@ -787,7 +789,7 @@ export function CloudRoom({
             </header>
             {wide && (
               <div className="studio-chat-current">
-                <strong>{lesson.title}</strong>
+                <LessonHeading title={lesson.title} />
                 {!position && <span>{cloudPhaseNames[lesson.phase]}</span>}
               </div>
             )}
@@ -1146,7 +1148,7 @@ export function CloudRoom({
                   >
                     <Mic size={19} />
                   </button>
-                  <span>Можно отвечать своими словами</span>
+                  <span>Enter — отправить, Shift+Enter — новая строка</span>
                   {busy ? (
                     <button
                       className="studio-send"
@@ -1168,9 +1170,7 @@ export function CloudRoom({
                   )}
                 </div>
               </form>
-              <p className="studio-composer-note">
-                Cosmos может ошибаться. Важные выводы проверяй по источникам темы.
-              </p>
+              <InfoTip text="Cosmos может ошибаться. Важные выводы проверяй по источникам темы." />
             </div>
           </div>
         </div>

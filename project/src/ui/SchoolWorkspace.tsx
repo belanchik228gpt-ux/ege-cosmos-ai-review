@@ -528,7 +528,7 @@ export function SchoolWorkspace({
                         </button>
                         {(openUnit === u.id || !!query.trim()) && (
                           <div className="school-topic-content">
-                            <p>{u.intro}</p>
+                            <TutorMarkdown text={u.intro} />
                             <div className="school-actions">
                               <button className="button primary" onClick={() => start(u)}>
                                 Изучать раздел

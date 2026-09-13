@@ -1,3 +1,4 @@
+import { TutorMarkdown } from './TutorMarkdown';
 import { useEffect, useState } from 'react';
 import { ArrowRight, BookOpen, Check, CircleHelp, Library, Search, Sparkles } from 'lucide-react';
 import { subjects, topics, type SubjectId } from '../domain';
@@ -147,7 +148,7 @@ export function KnowledgeLibrary({
                     <p key={i}>{text}</p>
                   ))}
                 </div>
-                {card.formula && <div className="knowledge-formula">{card.formula}</div>}
+                {card.formula && <div className="knowledge-formula"><TutorMarkdown text={card.formula} /></div>}
                 <details className="flow-disclosure knowledge-mistakes">
                   <summary>Где легко ошибиться</summary>
                   {card.mistakes.map((mistake, i) => (

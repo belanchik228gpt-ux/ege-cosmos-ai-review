@@ -1,3 +1,4 @@
+import { TutorMarkdown } from './TutorMarkdown';
 import { useEffect, useMemo, useRef, useState, type KeyboardEvent } from 'react';
 import {
   ArrowLeft,
@@ -194,7 +195,7 @@ function BoardPlayer({
           <MessageCircle size={24} />
           <div>
             <span className="sb-label">Твой вопрос</span>
-            <h2>{model.question}</h2>
+            <h2><TutorMarkdown text={model.question} inline /></h2>
           </div>
         </div>
         <p className="board-guidance sb-guidance">

@@ -1,3 +1,5 @@
+import { LessonHeading } from './LessonHeading';
+import { InfoTip } from './InfoTip';
 import { CivicsTermDeck } from './CivicsTermDeck';
 import { LearningPlan } from './LearningPlan';
 import { currentLearningPosition, learningSheets } from '../domain/learning-position';
@@ -7,6 +9,8 @@ import { cleanAnswerReview } from '../domain/answer-review';
 import { useEffect, useMemo, useRef, useState, type Dispatch, type SetStateAction } from 'react';
 import {
   ArrowLeft,
+  Check,
+  CircleHelp,
   BookOpen,
   FileText,
   ImagePlus,
@@ -449,7 +453,7 @@ export function SchoolRoom({
           Конспект
         </button>
       </div>
-      <h1>{lesson.title}</h1>
+      <LessonHeading title={lesson.title} />
       {lesson.assignment && (
         <details className="homework-original school-panel">
           <summary>Исходное условие · всегда под рукой</summary>
@@ -463,8 +467,8 @@ export function SchoolRoom({
       {!position && (
         <div className="school-stages" aria-label="Этап занятия">
           {Object.entries(cloudPhaseNames).map(([key, label], index) => (
-            <span key={key} className={lesson.phase === key ? 'current' : ''}>
-              <i>{index + 1}</i>
+            <span key={key} className={lesson.phase === key ? 'current' : index < Object.keys(cloudPhaseNames).indexOf(lesson.phase) ? 'past' : ''}>
+              <i>{index < Object.keys(cloudPhaseNames).indexOf(lesson.phase) ? <Check size={14} /> : index + 1}</i>
               {label}
             </span>
           ))}
@@ -486,7 +490,7 @@ export function SchoolRoom({
                   ? 'Разберём твоё задание шаг за шагом'
                   : 'Начнём с того, что тебе уже знакомо'}
               </h2>
-              <p>{material.intro}</p>
+              <TutorMarkdown text={material.intro} />
               <div className="school-actions">
                 <button
                   className="button primary"
@@ -597,7 +601,7 @@ export function SchoolRoom({
             </div>
           )}
           <details className="school-help-menu">
-            <summary>Нужна подсказка?</summary>
+            <summary aria-label="Подсказки" title="Подсказки"><CircleHelp size={20} /></summary>
             <div className="school-actions school-help">
               {[
                 'Объясни этот шаг на простом примере',
@@ -711,11 +715,7 @@ export function SchoolRoom({
             </div>
           </form>
           <small className="school-muted">
-            {ai.status.authenticated === true
-              ? 'Диалог с OpenAI · Enter — отправить, Shift + Enter — новая строка'
-              : lesson.assignment
-                ? 'Условие и лист сохранены на компьютере. Для пошагового диалога подключи OpenAI.'
-                : 'Учебная карточка доступна без подключения. Для диалога подключи OpenAI.'}
+            Enter — отправить, Shift+Enter — новая строка
           </small>
         </div>
       </div>

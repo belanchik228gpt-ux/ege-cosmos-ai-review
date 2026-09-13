@@ -3,19 +3,21 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import 'katex/dist/katex.min.css';
 
-export function TutorMarkdown({ text }: { text: string }) {
+export function TutorMarkdown({ text, inline = false }: { text: string; inline?: boolean }) {
   const normalized = text
     .replace(/\\\[([\s\S]*?)\\\]/g, (_, m) => '\n$$\n' + m + '\n$$\n')
     .replace(/\\\(([\s\S]*?)\\\)/g, (_, m) => `$${m}$`);
+  const Container = inline ? 'span' : 'div';
   return (
-    <div className="tutor-markdown">
+    <Container className="tutor-markdown">
       <Markdown
         skipHtml
-        remarkPlugins={[remarkMath]}
+        remarkPlugins={[[remarkMath, { singleDollarTextMath: true }]]}
         rehypePlugins={[
           [rehypeKatex, { trust: false, throwOnError: false, strict: 'ignore', maxExpand: 1000 }],
         ]}
         components={{
+          ...(inline ? { p: ({ children }: { children?: React.ReactNode }) => <span>{children}</span> } : {}),
           img: () => null,
           a: ({ href, children }) => (
             <a
@@ -30,6 +32,6 @@ export function TutorMarkdown({ text }: { text: string }) {
       >
         {normalized}
       </Markdown>
-    </div>
+    </Container>
   );
 }

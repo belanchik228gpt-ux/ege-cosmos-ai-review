@@ -1,3 +1,4 @@
+import { Check } from 'lucide-react';
 import type { LearningStep } from '../domain/cloud-learning';
 import { TutorMarkdown } from './TutorMarkdown';
 import './learning-plan.css';
@@ -38,9 +39,9 @@ export function LearningPlan({ step }: { step: LearningStep }) {
         </div>
         <div>
           <ol>
-            {step.plan.map((item) => (
+            {step.plan.map((item, i) => (
               <li className={item.status} key={item.id}>
-                <span>{item.status === 'done' ? '✓' : item.status === 'current' ? '→' : '○'}</span>{' '}
+                <span>{item.status === 'done' ? <Check size={14} /> : i + 1}</span>{' '}
                 <TutorMarkdown text={item.title} />
               </li>
             ))}
